@@ -1,5 +1,5 @@
 
-### Ancestry - Heritage
+### Character Details
 #### Embeds
 <iframe src="https://2e.aonprd.com/Ancestries.aspx?ID=84" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 4 / 3;"></iframe>
 <iframe src="https://2e.aonprd.com/Heritages.aspx?ID=363" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 4 / 3;"></iframe>
@@ -15,3 +15,7 @@ Others Probably Reflection...
 - Don't realize your true nature as a copy.
 - Expect you to be plotting a nefarious fate for your progenitor.
 - Are wary of or intrigued by your unusual abilities.
+Others Probably Thaumaturge...
+- Look to you to learn the weaknesses of a supernatural threat when one rears its head. Even when your explanations are invented on the fly, they just seem to work.
+- Rely on you to come up with a solution when the situation seems hopeless.
+- Mistake you for a common wizard or magician.
