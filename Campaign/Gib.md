@@ -7,7 +7,7 @@
 <iframe src="https://docs.google.com/document/d/11ypjWEyRepIotZblwsKx9aMAXaLq4HCGFzPla1cvMj0/edit?tab=t.0" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 4 / 3;"></iframe>
 
 #### General Details
-##### Roleplay
+##### Book-text Roleplay
 Others Probably Tripkee...
 - Trust in your impartial, measured approach to understanding situations and solving problems.
 - Give you space, fearing that touching you would prove toxic.
@@ -19,3 +19,8 @@ Others Probably Thaumaturge...
 - Look to you to learn the weaknesses of a supernatural threat when one rears its head. Even when your explanations are invented on the fly, they just seem to work.
 - Rely on you to come up with a solution when the situation seems hopeless.
 - Mistake you for a common wizard or magician.
+
+##### Anecdotal Details
+- Left-handed
+- No reflection (for right now)
+- 
