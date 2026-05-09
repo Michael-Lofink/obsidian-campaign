@@ -1,0 +1,1 @@
+Areas in shadow or lit by weak light sources are in dim light. Creatures and objects in dim light have the [[Concealed|concealed]] condition, unless the seeker has [[darkvision]] or [[low-light vision]], or a [[precise sense]] other than vision. 

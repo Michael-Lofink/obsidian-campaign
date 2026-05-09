@@ -1,0 +1,1 @@
+You can see in [[dim light]] as though it were [[bright light]], so you ignore the [[concealed]] condition due to [[Dim Light|dim light]].

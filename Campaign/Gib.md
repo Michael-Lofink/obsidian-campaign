@@ -23,4 +23,14 @@ Others Probably Thaumaturge...
 ##### Anecdotal Details
 - Left-handed
 - No reflection (for right now)
-- 
+- Perception Filter around back / non-existent
+- Paranoid
+
+### Mechanic Details
+Thaumaturge 1
+Tripkee, Snaptongue, Reflection
+#### Features
+##### [Low-Light Vision](https://2e.aonprd.com/Rules.aspx?ID=416)
+You can see in [dim light](https://2e.aonprd.com/Rules.aspx?ID=408) as though it were [bright light](https://2e.aonprd.com/Rules.aspx?ID=407), so you ignore the [concealed](https://2e.aonprd.com/Conditions.aspx?ID=62) condition due to dim light.
+##### Natural Climber
+You gain a +2 circumstance bonus to [Athletics](https://2e.aonprd.com/Skills.aspx?ID=36) checks to [Climb](https://2e.aonprd.com/Actions.aspx?ID=2374).
