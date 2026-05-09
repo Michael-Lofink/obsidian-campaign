@@ -10,6 +10,9 @@ Will +7 E
 Perception: +7 E
 Stealth: +3 U
 Thievery: +6 T
+
+Speed: 25 ft
+Size: Small
 ##### Recall Knowledge Skills
 Esoteric: +7 T
 Underworld: +3 T

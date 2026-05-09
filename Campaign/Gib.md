@@ -1,4 +1,3 @@
-
 ### Character Details
 #### Embeds
 <iframe src="https://2e.aonprd.com/Ancestries.aspx?ID=84" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 4 / 3;"></iframe>
@@ -30,7 +29,9 @@ Others Probably Thaumaturge...
 Thaumaturge 1
 Tripkee, Snaptongue, Reflection
 #### Features
-##### [Low-Light Vision](https://2e.aonprd.com/Rules.aspx?ID=416)
+##### Low-Light Vision
 You can see in [dim light](https://2e.aonprd.com/Rules.aspx?ID=408) as though it were [bright light](https://2e.aonprd.com/Rules.aspx?ID=407), so you ignore the [concealed](https://2e.aonprd.com/Conditions.aspx?ID=62) condition due to dim light.
 ##### Natural Climber
 You gain a +2 circumstance bonus to [Athletics](https://2e.aonprd.com/Skills.aspx?ID=36) checks to [Climb](https://2e.aonprd.com/Actions.aspx?ID=2374).
+##### Snaptongue Tripkee
+Your tongue is especially long, and you can launch it with extraordinary range and precision. You can use your tongue to deliver spells with a range of touch and perform extremely simple Interact actions, such as opening some types of unlocked doors. Your tongue can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.

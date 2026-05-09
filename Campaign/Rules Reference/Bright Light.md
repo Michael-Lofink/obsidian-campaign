@@ -1,1 +1,0 @@
-In bright light, such as sunlight, creatures and objects can be [[observed]] clearly by anyone with average vision or better.
