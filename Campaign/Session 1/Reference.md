@@ -1,4 +1,4 @@
-# [[Gib]]
+## Gib
 HP: 15
 AC: 16 T 
 Thaumaturge DC: 17 T
@@ -25,3 +25,5 @@ Religion: +5 T
 Common
 Tripkee
 Orcish(?)
+
+## 
