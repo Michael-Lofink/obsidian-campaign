@@ -76,3 +76,23 @@ You were created as a duplicate of another creature, intentionally or accidental
 
 
 ## Feats
+
+
+# Campaign Story
+Gib is currently best understood as:
+
+**Big’s reflected face, Sivanah’s immune response, Molak’s target-pattern, and his own emerging personhood.**
+
+He has no reflection because he is made from reflection-stuff. Mirrors do not know whether to display him, receive him, or report him back to Sivanah.
+
+His back does not exist, or cannot be properly perceived, because he was created from a front-facing reflection and separated before full embodiment. Symbolically, his front faces the mortal world, while his back still faces Sivanah.
+
+That is why people’s minds slide off the details of his back.
+
+That is why he feels pitiable rather than threatening.
+
+That is why strangers rationalize their discomfort as “maybe his skin is toxic.”
+
+That is why he is paranoid: he is psychologically traumatized, copied from Big, and also carrying immune-response instincts that tell him Molak is a lethal infection.
+
+His current life matters enormously. His locks, go-bag, emergency fund, labor job, coworkers, and fear of being found are not filler. They are the proof that he is living as an individual rather than merely performing a biological function. The notes about his paranoia, lack of reflection, nonexistent/perception-filtered back, and cautious social presence are all central clues rather than random traits.
