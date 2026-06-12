@@ -44,6 +44,9 @@ Hovel description:
 	Underneath the pile of straw you use as a pillow, the glimmer of a golden handle reflects due to the light peaking through the air-pockets in your daub walls,
 	The sound of chewing can be heard as your livestock: a chicken and a cow; are finishing off your reserves of hay food*
 
+Exit Scene:
+	*You push through the makeshift door to your hovel and the light of day beams in to your eyes. Traveling the same path you've traveled every day over this last year, passing friendly faces and those faces less than friendly, you make your way to the 'Day Laborer's Association' work tent*
+
 Gib goes to day labor job
 does day labor minigame
 gets task to do work for blacksmith
