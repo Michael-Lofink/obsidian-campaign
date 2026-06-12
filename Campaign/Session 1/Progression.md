@@ -5,11 +5,7 @@ N/A
 ### Molak on the hunt
 Song: N/A
 ??? (Molak) (our perspective) 
-You stand in a front of a mirror at a water basin, water trickles and mixes with your blood drenched hands. In your reflection, a spat of blood draws down your cheek, following your jawline, culminating in a thick viscous droplet on your chin being pulled down to the earth.
-
-The smell of fresh iron in the air fills your nostrils, and it is good.
-
-"Please, please, listen to us, hear our voice, hear us, listen. The boy. The boy, he is near. Find him, find us, hear us, listen" -- dread pulls down at the cloth of your pant. 
+Rework to in media res -- Molak dispatching a town
 
 ### Town intro
 Song: Bastora by Jay Ragsdale
@@ -24,10 +20,11 @@ a halfling with a welt on his head is sheepishly apologizing for nabbing produce
 As we push through the town-center, toward the outskirt-ed ghetto
 we escape the stone-carved foundations under wooden frame inlaid with timber 
 and find homes more scattered, but populous more abundant, 
-using makeshift daub (a mixture of mud, dirt and straw) and surrounding environment to construct hovels shared by many,
+using makeshift daub (a mixture of mud, dirt and straw) and surrounding environment to construct hovels shared by many, 
+
 people down on their luck gather with those other less fortunate
 
-And finally we see a nondescript figure quickly approaching a daub-built hut with slanted thatch roofing built upon a large stone in the field. 
+And finally we see a nondescript figure quickly approaching a daub-built hut with slanted thatch roofing built against a large stone in the field. 
 
 And as the figure makes it to the door--
 
@@ -44,7 +41,7 @@ Memory:
 Hovel description: 
 	*The floor is made of dirt, your bedding a cheap thatch blanket on the floor, 
 	Your studio hut is littered with nicks and knacks that to the outside viewer would look disorganized, but you know better than that: these are your treasures that you've carefully strewn about, 
-	Underneath the pile of straw you use as a pillow the glimmer of a golden handle reflects from the light peaking through the air-pockets in your daub walls,
+	Underneath the pile of straw you use as a pillow, the glimmer of a golden handle reflects due to the light peaking through the air-pockets in your daub walls,
 	The sound of chewing can be heard as your livestock: a chicken and a cow; are finishing off your reserves of hay food*
 
 Gib goes to day labor job
