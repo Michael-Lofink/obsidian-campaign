@@ -1,0 +1,1326 @@
+[
+  {
+    "count": "1",
+    "title": "Backpack",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_end_trait_section",
+      "property | Price | 1 sp | ITEM 0 |",
+      "property | Bulk | --- |",
+      "ruler",
+      "text | A backpack holds up to 4 Bulk of items, and the first 2 Bulk of these items don't count against your Bulk limits. If you're carrying or stowing the pack rather than wearing it on your back, its Bulk is light instead of negligible."
+    ],
+    "tags": [],
+    "color": "",
+    "title_size": "16",
+    "icon": "expense",
+    "icon_back": "expense",
+    "card_font_size": "9",
+    "page_width": "210mm",
+    "page_height": "297mm",
+    "card_width": "2.5in",
+    "card_height": "3.5in"
+  },
+  {
+    "count": "1",
+    "title": "Healer's Tools",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Item 0",
+      "p2e_end_trait_section",
+      "property | Price| 5 gp | Bulk | 1",
+      "ruler",
+      "text | This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds. If you wear your healer's tools, you can draw and replace them as part of the action that uses them.",
+      "text | You can use a set of tools with 1 hand if you're wearing them or 2 if you're holding them."
+    ],
+    "tags": [],
+    "color": "",
+    "title_size": "16",
+    "icon": "swap-bag",
+    "icon_back": "swap-bag",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Grappling Hook",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Item 0",
+      "p2e_end_trait_section",
+      "property | Price| 1 sp | Bulk | L",
+      "ruler",
+      "text | You can throw a grappling hook with a rope tied to it to make a climb easier. To anchor a grappling hook, make an attack roll with the secret trait against a DC depending on the target, typically at least DC 20. On a success, your hook has a firm hold, but on a critical failure, the hook seems like it will hold but actually falls when you're partway up."
+    ],
+    "tags": [],
+    "color": "",
+    "title_size": "16",
+    "icon": "swap-bag",
+    "icon_back": "swap-bag",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Flint and Steel",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_end_trait_section",
+      "property | Price | 5 cp | ITEM | 0 |",
+      "property | Hands | 2 | Bulk | --- |",
+      "ruler",
+      "text | Flint and steel are useful in creating a fire if you have the time to catch a spark, though using them is typically too time-consuming to be practical during an encounter. Even in ideal conditions, using flint and steel to light a flame requires using at least 3 actions, and often significantly longer.",
+      "",
+      ""
+    ],
+    "tags": [],
+    "color": "",
+    "title_size": "16",
+    "icon": "expense",
+    "icon_back": "expense",
+    "card_font_size": "9",
+    "page_width": "210mm",
+    "page_height": "297mm",
+    "card_width": "2.5in",
+    "card_height": "3.5in"
+  },
+  {
+    "count": "1",
+    "title": "Torch",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_end_trait_section",
+      "property | Price | 1 cp | ITEM | 0 |",
+      "property | Hands | 1 | Bulk | L |",
+      "ruler",
+      "text | A torch sheds bright light in a 20-foot radius (and dim light to the next 20 feet) for 1 hour. It can be used as an improvised weapon that deals 1d4 bludgeoning damage plus 1 fire damage.",
+      "ruler",
+      "property | Bright Light | creatures and objects can be observed clearly by anyone with average vision or better.",
+      "property | Dim Light | Creatures and objects in dim light have the concealed condition, unless the seeker has darkvision or low-light vision (see page 433), or a precise sense other than vision.",
+      ""
+    ],
+    "tags": [],
+    "color": "",
+    "title_size": "16",
+    "icon": "expense",
+    "icon_back": "expense",
+    "card_font_size": "9",
+    "page_width": "210mm",
+    "page_height": "297mm",
+    "card_width": "2.5in",
+    "card_height": "3.5in"
+  },
+  {
+    "count": "1",
+    "title": "Waterskin",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_end_trait_section",
+      "property | Price | 5 cp | ITEM | 0 |",
+      "property | Hands | 1 | Bulk | L |",
+      "ruler",
+      "text | When it's full, a waterskin contains roughly 1 day's worth of water for a Small or Medium creature.",
+      ""
+    ],
+    "tags": [],
+    "color": "",
+    "title_size": "16",
+    "icon": "expense",
+    "icon_back": "expense",
+    "card_font_size": "9",
+    "page_width": "210mm",
+    "page_height": "297mm",
+    "card_width": "2.5in",
+    "card_height": "3.5in"
+  },
+  {
+    "count": "1",
+    "title": "Piton",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_end_trait_section",
+      "property | Price | 1 cp | ITEM | 0 |",
+      "property | Hands | 1 | Bulk | --- |",
+      "ruler",
+      "text | These small spikes can be used as anchors to make climbing easier. To affix a piton, you must hold it in one hand and use a hammer to drive it in with your other hand. You can attach a rope to the hammered piton so that you don't fall all the way to the ground on a critical failure while Climbing."
+    ],
+    "tags": [],
+    "color": "",
+    "title_size": "16",
+    "icon": "expense",
+    "icon_back": "expense",
+    "card_font_size": "9",
+    "page_width": "210mm",
+    "page_height": "297mm",
+    "card_width": "2.5in",
+    "card_height": "3.5in"
+  },
+  {
+    "count": "1",
+    "title": "Climbing Kit",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_end_trait_section",
+      "property | Price | 5 sp | ITEM | 0 |",
+      "property | Hands | 2 | Bulk | 1 |",
+      "ruler",
+      "text | Climbing kits allow you to attach yourself to the wall you're Climbing, moving half as quickly as usual (minimum 5 feet) but letting you attempt a DC 5 flat check whenever you critically fail to prevent a fall. A single kit has only enough materials for one climber; each climber needs their own kit. If you wear your climbing kit, you can access it as part of a Climb action.",
+      ""
+    ],
+    "tags": [],
+    "color": "",
+    "title_size": "16",
+    "icon": "expense",
+    "icon_back": "expense",
+    "card_font_size": "9",
+    "page_width": "210mm",
+    "page_height": "297mm",
+    "card_width": "2.5in",
+    "card_height": "3.5in"
+  },
+  {
+    "count": "1",
+    "title": "Smoke Ball (Lesser)",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Alchemical",
+      "p2e_trait | common | Consumable",
+      "p2e_end_trait_section",
+      "property | Usage | Held in 2 hands | ITEM | 1+ |",
+      "p2e_activity | Activate| 1 | (manipulate) |",
+      "property | Bulk | L |",
+      "ruler",
+      "text | Upon smashing this ball on the ground, you instantly create a screen of thick, opaque smoke in a burst centered on one corner of your space. All creatures within that area are concealed, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.",
+      "ruler",
+      "text | The radius of the burst is 5 feet."
+    ],
+    "tags": [],
+    "color": "",
+    "title_size": "15",
+    "icon": "expense",
+    "icon_back": "expense",
+    "card_font_size": "9",
+    "page_width": "210mm",
+    "page_height": "297mm",
+    "card_width": "2.5in",
+    "card_height": "3.5in"
+  },
+  {
+    "count": "1",
+    "title": "Crane Stance",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Monk",
+      "p2e_trait | common | Stance",
+      "p2e_end_trait_section",
+      "",
+      "property | Requirements | You are unarmed",
+      "ruler",
+      "text| You enter the stance of a crane, holding your arms in an imitation of a crane’s wings and using flowing, defensive motions. You gain a +1 circumstance bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits.",
+      "",
+      "text | While in Crane Stance, reduce the DC for High Jump and Long Jump by 5, and when you Leap, you can move an additional 5 feet horizontally or 2 feet vertically.",
+      "ruler",
+      "property | Stance | A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can’t take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance."
+    ],
+    "tags": [],
+    "color": "Chocolate",
+    "icon": "p2e-1-action",
+    "icon_back": "monk-face",
+    "title_size": "13",
+    "card_font_size": "9"
+  },
+  {
+    "count": 1,
+    "title": "(P2e) Giant Rat (Creature-1)",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | alignment | N",
+      "p2e_trait | size | Small",
+      "p2e_trait | common | Animal",
+      "p2e_end_trait_section",
+      "property | Perception | +5; Low-light vision, scent (imprecise) 30 feet",
+      "property | Skills | Acrobatics +5, Atlethics +2 (+4 climb/swim), Stealth +5",
+      "p2e_stats | +1 | +3 | +2 | -4 | +1 | -3 | 15 | +6 | +7 | +3 | 8",
+      "p2e_ruler",
+      "p2e_activity | Stride | 1 | 30 feet, Climb 10 feet ",
+      "fill | 1",
+      "p2e_activity | Melee | 1 | Jaws +7 (agile, finesse). Damage 1d6+1 piercing plus filth fever",
+      "fill | 1",
+      "property | Filth Fever| (disease) The sickened and unconscious conditions from filth fever don’t improve on their own until the disease is cured. Saving Throw DC 14 Fortitude.",
+      "bullet | Stage 1: carrier with no ill effect (1d4 hours)",
+      "bullet | Stage 2 sickened 1 (1 day)",
+      "bullet | Stage 3 sickened 1 and slowed 1 (1 day)",
+      "bullet | Stage 4 unconscious (1 day)",
+      "bullet | Stage 5 dead",
+      "",
+      "fill | 1"
+    ],
+    "tags": [],
+    "color": "Crimson",
+    "icon_back": "monster-grasp",
+    "icon": "rat",
+    "card_font_size": "9",
+    "title_size": "11"
+  },
+  {
+    "count": "1",
+    "title": "Flurry of Blows",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Flourish",
+      "p2e_trait | common | Monk",
+      "p2e_end_trait_section",
+      "text| Make two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to the Strikes normally. As it has the flourish trait, you can use Flurry of Blows only once per turn.",
+      "ruler",
+      "property | Flourish | Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn."
+    ],
+    "tags": [],
+    "color": "Chocolate",
+    "icon": "p2e-1-action",
+    "icon_back": "monk-face",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Powerful Fist",
+    "contents": [
+      "text| You know how to wield your fists as deadly weapons. The damage die for your fist increases to 1d6 instead of 1d4. Most people take a –2 circumstance penalty when making a lethal attack with nonlethal unarmed attacks, because they find it hard to use their fists with deadly force. You don’t take this penalty when making a lethal attack with your fist or any other unarmed attacks.",
+      ""
+    ],
+    "tags": [],
+    "color": "Chocolate",
+    "icon": "monk-face",
+    "icon_back": "monk-face",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Bend Time",
+    "contents": [
+      "p2e_start_trait_section",
+      "property | Frequency | once per day",
+      "property | Trigger | Your turn begins",
+      "p2e_end_trait_section",
+      "ruler",
+      "text | You are quickened this turn. You can use your extra action to Stride"
+    ],
+    "tags": [],
+    "color": "royalblue",
+    "icon": "p2e-free-action",
+    "icon_back": "backward-time",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Blunt Snout",
+    "contents": [
+      "text | Your small, blunt snout and labyrinthine sinus system make you resistant to phenomena that assail the nose. When you roll a saving throw against inhaled threats (such as inhaled poisons) and olfactory effects (such as xulgath stench), you get the outcome one degree of success better than the result of your roll.",
+      ""
+    ],
+    "tags": [],
+    "color": "OliveDrab",
+    "icon": "sitting-dog",
+    "icon_back": "sitting-dog",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Low-Light Vision",
+    "contents": [
+      "text | You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light.",
+      ""
+    ],
+    "tags": [],
+    "color": "OliveDrab",
+    "icon": "sitting-dog",
+    "icon_back": "sitting-dog",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Change Shape (Beastkin)",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Concentrate",
+      "p2e_trait | common | Polymorph",
+      "p2e_trait | common | Primal",
+      "p2e_trait | common | Transmutation",
+      "p2e_end_trait_section",
+      "text | You change into your humanoid or hybrid shape. Each shape has a specific, persistent appearance, and most beastkin remain in their hybrid shapes by default. In hybrid shape, you appear as a mix between your ancestry and your inherent animal. While in hybrid shape, you gain a jaws unarmed Strike resembling the features of your inherent animal (fangs for bats, beaks for eagles, mandibles for wasps, and so on). Your jaws deal 1d4 piercing damage, have the agile, finesse, and unarmed traits, and are in the brawling weapon group. In your humanoid shape, you retain the appearance of your original ancestry.",
+      ""
+    ],
+    "tags": [],
+    "color": "OliveDrab",
+    "icon": "sitting-dog",
+    "icon_back": "sitting-dog",
+    "title_size": "12",
+    "card_font_size": "11"
+  },
+  {
+    "count": "1",
+    "title": "Strike",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Attack",
+      "p2e_end_trait_section",
+      "text | You attack with a weapon you're wielding or with an unarmed attack, targeting one creature within your reach (for a melee attack) or within range (for a ranged attack). Roll an attack roll using the attack modifier for the weapon or unarmed attack you're using, and compare the result to the target creature's AC to determine the effect.",
+      "ruler",
+      "property | Critical Success | You make a damage roll according to the weapon or unarmed attack and deal double damage",
+      "property | Success | You make a damage roll according to the weapon or unarmed attack and deal damage.",
+      "ruler",
+      "property | Attack | An ability with this trait involves an attack. For each attack you make beyond the first on your turn, you take a multiple attack penalty."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "10"
+  },
+  {
+    "count": "1",
+    "title": "Feint",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Mental",
+      "p2e_end_trait_section",
+      "property | Requirements | You are within melee reach of the target you attempt to Feint.",
+      "ruler",
+      "text | With a misleading flourish, you leave an opponent unprepared for your real attack. Attempt a Deception check against your target's Perception DC.",
+      "ruler",
+      "property | Critical Success | You throw your enemy's defenses against you entirely off. The target is off-guard against melee attacks that you attempt against it until the end of your next turn.",
+      "property | Success | Your foe is fooled, but only momentarily. The target is off-guard against the next melee attack that you attempt against it before the end of your current turn.",
+      "property | Critical Failure | Your feint backfires. You are off-guard against melee attacks the target attempts against you until the end of your next turn."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "9"
+  },
+  {
+    "count": "1",
+    "title": "Escape",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Attack",
+      "p2e_end_trait_section",
+      "text | You attempt to escape from being grabbed, immobilized, or restrained. Attempt a check using your unarmed attack modifier against the DC of the effect. This is typically the Athletics DC of a creature grabbing you, the Thievery DC of a creature who tied you up, the spell DC for a spell effect, or the listed Escape DC of a hazard or other impediment. You can attempt an Acrobatics or Athletics check instead of using your attack modifier (but this action still has the attack trait).",
+      "ruler",
+      "property | Critical Success | As Success. You can then Stride up to 5 feet.",
+      "property | Success | You get free and remove the grabbed, immobilized, and restrained conditions imposed by your chosen target.",
+      "property | Critical Failure | You don't get free, and you can't attempt to Escape again until your next turn."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "10"
+  },
+  {
+    "count": "1",
+    "title": "Grapple",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Attack",
+      "p2e_end_trait_section",
+      "property | Requirements | You have at least one free hand and your target is no more than one size larger than you.",
+      "",
+      "text | Attempt an Athletics check against the target's Fortitude DC. You can Grapple a target you already have grabbed or restrained without having a hand free.",
+      "",
+      "property | Critical Success | As Success except restrained.",
+      "property | Success | Your target is grabbed until the end of your next turn unless you move or your target Escapes.",
+      "property | Failure | You fail to grab your target. If you already had the target grabbed or restrained using a Grapple, those conditions on the target end.",
+      "property | Critical Failure | As Failure, except your target can either grab you, as if it succeeded at using the Grapple action against you, or force you to land prone."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "10"
+  },
+  {
+    "count": "1",
+    "title": "Shove",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Attack",
+      "p2e_end_trait_section",
+      "property | Requirements | You have at least one free hand and your target is no more than one size larger than you.",
+      "ruler",
+      "text | You push a creature away from you. Attempt an Athletics check against your target's Fortitude DC.",
+      "ruler",
+      "property | Critical Success | As Success except 10 feet away.",
+      "property | Success | You push your target back 5 feet. You can Stride after it, but you must move the same distance and in the same direction.",
+      "property | Critical Failure | You lose your balance, fall, and land prone."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Trip",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Attack",
+      "p2e_end_trait_section",
+      "property | Requirements | You have at least one free hand and your target is no more than one size larger than you.",
+      "ruler",
+      "text | You try to knock a creature to the ground. Attempt an Athletics check against the target's Reflex DC.",
+      "ruler",
+      "property | Critical Success | As Success and target takes 1d6 bludgeoning dmg",
+      "property | Success | The target falls and lands prone.",
+      "property | Critical Failure | You lose your balance, fall, and land prone."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Disarm",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Attack",
+      "p2e_end_trait_section",
+      "property | Requirements | You have at least one free hand and your target is no more than one size larger than you.",
+      "ruler",
+      "text | You try to knock an item out of a creature's grasp. Attempt an Athletics check against the target's Reflex DC.",
+      "ruler",
+      "property | Critical Success | You knock the item out of the target's grasp. It falls to the ground in the target's space.",
+      "property | Success | You weaken your target's grasp on the item. Further attempts to Disarm the target of that item gain a +2 circumstance bonus, and the target takes a –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item. The creature can end the effect by Interacting to change its grip on the item; otherwise, it lasts as long as the creature holds the item.",
+      "property | Critical Failure | You lose your balance and become off-guard until the start of your next turn."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "9"
+  },
+  {
+    "count": "1",
+    "title": "Delay",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Attack",
+      "p2e_end_trait_section",
+      "property | Trigger | Your turn begins.",
+      "ruler",
+      "text | The rest of your turn doesn't happen yet. Instead, you're removed from the initiative order. You can return to the initiative order as a free action triggered by the end of any other creature's turn. This permanently changes your initiative to the new position. You can't use reactions until you return to the initiative order. If you Delay an entire round without returning to the initiative order, the actions from the Delayed turn are lost, your initiative doesn't change, and your next turn occurs at your original position in the initiative order.",
+      "",
+      "text | When you Delay, any persistent damage or other negative effects that normally occur at the start or end of your turn occur immediately when you use the Delay action. Any beneficial effects that would end at any point during your turn also end. The GM might determine that other effects end when you Delay as well."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-free-action",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "9"
+  },
+  {
+    "count": "1",
+    "title": "Ready",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Concentrate",
+      "p2e_end_trait_section",
+      "text | You prepare to use an action that will occur outside your turn. Choose a single action or free action you can use, and designate a trigger. Your turn then ends. If the trigger you designated occurs before the start of your next turn, <strong>you can use the chosen action as a reaction </strong>(provided you still meet the requirements to use it). You can't Ready a free action that already has a trigger.",
+      "",
+      "text | If you have a multiple attack penalty and your readied action is an attack action, your readied attack takes the multiple attack penalty you had at the time you used Ready. This is one of the few times the multiple attack penalty applies when it's not your turn."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-2-actions",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "inherit"
+  },
+  {
+    "count": "1",
+    "title": "Create a Diversion",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Mental",
+      "p2e_end_trait_section",
+      "text | With a gesture, a trick, or some distracting words, you can create a diversion that draws creatures' attention elsewhere. If you use a gesture or trick, this action gains the manipulate trait. If you use distracting words, it gains the auditory and linguistic traits.",
+      "text | Attempt a single Deception check and compare it to the Perception DCs of the creatures whose attention you're trying to divert. Whether or not you succeed, creatures you attempt to divert gain a +4 circumstance bonus to their Perception DCs against your attempts to Create a Diversion for 1 minute.",
+      "",
+      "property | Success | You become hidden to each creature whose Perception DC is less than or equal to your result. (The hidden condition allows you to Sneak away) This lasts until the end of your turn or until you do anything except Step or use the Stealth skill to Hide or Sneak. If you Strike a creature, the creature remains off-guard against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise.",
+      "property | Failure | You don't divert the attention of any creatures whose Perception DC exceeds your result, and those creatures are aware you were trying to trick them."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "8"
+  },
+  {
+    "count": "1",
+    "title": "Bon Mot",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Auditory",
+      "p2e_trait | common | Concentrate",
+      "p2e_trait | common | Emotion",
+      "p2e_trait | common | General",
+      "p2e_trait | common | Linguistic",
+      "p2e_trait | common | Mental",
+      "p2e_trait | common | Skill",
+      "p2e_end_trait_section",
+      "property | Prerequisites | trained in Diplomacy",
+      "ruler",
+      "text | You launch an insightful quip at a foe, distracting them. Choose a foe within 30 feet and roll a Diplomacy check against the target's Will DC. ",
+      "",
+      "property | Critical Success | The target is distracted and takes a –3 status penalty to Perception and Will saves for 1 minute. The target can end the effect early with a retort to your Bon Mot. This can either be a single action that has the concentrate trait or an appropriate skill action to frame their retort. The GM determines which skill actions qualify, though they must take at least 1 action. Typically, the retort needs to use a linguistic Charisma-based skill action.",
+      "property | Success | As critical success, but the penalty is –2.",
+      "property | Critical Failure | Your quip is atrocious. You take the same penalty an enemy would take had you succeeded. This ends after 1 minute or if you issue another Bon Mot and succeed."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "9"
+  },
+  {
+    "count": "1",
+    "title": "Demoralize",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Auditory",
+      "p2e_trait | common | Concentrate",
+      "p2e_trait | common | Emotion",
+      "p2e_trait | common | Fear",
+      "p2e_trait | common | Mental",
+      "p2e_end_trait_section",
+      "text | With a sudden shout, a well-timed taunt, or a cutting put-down, you can shake an enemy's resolve. Choose a creature within 30 feet of you who you're aware of. Attempt an Intimidation check against that target's Will DC. If the target doesn't understand the language you are speaking, or you're not speaking a language, you take a –4 circumstance penalty to the check. Regardless of your result, the target is temporarily immune to your attempts to Demoralize it for 10 minutes.",
+      "ruler",
+      "property | Critical Success | The target becomes frightened 2.",
+      "property | Success | The target becomes frightened 1."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "sword-clash",
+    "title_size": "12",
+    "card_font_size": "10"
+  },
+  {
+    "count": "1",
+    "title": "Recall Knowledge",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Concentrate",
+      "p2e_trait | common | Secret",
+      "p2e_end_trait_section",
+      "text | You attempt a skill check to try to remember a bit of knowledge regarding a topic related to that skill. Suggest which skill you'd like to use and ask the GM one question. The GM determines the DC. You might need to collaborate with the GM to narrow down the question or skills, and you can decide not to Recall Knowledge before committing to the action if you can't don't like your options.",
+      "ruler",
+      "property | Critical Success | You recall the knowledge accurately. The GM answers your question truthfully and either tells you additional information or context, or answers one followup question.",
+      "property | Success | You recall the knowledge accurately. The GM answers your question truthfully.",
+      "property | Critical Failure | You recall incorrect information. The GM answers your question falsely (or decides to give you no information, as on a failure)."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "notebook",
+    "title_size": "12",
+    "card_font_size": "9"
+  },
+  {
+    "count": "1",
+    "title": "Recall Knowledge Skills",
+    "contents": [
+      "text | <p style=\"font-size:7px\">Some topics might appear on multiple lists, but the skills could give different information. For example, Arcana might tell you about the magical defenses of a construct, whereas Crafting could tell you about its sturdy resistance to physical attacks.<br><strong>Arcana</strong>: Arcane theories, magical traditions, creatures of arcane significance, and arcane planes.<br><strong>Crafting</strong> Alchemical reactions and creatures, item value, engineering, unusual materials, and constructs. <br><strong>Lore:</strong> The subject of the Lore skill's subcategory. <br><strong>Medicine:</strong> Diseases, poisons, wounds, and forensics. <br><strong>Nature:</strong>The environment, flora, geography, weather, creatures of natural origin, and natural planes. <br><strong>Occultism:</strong> Ancient mysteries, folk superstition, obscure philosophy, creatures of occult significance, and esoteric planes. <br><strong>Religion:</strong> Divine agents, divine planes, theology, obscure myths, and creatures of religious significance. <br><strong>Society:</strong> Local history, key personalities, legal institutions, societal structure, and humanoid culture.<br>-- Using an applicable Lore to Recall Knowledge about a topic, such as Engineering Lore instead of Crafting to find structural weaknesses in a bridge, typically comes with a lower DC. In some cases, you can get the GM's permission to use a different but related skill, usually against a higher DC than normal. The GM might allow checks to Recall Knowledge using other skills. For example, you might assess the skill of an acrobat using Acrobatics. If you're using a physical skill (like in this example), the GM will most likely have you use a mental modifier—typically Intelligence—instead of the skill's normal physical attribute modifier.</p>"
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "notebook",
+    "icon_back": "notebook",
+    "title_size": "10",
+    "card_font_size": "8"
+  },
+  {
+    "count": "1",
+    "title": "Aid",
+    "contents": [
+      "property | Trigger | An ally is about to use an action that requires a skill check or attack roll.",
+      "property | Requirements | The ally is willing to accept your aid, and you have prepared to help (see below).",
+      "text | <strong>To use this reaction, you must first prepare to help</strong>, usually by using an action during your turn. You must explain to the GM exactly how you're trying to help, and they determine whether you can Aid your ally.<br>When you use your Aid reaction, attempt a skill check or attack roll of a type decided by the GM. The DC is 15, but the GM may adjust this DC for hard or easy tasks. The GM can add any relevant traits to your preparatory action / reaction depending on the situation, or even allow you to Aid checks other than skill checks and attack rolls.",
+      "property | C. S. | You grant your ally a +2 circumstance bonus to the triggering check. If you're a master with the check you attempted, the bonus is +3, and if you're legendary, it's +4.",
+      "property | S. | You grant your ally a +1 circumstance bonus to the triggering check.",
+      "property | C. F. | Your ally takes a –1 circumstance penalty to the triggering check."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-reaction",
+    "icon_back": "sword-clash",
+    "title_size": "13",
+    "card_font_size": "smaller"
+  },
+  {
+    "count": "1",
+    "title": "Take Cover",
+    "contents": [
+      "property | Requirements | You are benefiting from cover, are near a feature that allows you to take cover, or are prone.",
+      "ruler",
+      "text | You press yourself against a wall or duck behind an obstacle to take better advantage of cover. If you would have standard cover, you instead gain greater cover, which provides a +4 circumstance bonus to AC; to Reflex saves against area effects; and to Stealth checks to Hide, Sneak, or otherwise avoid detection. Otherwise, you gain the benefits of standard cover (a +2 circumstance bonus instead). This lasts until you move from your current space, use an attack action, become unconscious, or end this effect as a free action."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "shield-reflect",
+    "title_size": "13",
+    "card_font_size": "11"
+  },
+  {
+    "count": "1",
+    "title": "Avert Gaze",
+    "contents": [
+      "text | You avert your gaze from danger, such as a medusa's gaze. You gain a +2 circumstance bonus to saves against visual abilities that require you to look at a creature or object, such as a medusa's petrifying gaze. Your gaze remains averted until the start of your next turn."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "shield-reflect",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Stride",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_end_trait_section",
+      "text | You move up to your Speed.",
+      "ruler",
+      "property | Move | An action with this trait involves moving from one space to another."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Step",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_end_trait_section",
+      "property | Requirements | Your Speed is at least 10 feet.",
+      "ruler",
+      "text | You carefully move 5 feet. Unlike most types of movement, Stepping doesn't trigger reactions, such as Reactive Strike, that can be triggered by move actions or upon leaving or entering a square.",
+      "",
+      "text | You can't Step into difficult terrain, and you can't Step using a Speed other than your land Speed.",
+      "ruler",
+      "property | Move | An action with this trait involves moving from one space to another."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Tumble Through",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_end_trait_section",
+      "text | You Stride up to your Speed. During this movement, you can try to move through the space of one enemy. Attempt an Acrobatics check against the enemy's Reflex DC as soon as you try to enter its space. You can Tumble Through using Climb, Fly, Swim, or another action instead of Stride in the appropriate environment.",
+      "ruler",
+      "property | Success | You move through the enemy's space, treating the squares in its space as difficult terrain (every 5 feet costs 10 feet of movement). If you don't have enough Speed to move all the way through its space, you get the same effect as a failure.",
+      "property | Failure | Your movement ends, and you trigger reactions as if you had moved out of the square you started in."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "10"
+  },
+  {
+    "count": "1",
+    "title": "Sneak (Pt. 1)",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_trait | common | secret",
+      "p2e_end_trait_section",
+      "text | You attempt to move to another place while becoming or staying undetected. Stride up to half your Speed. (You can use Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type; you must move at half that Speed.)",
+      "",
+      "text | At the end of your movement, the GM rolls your Stealth check in secret and compares the result to the Perception DC of each creature you were hidden from or undetected by at the start of your movement. If you have cover or greater cover from the creature throughout your Stride, you gain the +2 circumstance bonus from cover (or +4 from greater cover) to your Stealth check. Because you're moving, the bonus increase from Taking Cover doesn't apply. You don't get to roll against a creature if, at the end of your movement, you neither are concealed from it nor have cover or greater cover against it. You automatically become observed by such a creature.",
+      ""
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "footsteps",
+    "title_size": "13",
+    "card_font_size": "9"
+  },
+  {
+    "count": "1",
+    "title": "Sneak (Pt. 2)",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_trait | common | secret",
+      "p2e_end_trait_section",
+      "property | Success | You're undetected by the creature during your movement and remain undetected by the creature at the end of it.<br>You become observed as soon as you do anything other than Hide, Sneak, or Step. If you attempt to Strike a creature, the creature remains off-guard against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check. If you speak or make a deliberate loud noise, you become hidden instead of undetected.<br>If a creature uses Seek and you become hidden to it as a result, you must Sneak if you want to become undetected by that creature again.",
+      "property | Failure | A telltale sound or other sign gives your position away, though you still remain unseen. You're hidden from the creature throughout your movement and remain so.",
+      "property | Critical Failure | You're spotted! You're observed by the creature throughout your movement and remain so. If you're invisible and were hidden from the creature, instead of being observed you're hidden throughout your movement and remain so."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "footsteps",
+    "title_size": "13",
+    "card_font_size": "8"
+  },
+  {
+    "count": "1",
+    "title": "Balance",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_end_trait_section",
+      "property | Requirements | You are in a square that contains a narrow surface, uneven ground, or another similar feature.",
+      "ruler ",
+      "text | You move across a narrow surface or uneven ground, attempting an Acrobatics check against its Balance DC. You are off-guard while on a narrow surface or uneven ground.",
+      "property | Critical Success | You move up to your Speed.",
+      "property | Success | You move up to your Speed, treating it as difficult terrain (every 5 feet costs 10 feet of movement).",
+      "property | Failure | You must remain stationary to keep your balance (wasting the action) or you fall. If you fall, your turn ends.",
+      "property | Critical Failure | You fall and your turn ends."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "10"
+  },
+  {
+    "count": "1",
+    "title": "Drop Prone",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_end_trait_section",
+      "text | You fall prone.",
+      "ruler",
+      "property | Move | An action with this trait involves moving from one space to another."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Crawl",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_end_trait_section",
+      "property | Requirements | You are prone and your Speed is at least 10 feet.",
+      "ruler",
+      "text | You move 5 feet by crawling and continue to stay prone.",
+      "ruler",
+      "property | Move | An action with this trait involves moving from one space to another."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Stand",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_end_trait_section",
+      "text | You stand up from being prone.",
+      "ruler",
+      "property | Move | An action with this trait involves moving from one space to another."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Leap",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_end_trait_section",
+      "text | You take a short horizontal or vertical jump. Jumping a greater distance requires using the Athletics skill for a High Jump or Long Jump. ",
+      "bullet | <strong>Horizontal Jump</strong> up to 10 feet horizontally if your Speed is at least 15 feet, or up to 15 feet horizontally if your Speed is at least 30 feet. You land in the space where your Leap ends (meaning you can typically clear a 5-foot gap, or a 10-foot gap if your Speed is 30 feet or more). You can't make a horizontal Leap if your Speed is less than 15 feet.",
+      "bullet | <strong>Vertical Jump</strong> up to 3 feet vertically and 5 feet horizontally onto an elevated surface."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "11"
+  },
+  {
+    "count": "1",
+    "title": "High Jump",
+    "contents": [
+      "text | You Stride, then attempt a DC 30 Athletics check to jump vertically. If you didn't Stride at least 10 feet, you automatically fail. This DC might be increased or decreased due to the situation, as determined by the GM.",
+      "property | Critical Success | You Leap up to 8 feet vertically and 10 feet horizontally.",
+      "property | Success | You Leap up to 5 feet vertically and 5 feet horizontally.",
+      "property | Failure | You Leap normally",
+      "property | Critical Failure | You fall prone in your space."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-2-actions",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Long Jump",
+    "contents": [
+      "text | You Stride, then attempt a DC 15 Athletics check to make a long jump in the direction you were Striding. If you didn't Stride at least 10 feet, you automatically fail your check. The GM might increase or decrease this DC depending on the situation.",
+      "property | Success | You Leap up to a distance equal to your check result rounded down to the nearest 5 feet. You can't jump farther than your land Speed.",
+      "property | Failure | You make a normal horizontal Leap.",
+      "property | Critical Failure | You make a normal horizontal Leap, then fall and land prone."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-2-actions",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Grab an Edge",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common |Manipulate",
+      "p2e_end_trait_section",
+      "property | Trigger | You fall from or past an edge or handhold.",
+      "property | Requirements | Your hands are not tied behind your back or otherwise restrained",
+      "ruler",
+      "text | When you fall off or past an edge or other handhold, you can try to grab it, potentially stopping your fall. You must succeed at your choice of an Acrobatics check or a Reflex save, usually at the Climb DC. If you grab the edge or handhold, you can then Climb up using Athletics.",
+      "property | Critical Success | You grab the edge or handhold, whether or not you have a hand free, typically by using a suitable held item to catch yourself (catching a battle axe on a ledge, for example). You still take damage from the distance fallen so far, but you treat the fall as though it were 30 feet shorter.",
+      "property | Success | If you have at least one hand free, you grab the edge or handhold, stopping your fall. You still take damage from the distance fallen so far, but you treat the fall as though it were 20 feet shorter. If you have no hands free, you continue to fall as if you had failed the check.",
+      "property | Critical Failure | You continue to fall, and if you've fallen 20 feet or more before you use this reaction, you take 10 bludgeoning damage from the impact for every 20 feet fallen."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-reaction",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "8"
+  },
+  {
+    "count": "1",
+    "title": "Arrest a Fall",
+    "contents": [
+      "property | Trigger | You fall.",
+      "property | Requirements | You have a fly Speed.",
+      "ruler",
+      "text | You attempt your choice of an Acrobatics check or Reflex save to slow your fall. The DC is typically 15, but it might be higher due to air turbulence or other circumstances.",
+      "property | Success | You take no damage from the fall."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-reaction",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Climb",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_end_trait_section",
+      "property | Requirements | You have two hands free.",
+      "ruler",
+      "text | You attempt an Athletics check to move a maximum distance of 5 feet up, down, or across an incline. You're off-guard while climbing unless you have a climb Speed. The GM determines the DC based on the nature of the incline and environmental circumstances; you might get an automatic critical success on an incline that's trivial to climb. If your land Speed is 40 feet or higher, increase the maximum distance by 5 feet for every 20 feet of Speed above 20 feet.",
+      "property | Critical Success | You move along the incline, increasing the maximum distance by 5 feet.",
+      "property | Success | You move along the incline.",
+      "property | Critical Failure | You fall. If you began the climb on stable ground, you fall and land prone."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "10"
+  },
+  {
+    "count": "1",
+    "title": "Swim",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | move",
+      "p2e_end_trait_section",
+      "text | <p style=\"font-size:9.2px\">You attempt an Athletics check to move a maximum distance of 10 feet through water. The GM determines the DC based on the turbulence or danger of the water; in most instances of calm water, you get an automatic critical success. If your land Speed is 40 feet or higher, increase the maximum possible distance by 5 feet for every 20 feet of Speed above 20 feet.<br><br> If you end your turn in water and haven't succeeded at a Swim action that turn, you sink 10 feet or get moved by the current, as determined by the GM. This doesn't apply if your last action on your turn was to enter the water.</p>",
+      "",
+      "property | Critical Success | You move through the water, increasing the maximum distance by 5 feet.",
+      "property | Success | You move through the water.",
+      "property | Critical Failure | You make no progress. If you're holding your breath, you lose 1 round of air."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "foot-trip",
+    "title_size": "13",
+    "card_font_size": "10"
+  },
+  {
+    "count": "1",
+    "title": "Seek",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | concentrate",
+      "p2e_trait | common | secret",
+      "p2e_end_trait_section",
+      "text | You scan an area for signs of creatures or objects, possibly including secret doors or hazards. Choose an area to scan. The GM determines the area you can scan with one Seek action—almost always 30 feet or less in any dimension. The GM might impose a penalty if you search far away from you or adjust the number of actions it takes to Seek a particularly cluttered area.<br>The GM attempts a single secret Perception check for you and compares the result to the Stealth DCs of any undetected or hidden creatures in the area, or the DC to detect each object in the area (as determined by the GM or by someone Concealing the Object). A creature you detect might remain hidden, rather than becoming observed, if you're using an imprecise sense or if an effect (such as invisibility) prevents the subject from being observed.",
+      "",
+      "property | Critical Success | Any undetected or hidden creature you critically succeeded against becomes observed by you. You learn the location of objects in the area you critically succeeded against.",
+      "property | Success | Any undetected creature you succeeded against becomes hidden from you instead of undetected, and any hidden creature you succeeded against becomes observed by you. You learn the location of any object or get a clue to its whereabouts, as determined by the GM."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "cloak-dagger",
+    "title_size": "13",
+    "card_font_size": "8"
+  },
+  {
+    "count": "1",
+    "title": "Point Out",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | auditory",
+      "p2e_trait | common | manipulate",
+      "p2e_trait | common | visual",
+      "p2e_end_trait_section",
+      "property | Requirements | A creature is undetected by one or more of your allies but isn't undetected by you.",
+      "ruler",
+      "text | You indicate a creature that you can see to one or more allies, gesturing in a direction and describing the distance verbally. That creature is hidden to your allies, rather than undetected. This works only for allies who can see you and are in a position where they could potentially detect the target. If your allies can't hear or understand you, they must succeed at a Perception check against the creature's Stealth DC or they misunderstand and believe the target is in a different location."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "cloak-dagger",
+    "title_size": "13",
+    "card_font_size": "11"
+  },
+  {
+    "count": "1",
+    "title": "Hide",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | secret",
+      "p2e_end_trait_section",
+      "text | You huddle behind cover or greater cover or deeper into concealment to become hidden, rather than observed. The GM rolls your Stealth check in secret and compares the result to the Perception DC of each creature you're observed by but that you have cover or greater cover against or are concealed from. You get a +2 circumstance bonus to your check if you have standard cover (or +4 from greater cover).<br><strong>Success</strong> If the creature could see you, you're now hidden from it instead of observed. If you were hidden from or undetected by the creature, you retain that condition.<br>If you successfully become hidden to a creature but then cease to have cover or greater cover against it or be concealed from it, you become observed again. You cease being hidden if you do anything except Hide, Sneak, or Step. If you attempt to Strike a creature, the creature remains off-guard against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check.<br>If a creature uses Seek to make you observed by it, you must successfully Hide to become hidden from it again."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "cloak-dagger",
+    "title_size": "13",
+    "card_font_size": "8"
+  },
+  {
+    "count": "1",
+    "title": "Conceal an Object",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | manipulate",
+      "p2e_trait | common | secret",
+      "p2e_end_trait_section",
+      "text | You hide a small object on your person (such as a weapon of light Bulk). When you try to sneak a concealed object past someone who might notice it, the GM rolls your Stealth check and compares it to this passive observer's Perception DC. Once the GM rolls your check for a concealed object, that same result is used no matter how many passive observers you try to sneak it past. If a creature is specifically searching you for an item, it can attempt a Perception check against your Stealth DC (finding the object on success).",
+      "text | You can also conceal an object somewhere other than your person, such as among undergrowth or in a secret compartment within a piece of furniture. In this case, characters Seeking in an area compare their Perception check results to your Stealth DC to determine whether they find the object.",
+      "property | Success | The object remains undetected.",
+      "property | Failure | The searcher finds the object"
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "cloak-dagger",
+    "title_size": "13",
+    "card_font_size": "9"
+  },
+  {
+    "count": "1",
+    "title": "Palm an Object",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | manipulate",
+      "p2e_end_trait_section",
+      "text | You pick up a small, unattended object and try not to be noticed. Roll a single Thievery check against the Perception DCs of all creatures who are currently observing you. You can typically only Palm Objects of negligible Bulk, though the GM might determine otherwise depending on the situation.",
+      "property | Success | The creature doesn't notice you Palming the Object.",
+      "property | Failure | The creature notices you Palming the Object."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "cloak-dagger",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Steal",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | manipulate",
+      "p2e_end_trait_section",
+      "text | --Typically, you can Steal only an object of negligible Bulk, and you automatically fail if the creature who has the object is in combat or on guard.<br>-- Attempt a Thievery check to determine if you successfully Steal the object. The DC is usually the Perception DC of the creature wearing the object. It's easiest to steal an object that is worn but not closely guarded (like a loosely carried pouch filled with coins). The GM might increase the DC if the object is protected or if the nature of the object makes it harder to steal (such as a very small item in a large pack, or a sheet of parchment mixed in with other documents). For instance, the DC is typically 5 higher if the object is in a pocket, held in a creature's hand, or similarly protected.<br>--You might also need to compare your Thievery check result against the Perception DCs of observers other than the person wearing the object. The GM might impose a circumstance penalty to the DCs of observers who are distracted.<br><strong>Success</strong> You steal the item without the bearer noticing, or an observer doesn't see you take or attempt to take the item.<br><strong>Failure</strong> The item's bearer notices your attempt before you can take the object, or an observer sees you take or attempt to take the item. The GM determines the response of any creature that notices your theft."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "cloak-dagger",
+    "title_size": "13",
+    "card_font_size": "8"
+  },
+  {
+    "count": "1",
+    "title": "Sense Motive",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | concentrate",
+      "p2e_trait | common | secret",
+      "p2e_end_trait_section",
+      "text | You try to tell whether a creature's behavior is abnormal. Choose one creature and assess it for odd body language, signs of nervousness, and other indicators that it might be trying to deceive someone. The GM attempts a secret Perception check for you and compares the result to the Deception DC of the creature, the DC of a spell affecting the creature's mental state, or another appropriate DC determined by the GM. You typically can't Sense Motive on the same creature again until the situation changes significantly.",
+      "property | Critical Success | You determine the creature's true intentions and get a solid idea of any mental magic affecting it.",
+      "property | Success | You can tell whether the creature is behaving normally, but you don't know its exact intentions or what magic might be affecting it.",
+      "property | Failure | You detect what a deceptive creature wants you to believe. If they're not being deceptive, you believe they're behaving normally.",
+      "property | Critical Failure | You get a false sense of the creature's intentions."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "cloak-dagger",
+    "title_size": "13",
+    "card_font_size": "smaller"
+  },
+  {
+    "count": "1",
+    "title": "Lie",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | auditory",
+      "p2e_trait | common | concentrate",
+      "p2e_trait | common | linguistic",
+      "p2e_trait | common | mental",
+      "p2e_trait | common | secret",
+      "p2e_end_trait_section",
+      "text | Lying takes at least 1 round (<img src=\"https://cdn.paizo.com/image/content/Blog/20190820-oneaction.png\" alt=\"3 actions\" style=\"width:10px;height:10px;\"><img src=\"https://cdn.paizo.com/image/content/Blog/20190820-oneaction.png\" alt=\"3 actions\" style=\"width:10px;height:10px;\"><img src=\"https://cdn.paizo.com/image/content/Blog/20190820-oneaction.png\" alt=\"3 actions\" style=\"width:10px;height:10px;\">), or longer if the lie is elaborate. You roll a single Deception check and compare it against the Perception DC of every creature you are trying to fool. The GM might give them a circumstance bonus based on the situation and the nature of the lie you are trying to tell. Elaborate or highly unbelievable lies are much harder to get a creature to believe than simpler and more believable lies, and some lies are so big that it's impossible to get anyone to believe them.<br>At the GM's discretion, if a creature initially believes your lie, it might attempt a Perception check later to Sense Motive against your Deception DC to realize it's a lie. This usually happens if the creature discovers enough evidence to counter your statements.",
+      "",
+      "property | Success | The target believes your lie.",
+      "property | Failure | <t style = \"font-size:8px\">The target doesn't believe your lie and gains a +4 circumstance bonus against your attempts to Lie for the duration of your conversation. The target is also more likely to be suspicious of you in the future.</t>"
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "cloak-dagger",
+    "icon_back": "cloak-dagger",
+    "title_size": "13",
+    "card_font_size": "smaller"
+  },
+  {
+    "count": "1",
+    "title": "Dismiss",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | concentrate",
+      "p2e_end_trait_section",
+      "text | You end an effect that states you can Dismiss it. Dismissing ends the entire effect unless noted otherwise."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "fireball",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Sustain",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | concentrate",
+      "p2e_end_trait_section",
+      "text | Choose one of your effects that has a sustained duration or lists a special benefit when you Sustain it. Most such effects come from spells or magic item activations. If the effect has a sustained duration, its duration extends until the end of your next turn. (Sustaining more than once in the same turn doesn't extend the duration to subsequent turns.) If an ability can be sustained but doesn't list how long, it can be sustained up to 10 minutes.",
+      "text | An effect might list an additional benefit that occurs if you Sustain it, and this can even appear on effects that don't have a sustained duration. If the effect has both a special benefit and a sustained duration, your Sustain action extends the duration as well as having the special benefit.",
+      "text | If your Sustain action is disrupted, the ability ends."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "fireball",
+    "title_size": "13",
+    "card_font_size": "10"
+  },
+  {
+    "count": "1",
+    "title": "Identify Spell",
+    "contents": [
+      "text | Sometimes you need to identify a spell, especially if its effects aren't obvious right away. If you notice a spell being cast, and you have that spell in your repertoire or prepared it that day (even if you already cast it), you automatically know what the spell is, including the rank to which it is heightened.",
+      "fill | 0.4",
+      "text | If you want to identify a spell but don't have it prepared or in your repertoire, you must spend an action on your turn attempting to identify it using Recall Knowledge. You typically notice a spell being cast due to its sensory spell manifestations (page 299). Identifying long-lasting spells that are already in place requires using Identify Magic instead of Recall Knowledge because you don't have the advantage of watching the spell being cast."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "fireball",
+    "title_size": "13",
+    "card_font_size": "10"
+  },
+  {
+    "count": "1",
+    "title": "Interact",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | manipulate",
+      "p2e_end_trait_section",
+      "text | You use your hand or hands to manipulate an object or the terrain. You can grab an unattended or stored object, draw a weapon, swap a held item for another, open a door, or achieve a similar effect. On rare occasions, you might have to attempt a skill check to determine if your Interact action was successful."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "wooden-crate",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Release",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | manipulate",
+      "p2e_end_trait_section",
+      "text | You release something you're holding in your hand or hands. This might mean dropping an item, removing one hand from your weapon while continuing to hold it in another hand, releasing a rope suspending a chandelier, or performing a similar action. Unlike most manipulate actions, Release does not trigger reactions that can be triggered by actions with the manipulate trait (such as Reactive Strike).",
+      "",
+      "text | If you want to prepare to Release something outside of your turn, use the Ready activity."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-free-action",
+    "icon_back": "wooden-crate",
+    "title_size": "13",
+    "card_font_size": "12"
+  },
+  {
+    "count": "1",
+    "title": "Invest an Item",
+    "contents": [
+      "text | You invest your energy in an item with the invested trait as you don it. This process requires 1 or more Interact actions, usually taking the same amount of time it takes to don the item. Once you’ve Invested the Item, you benefit from its constant magical abilities as long as you meet its other requirements (for most invested items, the only other requirement is that you must be wearing the item). This investiture lasts until you remove the item.",
+      "",
+      "text | You can invest no more than 10 items per day. If you remove an invested item, it loses its investiture. The item still counts against your daily limit after it loses its investiture. You reset the limit during your daily preparations, at which point you Invest your Items anew. If you’re still wearing items you had invested the previous day, you can typically keep them invested on the new day, but they still count against your limit. "
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "wooden-crate",
+    "title_size": "13",
+    "card_font_size": "10"
+  },
+  {
+    "count": "1",
+    "title": "Disable Device",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | manipulate",
+      "p2e_end_trait_section",
+      "text | This action allows you to disarm a trap or another complex device. Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity. A thieves' toolkit is helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in Thievery to disable it.<br>Your Thievery check result determines your progress.",
+      "",
+      "property | Critical Success | You disable the device, or you achieve two successes toward disabling a device requiring more than one success. You leave no trace of your tampering, and you can rearm the device later, if that type of device can be rearmed.",
+      "property | Success | You disable the device, or you achieve one success toward disabling a device that requires more than one success.",
+      "property | Critical Failure | You trigger the device."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-2-actions",
+    "icon_back": "wooden-crate",
+    "title_size": "13",
+    "card_font_size": "9"
+  },
+  {
+    "count": "1",
+    "title": "Pick a Lock",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | manipulate",
+      "p2e_end_trait_section",
+      "property | Requirements | You're holding or wearing a thieves' toolkit",
+      "ruler",
+      "text | Opening a lock without a key is very similar to Disabling a Device, but the DC of the check is determined by the complexity and construction of the lock you are attempting to pick (locks and their DCs can be found on their page). Locks of higher quality might require multiple successes to unlock. If you lack the proper tools, the GM might let you use improvised picks, which are treated as a shoddy toolkit.",
+      "",
+      "property | Critical Success | You unlock the lock, or you achieve two successes toward opening a lock that requires more than one success. You leave no trace of your tampering.",
+      "property | Success | You open the lock, or you achieve one success toward opening a lock that requires more than one success. You leave behind damage that indicates the lock was picked on close scrutiny.",
+      "property | Critical Failure | You break your toolkit and leave behind obvious damage. Fixing a broken toolkit requires using Crafting to Repair it or else swapping in replacement picks (costing 3 sp, or 3 gp for an infiltrator thieves' toolkit)."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-2-actions",
+    "icon_back": "wooden-crate",
+    "title_size": "13",
+    "card_font_size": "8"
+  },
+  {
+    "count": "1",
+    "title": "Force Open",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | manipulate",
+      "p2e_end_trait_section",
+      "property | Requirements | You're holding or wearing a thieves' toolkit",
+      "ruler",
+      "text | Opening a lock without a key is very similar to Disabling a Device, but the DC of the check is determined by the complexity and construction of the lock you are attempting to pick (locks and their DCs can be found on their page). Locks of higher quality might require multiple successes to unlock. If you lack the proper tools, the GM might let you use improvised picks, which are treated as a shoddy toolkit.",
+      "",
+      "property | Critical Success | You unlock the lock, or you achieve two successes toward opening a lock that requires more than one success. You leave no trace of your tampering.",
+      "property | Success | You open the lock, or you achieve one success toward opening a lock that requires more than one success. You leave behind damage that indicates the lock was picked on close scrutiny.",
+      "property | Critical Failure | You break your toolkit and leave behind obvious damage. Fixing a broken toolkit requires using Crafting to Repair it or else swapping in replacement picks (costing 3 sp, or 3 gp for an infiltrator thieves' toolkit)."
+    ],
+    "tags": [],
+    "color": "saddlebrown",
+    "icon": "p2e-1-action",
+    "icon_back": "wooden-crate",
+    "title_size": "13",
+    "card_font_size": "8"
+  }
+]
