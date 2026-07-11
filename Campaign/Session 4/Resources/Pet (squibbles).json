@@ -1,0 +1,31 @@
+[
+  {
+    "count": 1,
+    "title": "Pet (Squibbles)",
+    "contents": [
+      "",
+      "text | You have a tiny pet. It has the minion trait, meaning it gains 2 actions during your turn if you use the <u>Command an Animal</u> action to command it; this replaces the usual effects of Command an Animal, and you don't need to attempt a Nature check. A pet can't take <u>attack</u> actions except to <u>Escape</u> or <u>Force Open</u>.",
+      "",
+      "text | <b>Level</b> Your pet's level is equal to yours.",
+      "",
+      "text | <b>Modifiers and AC</b> Your pet's Saves and AC are equal to yours before applying bonuses or penalties. It uses <U>3 + your level</U> as its modifier for <u>Perception, Acrobatics, and Stealth</u>, and just your level as its modifier for other skill checks. It doesn't have or use its own attribute modifiers and can never benefit from item bonuses.",
+      "",
+      "text | <b>Hit Points</b> Your pet has 5 Hit Points per level. <br><b>Senses</b> Your pet has low-light vision and can gain additional senses from pet abilities.<br><b>Speed</b> Your pet has a Speed of 25 feet.<br><b>Pet Abilities</b>",
+      "bullet | <b> Climber </b> It gains a climb Speed of 25 feet.",
+      "bullet | <b> Manual Dexterity </b> It can use up to two of its limbs to perform manipulate actions.",
+      "text | <b>Special</b> You can replace a pet/gain a new one by spending 1 week of downtime, releasing any previous pet. If you later gain a familiar or other companion that uses the Pet feat, you can immediately retrain this feat."
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkBlue",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "",
+    "title_display": "",
+    "title_size": "10",
+    "card_font_size": "8",
+    "icon_back": "rat",
+    "card_type": "General Feat 1",
+    "header_show": ""
+  }
+]
