@@ -20,13 +20,14 @@ Date: Oathday 4, Pharast, 4710 AR
 On the table, a ripped page, likely from a journal, authored by Hollis, that if brought to his attention he won't remember writing, it reads:
 >Ms. Rook said she won't stay another night in this place. I thought she wanted my help, but she won't stay, no matter how much I plead for just one more night of rest. Maybe... ~~Maybe I should go with her.~~
 
+Squibbles grabs the toe bone in Gib's possession and scampers off towards the Master Suite door, scratching at the floor to get in.
 # Master Suite
 The door access is locked.
 The majority of Eeler's skeleton lies on the bed.
 ![[Eeler's Mini Reference Image.png|269]]
-Noticeably he is missing a head, left ankle, and right toe; as well as some other pieces. An arm, disconnected from the scapula lays across the bed onto the further end table from the door seemingly having been reaching desperately for something in its final moments.
+Noticeably he is missing a head, left ankle, and right toe; as well as some other pieces. An arm lies detached across the bed, reaching toward the far bedside table.
 
-A service bell has fallen over sideways, pushed over the side of the furthest end table, out of reach of the bed. Eeler had been left to die, paralyzed in his own room some hundred+ years ago.
+A service bell lies on its side on the floor beyond the far bedside table, well outside Eeler’s reach. Eeler had been left to die, paralyzed in his own room some hundred+ years ago.
 
 # Hallway Part B
 The Private Bedroom comes before the Shared Accommodations if you're approaching from the stairwell/hallway part a. Making it past the door for the Private Bedroom, it begins to feel cold.
@@ -47,13 +48,13 @@ On the desk at the bottom of the room, a journal can be found.
 - **Starday**: A work day.
 - **Sunday**: Generally a day of rest and one devoted to religious observances.
 Notable Entries:
->**Sunday 7, Pharast 4590, Absalom Reckoning**
->>As a favor to the king, I've come to see this famous jester of his to help him with this mysterious ailment. Full body paralysis is a very common disease in this world; although staying alive for this long is not.
->**Oathday 15, Gozran 4590, AR**
+>**Sunday 7, Pharast 4630, Absalom Reckoning**
+>>As a favor to the king, I've come to see this famous jester of his to help him with this mysterious ailment. The paralysis itself is familiar. What I cannot explain is how he has survived this long.
+>**Oathday 15, Gozran 4630, AR**
 >>The man is so deathly ill, it's a wonder he still has the energy to ring the damnable bell I've just given him nearly as much as he does. It as if I've become a personal maid
->**Fireday 1, Abadius 4591, AR**
+>**Fireday 1, Abadius 4631, AR**
 >>Come a few months, it'll have been a full year since I began tending to Eeler. He treats me well, I feel as if I am always at is his side. I feel so tired.. So very tired, and every hour with that damnable ringing. How could a man unable to leave his bed need so much caring? Mostly, I think he is starved for conversation.
->**Moonday 4, Abadius 4591, AR**
+>**Moonday 4, Abadius 4631, AR**
 >>It finally stopped; perhaps my complaining finally got to him. I haven't heard that bell in at least two days. Maybe I should be concerned: Discernibly, I don't care. Perhaps I should check on him.. I'm just so tired. A day of rest... Just one more day without that damnable ringing couldn't hurt.
 # Shared Accommodations
 The spiritual epicenter is in this room. At the top of the room lays the nest where the possessed rats gather, bone fragments, moldy bread, other oddities of the house here lay, all piled up and swarmed by rats.
