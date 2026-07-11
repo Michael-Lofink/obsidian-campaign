@@ -30,14 +30,31 @@ Eeler knew the original Molak, but cannot identify what current Molak has become
 >>>[[sync-repo/Campaign/Session 4/Progression#Private Bedroom|Private Bedroom]]
 >>>[[sync-repo/Campaign/Session 4/Progression#Shared Accommodations|Shared Accommodations]]
 
-![[Pasted image 20260710174825.png]]
+![[Eeler's Second Floor Reference Image.png]]
 # Hallway Part A
+On the table, a ripped page, likely from a journal, authored by Hollis, that if brought to his attention he won't remember writing, it reads:
+>Ms. Rook said she won't stay another night in this place. I thought she wanted my help, but she won't stay no matter how much I ask for just one more night of rest. Maybe... ~~Maybe I should go with her.~~
 
 # Master Suite
-The majority of Eeler's skeleton lies on the bed. Noticeably he is missing a head, left ankle, and right toe; as well as some other pieces. 
+The majority of Eeler's skeleton lies on the bed.
+![[Eeler's Mini Reference Image.png|269]]
+Noticeably he is missing a head, left ankle, and right toe; as well as some other pieces. 
+
+A service bell has fallen over sideways, pushed over the side of the furthest end table, out of reach of the bed.
 
 # Hallway Part B
 
 # Private Bedroom
 
 # Shared Accommodations
+
+
+
+# Character Motivations
+## Squibbles
+>Currently possessed by a fragment of Eeler's consciousness, Squibbles is trying to return all the pieces of Eeler to Eeler's main body in the Master Suite
+## Gib
+>Make the outside safe, by making the inside safe. Startled, going with the flow, directionless, so when Hollis gave Gib a direction he went with it without much thought.
+
+## Hollis
+>Not a full person anymore. His time at Eeler's Inn has stolen away a lot of his memories and his motivation. The instinct that follows from who he used to be is what drives him now. That and fear. He's also currently at stage two of [[Rat Swarm - Monsters - Archives of Nethys -  Pathfinder 2nd Edition Database#Putrid Plague (disease)|Putrid Plague]]
