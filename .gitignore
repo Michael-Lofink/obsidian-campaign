@@ -1,4 +1,7 @@
-.obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
 **/**.DS_Store
 /PrintableHeroes/
 /Campaign/Session 2/Eeler's Inn Floor 1.pdf
