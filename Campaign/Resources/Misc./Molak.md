@@ -1,0 +1,3 @@
+Molak came from Sivanah, the human dromaar he looks like being the first ego that he reflected. In his time separated, for fear of being forced to return to the one being, through dark practices, he began to consume others egos to force reality to acknowledge his person-hood--to cement his individuality.
+
+He originally could feel the pull of the Seventh Witness but as he etched more ego into his person this tension dissipated. Paranoid that he could still be returned to Sivanah, he became obsessed with The Seventh Witness, he had to possess it.
