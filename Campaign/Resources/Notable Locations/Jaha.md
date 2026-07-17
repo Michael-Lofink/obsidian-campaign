@@ -2,7 +2,7 @@
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Mwangi Expanse (+Homebrew)"
+source: "Pathfinder Lost Omens: The Mwangi Expanse, 196–207; expanded for 4728 AR"
 name: "Jaha (Jahaxi Republic)"
 level: "Settlement 6"
 
@@ -16,7 +16,7 @@ perception:
     desc: "approximately 8,600 (around 62% humans, 33% iruxi, 5% other)"
   - name: "Languages"
     desc: "Iruxi, Lirgeni, Mwangi"
-sourcebook: "_Pathfinder Lost Omens: Mwangi Expanse (+Homebrew)_"
+sourcebook: "_Pathfinder Lost Omens: The Mwangi Expanse, 196–207_; expanded for 4728 AR"
 
 abilities_mid:
   - name: "Religions"
@@ -26,7 +26,7 @@ abilities_mid:
   - name: "Nocturnal City"
     desc: "Most businesses, public offices, schools, and social gatherings open around sunset and operate through the night. During daylight hours, attempts to Gather Information take twice as long unless the character seeks out excavators, guards, or other residents who routinely work during the day."
   - name: "Guarded Knowledge"
-    desc: "Jahaxis are accustomed to legitimate travelers, scholars, and relief workers, but remain protective of excavation records, waystone routes, ancestral remains, and information concerning the Jahan Disappearance. Gather Information checks concerning restricted subjects take twice as long and have their DC increased by 2. A character sponsored by a recognized resident, academic institution, expedition, or government official ignores these penalties."
+    desc: "Jahaxis are accustomed to legitimate travelers, scholars, and relief workers, but remain protective of excavation records, waystone routes, ancestral remains, and information concerning the Jahan Disappearance. Gather Information checks concerning restricted subjects take twice as long and have their DC increased by 2. A character sponsored by a recognized resident, expedition, government official, or academic institution relevant to the subject ignores these penalties."
   - name: "Readers of Stars"
     desc: "Many Jahaxi residents are trained in astrology and divination. Including at least one local astrologer as a secondary caster in a divination ritual reduces the ritual’s DC by 1."
 
@@ -41,7 +41,7 @@ attacks:
     desc: "(NG female human diplomat and astrologer 8), head ambassador and director of external expeditions"
 
   - name: "The Terrace Assembly"
-    desc: "(LE->LG organization 10) elected representatives from Jaha’s inhabited districts, excavation communities, and professional societies"
+    desc: "(LN organization 10) elected representatives from Jaha’s inhabited districts, excavation communities, and professional societies"
     
 
   - name: "![[Jaha Flag.png|250]]"
