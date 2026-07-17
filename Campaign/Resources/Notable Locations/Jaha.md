@@ -1,3 +1,4 @@
+# Jaha Stat-block
 ```statblock
 columns: 2
 forcecolumns: true
