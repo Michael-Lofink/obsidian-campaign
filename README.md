@@ -1,0 +1,2 @@
+[https://map.pathfinderwiki.com/#location=1.04/40.4/-44.6](https://map.pathfinderwiki.com/#location=1.04/40.4/-44.6 "https://map.pathfinderwiki.com/#location=1.04/40.4/-44.6")
+https://mephitrpg.github.io/rpg-cards/
