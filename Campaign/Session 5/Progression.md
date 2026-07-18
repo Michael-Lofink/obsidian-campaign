@@ -145,7 +145,7 @@ It is finer than a knife cut and too straight to be natural.
 
 You place two fingers against it.
 
-The stone is colder than the surrounding wall. The chill passes through the pads of your fingers, along your wrist, and into the bones of your forearm.
+The stone is colder than the surrounding wall. The chill passes through the tips of your fingers, along your wrist, and into the bones of your forearm.
 
 Something moves on the other side.
 
@@ -236,61 +236,142 @@ What do you do?
 - Hollis has no better answer.
 - Jaha is where Molak’s life becomes a real trail instead of a rumor.
 
-# Eeler's Inn Manifests in Jaha
+# Eeler's Inn Manifests Along the Olongo
 
-Use this when the inn arrives along the river between Jaha proper and the western expansion settlement.
+## Read Aloud
 
-Fog comes first.
+The first change is the sound beneath the floor.
 
-It slides low over the water in a pale sheet, swallowing the muddy bank and the posts of the river landings. The Olongo goes quiet under it. Then, through the mist, the outline of the inn begins to assert itself: dark rooflines, shuttered windows, the suggestion of balconies and eaves where a moment ago there had only been riverbank.
+The slow movement of marsh water against the pilings becomes a steadier current. It passes beneath the inn with a quiet, continuous pull.
 
-Lanterns inside the inn kindle one by one.
+The difference is subtle enough that you might have mistaken it for wind.
 
-The building stands where ancient stone gives way to newer timber construction, poised between two different Jahas. On one side lies the older city across the water, terraces and monumental walls rising behind the riverside districts. On the other stands the western settlement, more practical and crowded, with docks, storage sheds, patched roofs, and the muddy life of a place still being built.
+Then the air changes.
 
-The inn does not crash into the world. It settles into it with eerie confidence, as if it has every right to be there.
+Warmth enters through the cracks around the shutters. It carries the smell of river mud, cut timber, distant cooking fires, and flowers opening after sunset.
 
-Its reflection in the river is wrong for a moment. The windows look deeper below the water than above it, and the lamplight trembles in long, thin gold lines before the current breaks them apart.
+Beyond the windows, the fog has thickened again.
 
-A few river workers stop what they are doing. Someone on the dock lowers a crate. A dog begins barking, then whines and backs away. The inn stands complete, lit, and waiting, with its front facing the flow of travelers as if it had always expected them.
+It gathers against the glass until the world outside disappears behind a flat wall of gray. The inn remains still. No beam strains. No furniture shifts. The lanterns continue burning without so much as a flicker.
 
-## GM note
-- This should feel uncanny but not hostile.
-- It is a threshold moment.
-- The inn is not attacking the city. It is arriving.
+Somewhere below, water passes beneath the building.
 
-# Touchdown in Jaha
+The fog thins.
 
-Gib’s first impression of Jaha should be that it is enormous, inhabited, and unfinished all at once.
+Eeler’s Inn now stands above a dark river.
 
-Across the river, lights scatter through terraces, streets, and towers in layered bands. Some districts are bright and orderly. Others fade into dark overgrowth, scaffolds, rope lines, and half-restored facades. The city feels awake in the night. Lamps are being lit. Voices carry over water. Boats move slowly between landing points. Above it all, the great structures of old Jaha loom with the stubborn weight of a place built for more people than currently live there.
+Its thick wooden pilings descend into slow-moving water beside an old landing that no one appears to use. A narrow boardwalk joins the front steps to a muddy path along the bank. Reeds grow around the posts. Moss already clings to the lowest boards, and the timber bears dark waterlines as though the inn has endured years of seasonal flooding here.
 
-This is not a dead ruin. It is a city trying to live inside one.
+The building itself remains unchanged.
+
+Two stories of weather-darkened timber and stained plaster lean over the water. The roof sags slightly around old repairs. Three narrow ground-floor windows cast warm rectangles across the river. Above the door, a faded jester swings from the inn’s sign, his painted face nearly erased by age.
+
+Across the river, pale walls rise in terraces beneath the full moon.
+
+Farther west, newer buildings gather along the bank: warehouses, workshops, rough homes, canvas shelters, and docks built wherever the mud would hold them.
+
+The inn has placed itself between them, beyond the maintained streets and outside the routes anyone regularly patrols.
+
+Its arrival makes no sound.
+
+No alarm is raised.
+
+A lone fisherman farther downriver looks toward the newly lit windows. His oars slow for several strokes. He watches the inn, glances back toward the western settlement, and then continues into the dark.
+
+By the time his boat rounds the bend, Eeler’s Inn looks like another old riverside building that everyone else must already know about.
+
+# First View of Jaha
+
+## Read Aloud
+
+The front door opens onto a narrow boardwalk and warm night air.
+
+The river moves beneath you, black except where lanterns stretch across its surface in trembling lines. Somewhere downstream, wood knocks against wood as a boat is secured to a landing. Voices carry from the western settlement, too distant to distinguish.
+
+No one is waiting outside.
+
+Across the water, Jaha rises beneath the full moon.
+
+The city climbs away from the river in broad pale terraces. Some districts glow with lamps, gardens, and occupied windows. Bridges pass between buildings high above the lower streets. Scaffolding covers repaired walls. Small figures move along stairs built into structures large enough to dwarf them.
+
+Other sections remain dark.
+
+Jungle growth spills across abandoned roofs. Trees rise from courtyards and broken plazas. Towers stand without lights behind lengths of rope and temporary barriers. The inhabited city ends gradually, one repaired building at a time, until the old ruins take over.
+
+To your west, the expansion settlement sits lower against the river.
+
+Its buildings are newer, closer together, and built from timber, canvas, river stone, and material taken from the ancient city. Workshops remain open beneath hanging lanterns. Workers unload boats while most of the world would be preparing to sleep.
+
+Jaha is only beginning its day.
+
+Eeler’s Inn stands between the two settlements, connected to neither by more than an old boardwalk and a muddy path.
+
+Behind you, its sign gives a single creak in the river wind.
 
 # Jaha Key Figures Mashup
 
-Use this as a montage once Gib reaches Jaha or as a transition scene before he starts interacting with the city directly.
+## Read Aloud
 
-### Iakanne
-Beneath the Kehwamesi, Iakanne sits at a long table layered with petitions, reports, and draft orders. An aide reads aloud the newest assessment from West Terrace: one support needs repair soon. Without looking up, Iakanne signs an extension allowing the families to remain, then reaches for the next document before the ink is dry.
+Across the river, Jaha continues waking.
 
-### Barashzi
-At West Terrace, Barashzi crouches with damp clay darkening their claws and forearms. Lantern light catches on unearthed stone and the edge of a communal floor pulled back just enough to show what lies beneath. An engineer waits nearby, frustrated. Barashzi does not even look at him until the current layer of recovery is complete.
+Beneath the Kehwamesi, Iakanne Aarsani sits at the head of a long table covered in engineering reports, housing petitions, and proposed revisions to the republic’s charter.
 
-### Versenne
-In a well-used office near the heart of the city, Versenne breaks the seal on another letter from the foreign surveying institution. The message is brief and unfriendly. Aides come and go around her with ledgers, permits, and route requests. She sets the letter aside only long enough to promise access to someone else.
+An aide reads the latest assessment from West Terrace.
 
-### Oakuma
-In Star-Crossed Charts, Oakuma leans over a broad map weighted with stone samples and scraps of notation. Kajeera is arguing with her. Inali is stitching a hazard revision into a woven chart. Oakuma marks another route in fresh ink and says, without looking up, “If they wanted it quiet, they should have warned the people first.”
+One support beneath the occupied floors must be repaired within two weeks.
 
-## GM note
-- End the mashup by returning to Gib.
-- The point is to establish motion before he picks a direction.
+Iakanne reads the conclusion herself. She reaches for the temporary occupancy order beside it and signs another extension.
 
-# Optional End Beat
+The ink has not dried before she asks which officials are willing to place their names beside the engineer’s recommendation.
 
-If you want to end the session on arrival rather than getting deep into Jaha, end with the inn settled on the river and the city spread out in front of Gib.
+---
 
-Possible closing line:
+At West Terrace, Barashzi the Cross-Star kneels beside an opened section of floor.
 
-Jaha is awake across the water, full of light, argument, memory, and unfinished business. Somewhere inside it, Molak’s life still left a shape behind.
+Wet clay darkens their claws and forearms. Beneath the removed stone lie fragments of bone, degraded cloth, and part of an inscription that continues under one of the occupied rooms.
+
+An engineer waits beyond the recovery line.
+
+He explains that the support above them cannot wait much longer.
+
+Barashzi records another name in a hand-copied register.
+
+They do not grant permission to begin repairs.
+
+---
+
+In an office crowded with sealed correspondence, Versenne breaks the wax on a letter from the foreign surveying institution.
+
+The message contains no greeting.
+
+Its representatives demand a firm date for access to West Terrace. Without one, they intend to withdraw their specialists and reclaim the equipment currently on loan to the republic.
+
+Versenne reads the letter twice.
+
+She places it beneath an unfinished permit and calls for the list of Assembly members whose districts rely on foreign equipment.
+
+---
+
+At Star-Crossed Charts, Oakuma Mujafor leans over a map held flat by stone samples, brass tools, and several cups of cold coffee.
+
+Kajeera stands across from her with one hand pressed against the route beneath West Terrace.
+
+“You should have waited,” Kajeera says.
+
+Oakuma draws a fresh hazard mark beside the passage.
+
+“The people living above it should have been warned.”
+
+At the next table, Inali stops stitching.
+
+One line in her woven chart has shifted slightly toward the river.
+
+She studies it for several seconds, then resumes her work.
+
+---
+
+Beyond their meetings, arguments, and carefully guarded records, a fisherman rows past an old inn that was not there the previous night.
+
+He does not know whom he would tell.
+
+By morning, he will no longer be certain that it was new.
