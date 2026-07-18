@@ -253,21 +253,6 @@
             "type": "era",
             "category": null,
             "isStartingEra": false
-          },
-          {
-            "name": "Age of Serpents",
-            "format": "{{era_name}}",
-            "date": {
-              "year": 4720,
-              "month": 8,
-              "day": 15
-            },
-            "id": "ID_eb4af87babaa",
-            "endsYear": false,
-            "isEvent": false,
-            "type": "era",
-            "category": null,
-            "isStartingEra": false
           }
         ]
       },
