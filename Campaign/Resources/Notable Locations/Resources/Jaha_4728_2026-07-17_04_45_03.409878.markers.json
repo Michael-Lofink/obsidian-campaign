@@ -1,0 +1,58 @@
+{
+  "size": {
+    "w": 5792,
+    "h": 4344
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_si7642",
+      "x": 0.3350528047640922,
+      "y": 0.5035162986417918,
+      "layer": "default",
+      "link": "Eeler's Inn",
+      "iconKey": "pinSafeHouse",
+      "tooltip": "Eeler's Inn",
+      "tooltipAlwaysOn": true,
+      "sizeOverride": 100,
+      "scaleLikeSticker": true
+    }
+  ],
+  "bases": [
+    {
+      "path": "Campaign/Resources/Notable Locations/Resources/Jaha_4728_2026-07-17_04_45_03.409878.webp"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Campaign/Resources/Notable Locations/Resources/Jaha_4728_2026-07-17_04_45_03.409878.webp",
+  "measurement": {
+    "scales": {
+      "Campaign/Resources/Notable Locations/Resources/Jaha_4728_2026-07-17_04_45_03.409878.webp": 0.3372224787600527
+    },
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [
+      "tt-eyeg88",
+      "tt-sjl4or"
+    ],
+    "travelDaysEnabled": false,
+    "displayUnit": "ft",
+    "metersPerPixel": 0.3372224787600527
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

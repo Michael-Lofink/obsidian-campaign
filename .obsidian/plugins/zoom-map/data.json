@@ -1,0 +1,117 @@
+{
+  "icons": [
+    {
+      "key": "pinSafeHouse",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%22-12%20-12%20664%20536%22%20fill%3D%22%23000000%22%20data-zm-orig-viewbox%3D%220%200%20640%20512%22%20data-zm-outline-color%3D%22%23f2f2f2%22%20data-zm-outline-width%3D%226%22%20data-zm-outline-opacity%3D%221%22%20data-zm-inner-dx%3D%220%22%20data-zm-inner-dy%3D%220%22%3E%3Cg%20id%3D%22zm-outline%22%20fill%3D%22none%22%20stroke%3D%22%23f2f2f2%22%20stroke-width%3D%226%22%20stroke-opacity%3D%221%22%20vector-effect%3D%22non-scaling-stroke%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M480%200c-17.7%200-32%2014.3-32%2032V192%20512h64V192H624c8.8%200%2016-7.2%2016-16V48c0-8.8-7.2-16-16-16H512c0-17.7-14.3-32-32-32zM416%20159L276.8%2039.7c-12-10.3-29.7-10.3-41.7%200l-224%20192C1%20240.4-2.7%20254.5%202%20267.1S18.6%20288%2032%20288H64V480c0%2017.7%2014.3%2032%2032%2032h64c17.7%200%2032-14.3%2032-32V384c0-17.7%2014.3-32%2032-32h64c17.7%200%2032%2014.3%2032%2032v96c0%2017.7%2014.3%2032%2032%2032h64.7l.2%200h-1V159z%22%2F%3E%3C%2Fg%3E%3Cg%20id%3D%22zm-inner%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M480%200c-17.7%200-32%2014.3-32%2032V192%20512h64V192H624c8.8%200%2016-7.2%2016-16V48c0-8.8-7.2-16-16-16H512c0-17.7-14.3-32-32-32zM416%20159L276.8%2039.7c-12-10.3-29.7-10.3-41.7%200l-224%20192C1%20240.4-2.7%20254.5%202%20267.1S18.6%20288%2032%20288H64V480c0%2017.7%2014.3%2032%2032%2032h64c17.7%200%2032-14.3%2032-32V384c0-17.7%2014.3-32%2032-32h64c17.7%200%2032%2014.3%2032%2032v96c0%2017.7%2014.3%2032%2032%2032h64.7l.2%200h-1V159z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true,
+      "shadowEnabled": true,
+      "shadowColor": "#000000",
+      "shadowBlurPx": 6,
+      "shadowOffsetXPx": 2,
+      "shadowOffsetYPx": 2
+    },
+    {
+      "key": "pinRed",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%0A%20%20%3Cpath%20fill%3D%22%23d23c3c%22%20d%3D%22M12%202a7%207%200%200%200-7%207c0%205.25%207%2013%207%2013s7-7.75%207-13a7%207%200%200%200-7-7m0%209.5A2.5%202.5%200%201%201%2012%206.5a2.5%202.5%200%200%201%200%205Z%22%2F%3E%0A%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "inCollections": true
+    },
+    {
+      "key": "pinBlue",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%0A%20%20%3Cpath%20fill%3D%22%233c62d2%22%20d%3D%22M12%202a7%207%200%200%200-7%207c0%205.25%207%2013%207%2013s7-7.75%207-13a7%207%200%200%200-7-7m0%209.5A2.5%202.5%200%201%201%2012%206.5a2.5%202.5%200%200%201%200%205Z%22%2F%3E%0A%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "inCollections": true
+    }
+  ],
+  "defaultIconKey": "pinRed",
+  "wheelZoomFactor": 1.1,
+  "panMouseButton": "left",
+  "hoverMaxWidth": 360,
+  "applyHoverPopoverSizeGlobally": false,
+  "hoverMaxHeight": 260,
+  "showLinkFileNameInTooltip": false,
+  "presets": [],
+  "stickerPresets": [],
+  "defaultWidth": "100%",
+  "defaultHeight": "480px",
+  "defaultResizable": false,
+  "defaultResizeHandle": "right",
+  "forcePopoverWithoutModKey": false,
+  "measureLineColor": "var(--text-accent)",
+  "measureLineWidth": 2,
+  "storageDefault": "json",
+  "defaultWidthWrapped": "50%",
+  "baseCollections": [],
+  "pinPlaceOpensEditor": false,
+  "libraryFilePath": "ZoomMap/library.json",
+  "faFolderPath": "ZoomMap/SVGs",
+  "customUnits": [],
+  "travelTimePresets": [],
+  "travelPerDay": {
+    "value": 8,
+    "unit": "h"
+  },
+  "travelRulesPacks": [
+    {
+      "id": "trp-beiujj",
+      "name": "Default travel rules",
+      "enabled": true,
+      "customUnits": [],
+      "travelTimePresets": [
+        {
+          "id": "tt-eyeg88",
+          "name": "Foot",
+          "distanceValue": 250,
+          "distanceUnit": "ft",
+          "timeValue": 1,
+          "timeUnit": "min"
+        },
+        {
+          "id": "tt-sjl4or",
+          "name": "Hustle on foot",
+          "distanceValue": 500,
+          "distanceUnit": "ft",
+          "timeValue": 1,
+          "timeUnit": "min"
+        }
+      ],
+      "travelPerDay": {
+        "value": 8,
+        "unit": "h"
+      },
+      "terrains": [],
+      "travelPerDayPresets": [
+        {
+          "id": "tpd-t6ixnc",
+          "name": "Default",
+          "value": 8,
+          "unit": "h"
+        }
+      ]
+    }
+  ],
+  "defaultScaleLikeSticker": false,
+  "enableDrawing": true,
+  "preferActiveLayerInEditor": false,
+  "enableTextLayers": true,
+  "enableMeasurePro": false,
+  "enableSessionImageCache": false,
+  "showZoomButtonsHud": false,
+  "sessionImageCacheMb": 512,
+  "keepOverlaysLoaded": false,
+  "preferCanvasImagesWhenCaching": false,
+  "svgRasterMaxScale": 8,
+  "showImageIconPreviewInSettings": false,
+  "enableGrid": false,
+  "middleClickOpensLinkInNewTab": true,
+  "enableSecondScreen": false,
+  "secondScreenFolder": "ZoomMap/SecondScreen"
+}
