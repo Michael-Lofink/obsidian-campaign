@@ -25,13 +25,13 @@ abilities_mid:
   - name: "Threats"
     desc: "mysterious disappearances, unstable waystones, reconfiguring subterranean passages, hostile jungle creatures, the sealed Moon Fortress, and explorers returning from it as chanting undead."
   - name: "Nocturnal City"
-    desc: "Most businesses, public offices, schools, and social gatherings open around sunset and operate through the night. During daylight hours, attempts to Gather Information take twice as long unless the character seeks out excavators, guards, or other residents who routinely work during the day."
+    desc: "Most businesses, public offices, schools, and social gatherings open around sunset and operate through the night. <u>During daylight hours, attempts to Gather Information take twice as long</u> unless the character seeks out excavators, guards, or other residents who routinely work during the day."
   - name: "Divided Authority"
-    desc: "Jaha’s civic, restoration, expedition, and mapping institutions exercise overlapping authority. Permission or sponsorship from one institution does not automatically grant access to records, locations, or testimony controlled by another."
+    desc: "Jaha’s civic, restoration, expedition, and mapping institutions exercise overlapping authority. <u>Permission or sponsorship from one institution does not automatically grant access to records, locations, or testimony controlled by another.</u>"
   - name: "Guarded Knowledge"
-    desc: "Jahaxis are accustomed to legitimate travelers, scholars, and relief workers, but remain protective of excavation records, waystone routes, ancestral remains, and information concerning the Jahan Disappearance. Gather Information checks concerning restricted subjects take twice as long and have their DC increased by 2. A character sponsored by a recognized resident, expedition, government official, or academic institution relevant to the subject ignores these penalties."
+    desc: "Jahaxis are accustomed to legitimate travelers, scholars, and relief workers, but remain protective of excavation records, waystone routes, ancestral remains, and information concerning the Jahan Disappearance. <u>Gather Information checks concerning restricted subjects take twice as long and have their DC increased by 2</u>. <u>A character sponsored</u> by a recognized resident, expedition, government official, or academic institution relevant to the subject <u>ignores these penalties</u>."
   - name: "Readers of Stars"
-    desc: "Many Jahaxi residents are trained in astrology and divination. Including at least one local astrologer as a secondary caster in a divination ritual reduces the ritual’s DC by 1."
+    desc: "Many Jahaxi residents are trained in astrology and divination. <u>Including at least one local astrologer as a secondary caster in a divination ritual reduces the ritual’s DC by 1.</u>"
 
 attacks:
   - name: "Iakanne Aarsani"
@@ -55,40 +55,45 @@ attacks:
 
 # In Depth
 ## Table of Contents
-> [[Jaha#Current Situation|Current Situation]]
-> [[Jaha#Historical Layers|Historical Layers]]
-> [[Jaha#Life After Sunset|Life After Sunset]]
+
+> [[Jaha#Current Situation|Current Situation]]  
+> [[Jaha#Historical Layers|Historical Layers]]  
+> [[Jaha#Life After Sunset|Life After Sunset]]  
 > [[Jaha#Political Situation|Political Situation]]
-> > [[Jaha#The Founders' Compact|The Founders' Compact]]
-> > [[Jaha#The Charter Review|The Charter Review]]
+> 
+> > [[Jaha#The Founders' Compact|The Founders' Compact]]  
+> > [[Jaha#The Charter Review|The Charter Review]]  
 > > [[Jaha#West Terrace Court Complex|West Terrace Court Complex]]
->
+> 
 > [[Jaha#Political Factions|Political Factions]]
-> > [[Jaha#Civic Continuity Bloc|Civic Continuity Bloc]]
-> > [[Jaha#Restoration Covenant|Restoration Covenant]]
-> > [[Jaha#Open Sky League|Open Sky League]]
+> 
+> > [[Jaha#Civic Continuity Bloc|Civic Continuity Bloc]]  
+> > [[Jaha#Restoration Covenant|Restoration Covenant]]  
+> > [[Jaha#Open Sky League|Open Sky League]]  
 > > [[Jaha#Survey and Watch Independents|Survey and Watch Independents]]
->
-> [[Jaha#Government Structure|Government Structure]]
-> [[Jaha#Access and Sponsorship|Access and Sponsorship]]
-> [[Jaha#Reclamation and Excavation|Reclamation and Excavation]]
-> [[Jaha#Major Areas|Major Areas]]
-> [[Jaha#Current Pressures|Current Pressures]]
-> [[Jaha#Local Attitudes|Local Attitudes]]
-> [[Jaha#Campaign Relevance|Campaign Relevance]]
+> 
+> [[Jaha#Government Structure|Government Structure]]  
+> [[Jaha#Access and Sponsorship|Access and Sponsorship]]  
+> [[Jaha#Reclamation and Excavation|Reclamation and Excavation]]  
+> [[Jaha#Major Areas|Major Areas]]  
+> [[Jaha#Current Pressures|Current Pressures]]  
+> [[Jaha#Local Attitudes|Local Attitudes]]  
+> [[Jaha#Campaign Relevance|Campaign Relevance]]  
 > [[Jaha#NPC Renders|NPC Renders]]
-> > [[Jaha#Iakanne Aarsani|Iakanne Aarsani]]
-> > [[Jaha#Barashzi the Cross-Star|Barashzi the Cross-Star]]
-> > [[Jaha#Versenne|Versenne]]
-> > [[Jaha#Oakuma Mujafor|Oakuma Mujafor]]
-> > [[Jaha#Star-Crossed Charts|Star-Crossed Charts]]
+> 
+> > [[Jaha#Iakanne Aarsani|Iakanne Aarsani]]  
+> > [[Jaha#Barashzi the Cross-Star|Barashzi the Cross-Star]]  
+> > [[Jaha#Versenne|Versenne]]  
+> > [[Jaha#Oakuma Mujafor|Oakuma Mujafor]]  
+> > [[Jaha#Star-Crossed Charts|Star-Crossed Charts]]  
 > > [[Jaha#The Terrace Assembly|The Terrace Assembly]]
->
->[[Jaha#Political Relationships|Political Relationships]]
->[[Jaha#Open Questions|Open Questions]]
+> 
+> [[Jaha#Political Relationships|Political Relationships]]  
+> [[Jaha#Open Questions|Open Questions]]
 
 ## Current Situation
-[[Jaha#Table of Contents|Return to Table of Contents]]
+
+[[Jaha#Table of Contents|Return to Table of Contents]]  
 The Jahaxi coalition entered Jaha eleven years ago. The republic that grew from it now has permanent institutions, excavation laws, public services, and established relations with outside communities.
 
 Jaha remains severely underpopulated for its size. Approximately 8,600 people occupy a city built to house many times that number. Most residents live in the Kehwamesi, the surrounding central terraces, Jhebyiti, and the growing riverside settlement west of the old walls. Beyond these districts, inhabited streets give way to restoration sites, abandoned residences, overgrown plazas, unstable ruins, and sections where jungle animals move freely.
@@ -96,49 +101,59 @@ Jaha remains severely underpopulated for its size. Approximately 8,600 people oc
 The city can be divided into three practical zones:
 
 - **Established districts** are inhabited, illuminated, regularly patrolled, and connected to public services.
+    
 - **Reclamation districts** contain active excavations, partially restored buildings, temporary worker housing, scaffolding, and marked hazards.
+    
 - **Restricted districts** include unstable subterranean routes, unidentified waystones, sealed ruins, military sites, and the quarantine surrounding the Moon Fortress.
+    
 
-A building being structurally intact does not make it safe. Rooms may contain magical equipment, damaged wards, displaced creatures, hidden passages, or evidence connected to the Jahan Disappearance. Ownership is also complicated. The republic may classify a structure as public property, an archaeological site, an iruxi ancestral location, or a residence eligible for reclamation.
+Intact buildings may still contain magical equipment, damaged wards, displaced creatures, hidden passages, or evidence connected to the Jahan Disappearance. Their ownership may also be disputed. The republic may classify a structure as public property, an archaeological site, an iruxi ancestral location, or a residence eligible for reclamation.
+
 ## Historical Layers
+
 [[Jaha#Table of Contents|Return to Table of Contents]]
 
-| Period                         | Current Understanding                                                                                                                                                     |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Ancient Jaha**               | Built before Earthfall by unidentified people of unusual height. They created the monumental terraces, subterranean structures, and much of the city’s oldest technology. |
-| **Pre-Jahan iruxi occupation** | Iruxi warrior clans occupied the city before the Lirgeni conquest. Eeler and original Molak may belong to this period, though their exact roles remain unresolved.        |
-| **Jahan theocracy**            | Lirgeni isolationists conquered the iruxi, enslaved the surviving population, occupied older structures, and erected the waystones.                                       |
-| **Jahan Disappearance**        | The Jahans and the iruxi they enslaved vanished before the coalition arrived in 4717 AR.                                                                                  |
-| **Jahaxi reclamation**         | The coalition entered the abandoned city in 4717 AR and gradually established the current republic.                                                                       |
+|Period|Current Understanding|
+|---|---|
+|**Ancient Jaha**|Built before Earthfall by unidentified people of unusual height. They created the monumental terraces, subterranean structures, and much of the city’s oldest technology.|
+|**Pre-Jahan iruxi occupation**|Iruxi warrior clans occupied the city before the Lirgeni conquest. Eeler and original Molak may belong to this period, though their exact roles remain unresolved.|
+|**Jahan theocracy**|Lirgeni isolationists conquered the iruxi, enslaved the surviving population, occupied older structures, and erected the waystones.|
+|**Jahan Disappearance**|The Jahans and the iruxi they enslaved vanished before the coalition arrived in 4717 AR.|
+|**Jahaxi reclamation**|The coalition entered the abandoned city in 4717 AR and gradually established the current republic.|
 
 ## Life After Sunset
-[[Jaha#Table of Contents|Return to Table of Contents]]
+
+[[Jaha#Table of Contents|Return to Table of Contents]]  
 Most of Jaha wakes shortly before sunset. Shops open, public lamps are lit, the Dusk Market fills, and government offices begin receiving visitors. Schools, courts, civic meetings, religious gatherings, and academic lectures usually take place during the night.
 
-Daytime streets are quiet. Guards, construction crews, river workers, and excavation teams remain active, but most residents are sleeping or reviewing the previous night’s findings indoors. Businesses serving daytime expeditions often operate through shutters, bells, or small service windows rather than opening fully.
+Daytime streets are quiet. Guards, construction crews, river workers, and excavation teams remain active. Most residents are sleeping or reviewing the previous night’s findings indoors. Businesses serving daytime expeditions often use shutters, bells, or small service windows during the day.
 
-Jaha’s nocturnal schedule developed because many residents experience disturbing dreams when sleeping at night. The change has reduced some of the worst episodes, though it has not eliminated them. Dream journals, warded sleeping rooms, communal dormitories, sleep clinics, sedatives, and magical coffee are ordinary parts of city life. People who have lived in Jaha for years often discuss poor sleep as a practical health problem rather than a supernatural emergency.
+Jaha’s nocturnal schedule developed because many residents experience disturbing dreams when sleeping at night. Sleeping during the day has reduced the worst episodes. Many residents continue to use dream journals, warded sleeping rooms, communal dormitories, sleep clinics, sedatives, and magical coffee. Longtime residents usually discuss poor sleep in terms of treatment, schedules, and daily health.
 
 Night-blooming gardens and bioluminescent fungi provide much of the city’s public lighting. Maintained districts use fungi beds, hooded lamps, reflective stonework, and marked routes. Reclamation zones may have only rope lines, temporary lanterns, or painted symbols showing which passages have been inspected.
 
 ## Political Situation
+
 [[Jaha#Table of Contents|Return to Table of Contents]]
 
 Jaha’s central political dispute concerns who has the right to decide what the city becomes while its history, territory, and dangers remain unresolved.
 
 The coalition’s original leaders agreed while they were occupying an abandoned city and trying to survive. Eleven years later, Jaha has permanent neighborhoods, valuable trade, foreign sponsors, iruxi communities in the Circulation, and institutions that claim overlapping authority over the same ruins.
 
-The founders still believe Jaha must survive. Each now believes another founder’s methods are becoming a greater danger to the republic.
+The founders remain committed to Jaha’s survival. Their current disputes center on which methods now pose the greatest risk to the republic.
 
 ### The Founders' Compact
 
 The first Jahaxi government operated through a practical division of responsibility.
 
 - **Iakanne Aarsani** argued that every Jahaxi required equal citizenship under one civic government.
+    
 - **Barashzi the Cross-Star** insisted that iruxi remains, testimony, former settlements, and ancestral sites required protection and meaningful iruxi authority.
+    
 - **Versenne** secured the supplies, specialists, trade relationships, and foreign support needed to keep the settlement alive.
+    
 
-The arrangement worked while survival was the immediate concern. It functions less cleanly now that every decision concerning housing, excavation, trade, and public safety can establish permanent precedent.
+The arrangement suited Jaha’s first years, when immediate survival guided most decisions. Housing, excavation, trade, and public safety now create precedents that may shape the republic for decades.
 
 The compact never clearly established which authority takes priority when civic law, ancestral stewardship, foreign agreements, and public access conflict.
 
@@ -148,14 +163,15 @@ The republic’s founding charter requires a formal review after its first decad
 
 Four reform proposals now divide the government.
 
-| Proposal | Principal supporter | Proposed effect |
-| --- | --- | --- |
-| **Civic Continuity Act** | Iakanne | Expands the First Speaker’s emergency powers, centralizes excavation permits, and permits temporary occupation of disputed structures during housing or public-safety emergencies |
-| **Ancestral Stewardship Article** | Barashzi | Gives recognized iruxi councils controlling authority over ancestral remains, former slave sites, recovered testimony, and locations associated with pre-Jahan iruxi occupation |
-| **Open Sky Accords** | Versenne | Formalizes foreign research partnerships, permits long-term institutional concessions, and creates independently funded expeditions under Jahaxi supervision |
-| **Public Hazard Register** | Oakuma and several independent representatives | Requires regular publication of dangerous routes, excavation accidents, waystone incidents, missing expeditions, and changes to previously issued maps |
+|   |   |   |
+|---|---|---|
+|Proposal|Principal supporter|Proposed effect|
+|**Civic Continuity Act**|Iakanne|Expands the First Speaker’s emergency powers, centralizes excavation permits, and permits temporary occupation of disputed structures during housing or public-safety emergencies|
+|**Ancestral Stewardship Article**|Barashzi|Gives recognized iruxi councils controlling authority over ancestral remains, former slave sites, recovered testimony, and locations associated with pre-Jahan iruxi occupation|
+|**Open Sky Accords**|Versenne|Formalizes foreign research partnerships, permits long-term institutional concessions, and creates independently funded expeditions under Jahaxi supervision|
+|**Public Hazard Register**|Oakuma and several independent representatives|Requires regular publication of dangerous routes, excavation accidents, waystone incidents, missing expeditions, and changes to previously issued maps|
 
-Each proposal addresses a documented failure in Jaha’s government. Each would also increase the influence of the people sponsoring it.
+Each proposal addresses a documented failure in Jaha’s government and would increase the influence of its sponsors.
 
 No proposal currently has enough support to pass. Temporary coalitions form around individual provisions, then collapse when another dispute reaches the Assembly.
 
@@ -166,9 +182,13 @@ The West Terrace Court Complex is a large pre-Jahan structure between an inhabit
 The site became politically significant after four discoveries:
 
 1. Public works engineers determined that the upper complex could house approximately sixty families.
+    
 2. Recovery workers found iruxi remains beneath a resurfaced communal floor.
+    
 3. Inscriptions suggest that part of the complex served an administrative or court function before the Jahan conquest.
+    
 4. A sealed lower chamber contains a dormant waystone and records that may predate the theocracy.
+    
 
 Iakanne authorized temporary occupation of the upper residences during a housing shortage.
 
@@ -186,7 +206,7 @@ Each major political figure now uses West Terrace as evidence that their propose
 
 ### Political Escalation
 
-The West Terrace dispute is approaching a point where temporary measures will no longer hold.
+The remaining deadlines at West Terrace will force another decision soon.
 
 #### Current Stage
 
@@ -217,14 +237,20 @@ A structural failure, unauthorized entry, or discovery in the lower chambers for
 Possible outcomes include:
 
 - Iakanne overriding the restoration hold;
+    
 - Barashzi’s supporters physically occupying the complex;
+    
 - Versenne allowing the foreign team to enter under disputed authority;
+    
 - Oakuma releasing additional maps or concealed reports;
+    
 - the Terrace Assembly summoning everyone involved to a public hearing.
+    
 
-Gib does not need to resolve Jaha’s entire political conflict. His investigation may provide information that strengthens one position, undermines another, or creates a fifth problem none of the factions anticipated.
+Gib’s investigation may strengthen one position, undermine another, or introduce a problem none of the existing factions anticipated.
 
 ## Political Factions
+
 [[Jaha#Table of Contents|Return to Table of Contents]]
 
 ### Civic Continuity Bloc
@@ -234,11 +260,17 @@ The Civic Continuity Bloc supports Iakanne’s effort to strengthen central admi
 Its members include:
 
 - public works officials;
+    
 - central terrace residents;
+    
 - housing advocates;
+    
 - senior clerks;
+    
 - moderate merchants;
+    
 - militia officers frustrated by overlapping authority.
+    
 
 The bloc argues that Jaha cannot protect its residents while every emergency route, excavation, and structural repair requires negotiation among several institutions.
 
@@ -253,11 +285,17 @@ The Restoration Covenant supports Barashzi and the principle of iruxi authority 
 Its members include:
 
 - Circulation communities;
+    
 - ancestral recovery workers;
+    
 - spirit-speakers;
+    
 - younger iruxi organizers;
+    
 - former excavation laborers;
+    
 - Lirgeni citizens committed to restitution.
+    
 
 The Covenant argues that equal citizenship has limited meaning while institutions still dominated by Lirgeni administrative traditions determine what happens to iruxi remains, testimony, and former settlements.
 
@@ -272,12 +310,19 @@ The Open Sky League supports Versenne’s foreign partnerships and faster econom
 Its members include:
 
 - merchants;
+    
 - Saocratic Academy scholars;
+    
 - expedition organizers;
+    
 - river-district businesses;
+    
 - craftspeople dependent on imported materials;
+    
 - younger researchers;
+    
 - residents who believe Jaha is developing too slowly.
+    
 
 The League argues that Jaha lacks the equipment, specialists, military strength, and economic capacity to investigate or defend its discoveries alone.
 
@@ -298,6 +343,7 @@ Their members often disagree over which restricted locations should be made publ
 Their opponents accuse them of releasing incomplete information, enabling looting, and encouraging unqualified people to enter dangerous sites.
 
 ## Government Structure
+
 [[Jaha#Table of Contents|Return to Table of Contents]]
 
 The Jahaxi Republic is governed through the **Terrace Assembly**, whose representatives are drawn from inhabited districts, excavation communities, professional societies, fortress commands, and recognized civic institutions.
@@ -305,20 +351,27 @@ The Jahaxi Republic is governed through the **Terrace Assembly**, whose represen
 No single office controls all aspects of a ruin or investigation.
 
 - The **First Speaker’s Office** oversees civil administration, housing, public works coordination, emergency orders, and implementation of Assembly decisions.
+    
 - The **Office of Restoration** oversees ancestral recovery, former slave sites, iruxi testimony, recovered remains, and historically sensitive excavations.
+    
 - The **Office of External Expeditions** manages foreign delegations, sponsored research, trade agreements, and expeditions operating beyond ordinary public access.
+    
 - The **militia and fortress commands** control dangerous routes, exclusion zones, and immediate responses to threats.
+    
 - The **Saocratic Academy** controls access to some scholarly archives, instruments, and astronomical research.
+    
 - Independent institutions such as **Star-Crossed Charts** possess information and public influence without being directly subordinate to the republic.
+    
 
 Much of the government’s daily authority is exercised by clerks, excavation wardens, archivists, engineers, militia officers, recovery workers, and permit officials.
 
 Visitors usually encounter these functionaries before meeting a major political figure. A lower official may obey the wording of a permit while warning that another office will challenge it.
 
-The republic remains functional because its institutions continue providing services despite their disputes. Its government is increasingly shaped by temporary orders, contested jurisdiction, leaked reports, labor action, and agreements made before all relevant parties have consented.
+The republic’s institutions continue providing services through these disputes. Temporary orders, contested jurisdiction, leaked reports, labor action, and partially authorized agreements now shape much of its daily government.
 
 ## Access and Sponsorship
-[[Jaha#Table of Contents|Return to Table of Contents]]
+
+[[Jaha#Table of Contents|Return to Table of Contents]]  
 Ordinary visitors can enter public districts, rent lodging, trade in Jhebyiti, and ask about publicly known events. Access becomes more controlled when a person requests excavation records, waystone information, ancestral testimony, restricted maps, or evidence connected to the Jahan Disappearance.
 
 A recognized sponsor accepts some responsibility for a visitor’s conduct. Sponsorship normally applies to a specific subject or location. An academy official might grant access to an astronomical archive without providing entry to a sealed tunnel, while an excavation leader might authorize a field site without opening government records.
@@ -332,47 +385,53 @@ Iakanne’s authorization may open civic archives without granting access to iru
 A sponsor can help a visitor bypass ordinary barriers. The sponsor may also expect access to the findings, control over publication, or cooperation in an unrelated dispute.
 
 ## Reclamation and Excavation
-[[Jaha#Table of Contents|Return to Table of Contents]]
+
+[[Jaha#Table of Contents|Return to Table of Contents]]  
 The republic’s restoration work has shifted from emergency occupation toward permanent settlement. Streets are being cleared, drainage systems reopened, roofs repaired, and ancient residences adapted for smaller inhabitants. Some restored buildings retain doors, stairs, furniture, and fixtures built for creatures much taller than modern humans or iruxis.
 
 Iruxi explorers remain central to the city’s excavation work. Many live in or near mapped sections of the underground warrens and maintain routes between surface districts and the Circulation. Their work includes structural surveys, ancestral recovery, translation of claw-hieroglyphs, and contact with iruxi spirits associated with the former enslaved population.
 
 Lirgeni scholars are heavily involved in translation, magical analysis, astronomy, and the study of recovered technology. Disputes sometimes arise when scholars want an object moved for examination while restoration workers or iruxi representatives consider its original location historically significant.
 
-The city has recovered a great deal of information during the past eleven years. Each discovery has also exposed additional sealed chambers, contradictory records, or evidence that earlier inhabitants misunderstood the structures they occupied.
+The city has recovered a great deal of information during the past eleven years. Many discoveries have exposed additional sealed chambers, contradictory records, or evidence that earlier inhabitants misunderstood the structures they occupied.
 
 ## Major Areas
+
 [[Jaha#Table of Contents|Return to Table of Contents]]
 
-| Area | Current Condition |
-| --- | --- |
-| **Kehwamesi** | Jaha’s administrative, academic, residential, and spiritual center. Its lower terraces contain flats, shops, gardens, pools, workshops, and the Saocratic Academy. Access to the great dome and its astronomical systems remains tightly controlled. |
-| **Jhebyiti** | A permanent commercial district surrounding the Kehwamesi. It contains market stalls, workshops, chart sellers, guesthouses, restaurants, expedition suppliers, and storefronts serving foreign visitors. |
-| **Riverside Settlement** | Jaha’s main arrival point by the Olongo River. Docks, warehouses, farms, workshops, temporary lodging, and newer residences have expanded along the western approaches. The district is less monumental and more crowded than the ancient city. |
-| **Kehshigi, Tseshigi, and Semshigi** | Fully staffed fortresses used by the militia, researchers, surveyors, and district administrators. Their recovered war rooms and astronomical displays remain under study. |
-| **Herishigi** | The Moon Fortress remains sealed and surrounded by a formal exclusion zone. Patrols watch the approaches, maintain warning markers, and respond when undead or altered explorers emerge from the area. |
-| **The Circulation** | Several underground routes are mapped, maintained, and inhabited. Deeper passages continue to shift, close, or connect to previously unknown chambers. Maps include dates because a dependable route may cease to exist. |
-| **Outer Terraces** | A mixture of abandoned streets, jungle growth, isolated restoration camps, dangerous animals, and intact structures awaiting inspection. Patrol coverage is inconsistent outside marked routes. |
-| **Registered Waystones** | Known pairs are guarded, documented, and activated only with authorization. Unpaired stones, unknown destinations, and stones found during excavation are isolated until they can be examined. |
+|   |   |
+|---|---|
+|Area|Current Condition|
+|**Kehwamesi**|Jaha’s administrative, academic, residential, and spiritual center. Its lower terraces contain flats, shops, gardens, pools, workshops, and the Saocratic Academy. Access to the great dome and its astronomical systems remains tightly controlled.|
+|**Jhebyiti**|A permanent commercial district surrounding the Kehwamesi. It contains market stalls, workshops, chart sellers, guesthouses, restaurants, expedition suppliers, and storefronts serving foreign visitors.|
+|**Riverside Settlement**|Jaha’s main arrival point by the Olongo River. Docks, warehouses, farms, workshops, temporary lodging, and newer residences have expanded along the western approaches. Its construction is dense and practical, with few of the ancient city’s monumental structures.|
+|**Kehshigi, Tseshigi, and Semshigi**|Fully staffed fortresses used by the militia, researchers, surveyors, and district administrators. Their recovered war rooms and astronomical displays remain under study.|
+|**Herishigi**|The Moon Fortress remains sealed and surrounded by a formal exclusion zone. Patrols watch the approaches, maintain warning markers, and respond when undead or altered explorers emerge from the area.|
+|**The Circulation**|Several underground routes are mapped, maintained, and inhabited. Deeper passages continue to shift, close, or connect to previously unknown chambers. Maps include dates because a dependable route may cease to exist.|
+|**Outer Terraces**|A mixture of abandoned streets, jungle growth, isolated restoration camps, dangerous animals, and intact structures awaiting inspection. Patrol coverage is inconsistent outside marked routes.|
+|**Registered Waystones**|Known pairs are guarded, documented, and activated only with authorization. Unpaired stones, unknown destinations, and stones found during excavation are isolated until they can be examined.|
 
 ## Current Pressures
+
 [[Jaha#Table of Contents|Return to Table of Contents]]
 
-| Issue                          | Current Situation                                                                                                                                                                                     |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Charter review**             | The delayed review has become a contest over executive authority, iruxi stewardship, foreign access, and public disclosure. Every current crisis is used as evidence for one of the proposed reforms. |
-| **West Terrace Court Complex** | Families occupy the upper rooms while a restoration hold prevents permanent repairs. A foreign institution demands promised access, and incomplete maps of the lower route are circulating.           |
-| **Ancestral recovery**         | Disputes concern burial, preservation, testimony, custody, public display, and whether iruxi institutions or the republic have final authority.                                                       |
-| **Housing expansion**          | Many structurally sound buildings remain archaeological sites, contain unresolved hazards, or fall under competing claims.                                                                            |
-| **Foreign commitments**        | Versenne’s partnerships supply equipment, specialists, and money. Some agreements promise access that other offices never approved.                                                                   |
-| **Public hazard information**  | Officials restrict maps and reports to prevent panic, looting, or unsafe expeditions. Oakuma and her allies argue that secrecy places residents at greater risk.                                      |
-| **Waystone control**           | Registered routes are useful for transportation and research. Unauthorized activation could strand people or expose sealed locations.                                                                 |
-| **The Circulation**            | Stable communities occupy mapped routes, but shifting passages can isolate homes, excavation teams, and supply stations.                                                                              |
-| **The Jahan Disappearance**    | Eleven years of investigation have produced evidence and competing theories without a confirmed explanation.                                                                                          |
-| **The Moon Fortress**          | Missing explorers, returning undead, burgundy mist, and unknown speech keep pressure on the militia to investigate despite repeated losses.                                                           |
-| **Sleep and dreams**           | The nocturnal schedule is sustainable, though chronic sleep problems continue to affect residents and visitors.                                                                                       |
+|   |   |
+|---|---|
+|Issue|Current Situation|
+|**Charter review**|The delayed review has become a contest over executive authority, iruxi stewardship, foreign access, and public disclosure. Every current crisis is used as evidence for one of the proposed reforms.|
+|**West Terrace Court Complex**|Families occupy the upper rooms while a restoration hold prevents permanent repairs. A foreign institution demands promised access, and incomplete maps of the lower route are circulating.|
+|**Ancestral recovery**|Disputes concern burial, preservation, testimony, custody, public display, and whether iruxi institutions or the republic have final authority.|
+|**Housing expansion**|Many structurally sound buildings remain archaeological sites, contain unresolved hazards, or fall under competing claims.|
+|**Foreign commitments**|Versenne’s partnerships supply equipment, specialists, and money. Some agreements promise access that other offices never approved.|
+|**Public hazard information**|Officials restrict maps and reports to prevent panic, looting, or unsafe expeditions. Oakuma and her allies argue that secrecy places residents at greater risk.|
+|**Waystone control**|Registered routes are useful for transportation and research. Unauthorized activation could strand people or expose sealed locations.|
+|**The Circulation**|Stable communities occupy mapped routes, but shifting passages can isolate homes, excavation teams, and supply stations.|
+|**The Jahan Disappearance**|Eleven years of investigation have produced evidence and competing theories without a confirmed explanation.|
+|**The Moon Fortress**|Missing explorers, returning undead, burgundy mist, and unknown speech keep pressure on the militia to investigate despite repeated losses.|
+|**Sleep and dreams**|The nocturnal schedule is sustainable, though chronic sleep problems continue to affect residents and visitors.|
 
 ## Local Attitudes
+
 [[Jaha#Table of Contents|Return to Table of Contents]]
 
 Jahaxis generally welcome visitors who arrive openly, respect excavation rules, and demonstrate a reason for being in the city. Residents become guarded when strangers ask about sealed locations, private records, iruxi remains, or valuable artifacts without explaining their purpose.
@@ -380,65 +439,86 @@ Jahaxis generally welcome visitors who arrive openly, respect excavation rules, 
 Political loyalties often follow where a person lives and works:
 
 - **Central terrace residents** tend to support stronger administration because they rely on housing decisions, public works, and consistent policing.
+    
 - **Circulation communities** tend to support iruxi stewardship because excavation decisions affect ancestral sites and inhabited underground routes.
+    
 - **River-district merchants and academics** are more likely to support foreign partnerships and faster expansion.
+    
 - **Outer-terrace residents, surveyors, and fortress personnel** often favor public hazard disclosure because they bear the immediate cost of inaccurate or restricted information.
+    
 
-These are tendencies rather than fixed ethnic or professional divisions. Every faction includes humans, iruxis, and members of other ancestries.
+These are broad tendencies. Every faction includes humans, iruxis, and members of other ancestries.
 
-Most residents do not consider any founder entirely wrong. They disagree over which danger Jaha can least afford: executive overreach, continued dispossession, foreign exploitation, or secrecy that leaves ordinary people uninformed.
+Most residents can see some merit in each founder’s position. Their disagreements concern which danger demands the fastest response: executive overreach, continued dispossession, foreign exploitation, or secrecy that leaves ordinary people uninformed.
 
 ## Campaign Relevance
+
 [[Jaha#Table of Contents|Return to Table of Contents]]
 
-Molak represents one unresolved thread within Jaha’s history. He should not dominate the city’s institutions or existing mysteries.
+Molak is one unresolved part of Jaha’s history. Jaha’s institutions and existing mysteries have their own priorities beyond Gib’s investigation.
 
 Jahaxi officials initially understand Gib’s purpose as a historical investigation conducted with Eeler. They do not know about the mirror, the name Seventh Witness, Gib’s creation, or Molak’s connection to Sivanah.
 
 The investigation becomes politically relevant because Eeler may remember:
 
 - the pre-Jahan iruxi court;
+    
 - original Molak’s position within that court;
+    
 - locations now subject to ancestral or municipal claims;
+    
 - routes that predate current maps;
+    
 - records placing Molak in conflicting locations;
+    
 - structures later altered by the Jahans.
+    
 
 Investigation into Molak’s life may involve:
 
 - old residential, academic, court, or expedition records;
+    
 - testimony recovered from iruxi ancestors;
+    
 - references placing Molak in conflicting locations;
+    
 - evidence that two individuals used the same name or identity;
+    
 - a glass orrery connected to his research;
+    
 - waystone routes leading to an ancient concert hall, throne room, library, or recently used dining hall;
+    
 - Eeler’s memories of Molak before his behavior changed.
+    
 
 If Gib and Eeler’s investigation reaches Jaha’s major institutions, each political figure will attempt to place the relevant records, testimony, or expedition under their own authority.
 
-| Sponsor | What they offer | What they expect |
-| --- | --- | --- |
-| **Iakanne** | civic archives, quiet authorization, legal protection | private reports and control over dangerous disclosures |
-| **Barashzi** | ancestral testimony, iruxi records, protected-site access | iruxi custody of testimony concerning the earlier court |
-| **Versenne** | expedition status, specialists, equipment, broad contacts | institutional access to findings and authority over publication |
-| **Oakuma** | historical maps, route reconstruction, unofficial information | access to Eeler and freedom to publish safety-relevant discoveries |
-| **Terrace Assembly** | broad legal authority | public testimony, political scrutiny, and formal oversight |
+|   |   |   |
+|---|---|---|
+|Sponsor|What they offer|What they expect|
+|**Iakanne**|civic archives, quiet authorization, legal protection|private reports and control over dangerous disclosures|
+|**Barashzi**|ancestral testimony, iruxi records, protected-site access|iruxi custody of testimony concerning the earlier court|
+|**Versenne**|expedition status, specialists, equipment, broad contacts|institutional access to findings and authority over publication|
+|**Oakuma**|historical maps, route reconstruction, unofficial information|access to Eeler and freedom to publish safety-relevant discoveries|
+|**Terrace Assembly**|broad legal authority|public testimony, political scrutiny, and formal oversight|
 
-No option is neutral. The person Gib chooses first affects which records become available, who accompanies him, and who begins treating his investigation as a political threat.
+Each sponsor offers different records, contacts, and protection, and each expects something in return. Gib’s first choice affects who accompanies him and who begins treating his investigation as a political threat.
 
 Records may eventually establish that two people apparently used Molak’s identity during the same period without explaining how or why. Any connection between those records, Gib, and the hidden mirror remains behind-the-screen information.
 
 ## NPC Renders
+
 [[Jaha#Table of Contents|Return to Table of Contents]]
 
 ### Iakanne Aarsani
+
 **First Speaker of the Jahaxi Republic**
 
 #### Spotlight
 
-Iakanne believes a republic must be capable of making decisions. A government that allows every institution to halt every other institution eventually loses the ability to protect its citizens.
+Iakanne believes Jaha’s government must make decisions quickly enough to protect its residents. She has watched overlapping authority delay repairs, evacuations, and investigations.
 
-She sees unified law and equal citizenship as the only viable alternative to dividing Jaha among ancestral councils, professional societies, foreign institutions, and independent expeditions.
+She wants one civic government to apply the same law to every resident. She fears that ancestral councils, professional societies, foreign institutions, and independent expeditions will divide authority over the city.
 
 Iakanne helped design limits on executive power. She now believes those limits are preventing the government from responding to emergencies.
 
@@ -451,21 +531,27 @@ Her immediate objective is passage of the **Civic Continuity Act**, which would 
 Her supporters include:
 
 - public works officials;
+    
 - central terrace families;
+    
 - housing advocates;
+    
 - senior clerks;
+    
 - moderate merchants;
+    
 - militia officers frustrated by overlapping authority.
+    
 
 #### Edge
 
 Iakanne uses emergency orders, procedural control, private negotiation, and selective disclosure.
 
-She decides which reports reach the full Assembly, which matters receive urgent debate, and which temporary measures remain active while committees investigate. She presents completed decisions as temporary necessities rather than proposals requiring advance approval.
+She decides which reports reach the full Assembly, which matters receive urgent debate, and which temporary measures remain active while committees investigate. She often acts first under a temporary order and sends the decision to the Assembly afterward.
 
 When another office obstructs a route or project she considers essential, Iakanne will use the militia to keep it open, confiscate restricted records under emergency authority, or suspend officials who refuse her orders.
 
-She considers this executive responsibility. Her opponents consider it a gradual concentration of power.
+Iakanne believes these actions fall within her duty as First Speaker. Her critics cite them as evidence that her office is accumulating power.
 
 #### What she is right about
 
@@ -473,7 +559,7 @@ The Terrace Assembly has repeatedly failed to resolve emergencies in time.
 
 Excavation wardens, restoration officials, militia officers, and public works engineers regularly claim overlapping jurisdiction. Several lives have been saved because Iakanne acted before the Assembly reached a decision.
 
-She is also correct that some political actors use procedural safeguards to avoid accepting responsibility for difficult choices.
+Some political actors use procedural safeguards to delay choices they do not want to own.
 
 #### What she is wrong about
 
@@ -481,13 +567,13 @@ Iakanne increasingly treats disagreement as administrative obstruction.
 
 She conceals information until she knows what response she wants. Her temporary orders accumulate into standing policy. Officials loyal to her office receive records, permits, and warnings before other institutions.
 
-She believes her personal restraint distinguishes her from an autocrat. Her opponents believe safeguards dependent on one leader’s restraint are not safeguards.
+She trusts herself to use these powers carefully. The charter provides few checks if a later First Speaker uses them differently.
 
 #### Practical
 
 Iakanne’s family trusted Lirgeni predictions concerning the Eye of Abendego. They died while following plans presented as safe.
 
-She keeps their final astrological departure chart in her private office. The calculations are precise. The conclusion was catastrophically wrong.
+She keeps their final astrological departure chart in her private office. The chart’s calculations are precise; its predicted safe route led her family to their deaths.
 
 Claims of certainty make her suspicious, especially when the person making the claim wants power, access, or obedience.
 
@@ -502,20 +588,32 @@ She will not evacuate sixty families unless replacement housing exists. She argu
 #### View of the others
 
 - **Barashzi:** Iakanne believes they are building an iruxi authority that answers to the republic only when convenient.
+    
 - **Versenne:** Iakanne believes she commits Jaha to foreign agreements before the government can assess their consequences.
+    
 - **Oakuma:** Iakanne believes Oakuma releases partial information and leaves public officials responsible for the panic and trespassing that follow.
+    
 - **The Terrace Assembly:** Iakanne respects the institution but increasingly believes many representatives prefer investigation to decision.
+    
 
 #### Table behavior
 
 - Requests exact names, dates, locations, and intended outcomes.
+    
 - Reads documents while other people speak.
+    
 - Repeats agreements aloud before accepting them.
+    
 - Becomes quieter when angry.
+    
 - Uses the word “temporary” often.
+    
 - Asks which official is willing to place their name beside a recommendation.
+    
 - Rarely meets visitors without a clerk recording the conversation.
+    
 - Treats vague warnings as attempts to make her assume someone else’s risk.
+    
 
 #### First introduction
 
@@ -532,10 +630,15 @@ Iakanne wants Gib and Eeler’s investigation kept narrow and quiet.
 She asks for:
 
 - the period of Molak’s life they are investigating;
+    
 - the records or locations they require;
+    
 - evidence that Molak has present-day relevance;
+    
 - an agreement to report dangerous discoveries before making them public;
+    
 - assurance that Eeler’s testimony will not create an uncontrolled political dispute.
+    
 
 She may authorize civic archives and legal protection without involving the full Assembly.
 
@@ -545,19 +648,19 @@ Accepting her assistance makes the investigation dependent on her office. She wi
 
 > “The Assembly has debated that passage for nine weeks. People still have to use it tonight.”
 
-> “A temporary order remains temporary even when the emergency lasts longer than expected.”
+> “The order has an end date and review requirements. It remains valid until the Assembly changes it.”
 
 > “Give me the records you need. I will decide which office has authority to release them.”
 
-> “Barashzi can preserve the lower rooms. They do not get to empty the floors above them.”
+> “Barashzi can preserve the lower rooms. The families on the upper floors remain under my protection.”
 
-> “I am asking what can be verified. Eeler’s certainty is not evidence by itself.”
+> “I need records, dates, or a location we can verify. Eeler’s memory alone will not carry the request.”
 
 #### Pre-lighting Iakanne
 
 Residents may say:
 
-> “Iakanne keeps the city moving. Sometimes she decides where it is going before anyone else hears about it.”
+> “Iakanne gets decisions made. You usually hear about them after the order has already gone out.”
 
 > “Temporary orders last longer than they used to.”
 
@@ -566,13 +669,14 @@ Residents may say:
 ---
 
 ### Barashzi the Cross-Star
+
 **Speaker for Restoration**
 
 #### Spotlight
 
 Barashzi believes the republic cannot claim to have replaced the Jahan system while Lirgeni institutions retain final authority over iruxi land, remains, and testimony.
 
-They see ancestral stewardship as political sovereignty rather than ceremonial consultation.
+For Barashzi, ancestral stewardship requires real authority over remains, testimony, and former iruxi sites.
 
 Barashzi helped build the republic because they believed cooperation could prevent the old abuses from recurring. They now suspect that the republic’s promise of equal citizenship allows existing Lirgeni institutions to retain control while presenting that control as neutral law.
 
@@ -583,19 +687,30 @@ Barashzi oversees ancestral recovery, former slave sites, recovered testimony, t
 Their immediate objective is adoption of the **Ancestral Stewardship Article**, which would give recognized iruxi councils controlling authority over:
 
 - ancestral remains;
+    
 - former slave quarters;
+    
 - recovered iruxi testimony;
+    
 - pre-Jahan iruxi administrative sites;
+    
 - objects associated with the Eclipsed Generation.
+    
 
 Their supporters include:
 
 - Circulation communities;
+    
 - ancestral recovery workers;
+    
 - spirit-speakers;
+    
 - younger iruxi organizers;
+    
 - former excavation laborers;
+    
 - Lirgeni restoration advocates.
+    
 
 #### Edge
 
@@ -613,9 +728,9 @@ Iruxi remains and former slave sites have repeatedly been treated as obstacles t
 
 Academic institutions have studied recovered objects without consulting descendant communities. Information placed in central archives has sometimes been restricted from the same iruxi families whose ancestors produced it.
 
-Procedural equality has not removed the effects of conquest and enslavement.
+Equal rules on paper have left earlier patterns of dispossession intact.
 
-Barashzi is also correct that a promise to investigate later often becomes permission to destroy something now.
+Several sites suffered permanent damage after officials approved work first and promised an investigation later.
 
 #### What they refuse to recognize
 
@@ -625,7 +740,7 @@ Their closures affect drainage, transportation, housing, and public safety. Thei
 
 They are creating institutions with significant coercive power and limited outside oversight.
 
-Barashzi is willing to impose costs on living residents because they believe future generations will condemn anyone who accepted less.
+Barashzi will accept delays to housing, drainage, and repairs when the work could damage an ancestral site.
 
 #### Practical
 
@@ -634,14 +749,19 @@ Barashzi escaped Jahan enslavement with a small group of their kin. Many others 
 They maintain a hand-copied register containing:
 
 - the names of those who escaped;
+    
 - the last known locations of those left behind;
+    
 - identified remains;
+    
 - testimony recovered from ancestral spirits;
+    
 - unresolved cases.
+    
 
 Barashzi reviews every proposed identification personally.
 
-They have found names belonging to people they knew. They have not found enough of them.
+The register now includes several people Barashzi knew personally. Many names remain missing.
 
 #### West Terrace position
 
@@ -654,20 +774,32 @@ They reject Iakanne’s attempt to separate the residences from the lower site. 
 #### View of the others
 
 - **Iakanne:** Barashzi believes equal citizenship has become language used to avoid addressing unequal history.
+    
 - **Versenne:** Barashzi believes she negotiates with foreign institutions using property and history that are not hers to offer.
+    
 - **Oakuma:** Barashzi respects her willingness to challenge government secrecy but believes her maps expose ancestral sites to looters and collectors.
+    
 - **The Terrace Assembly:** Barashzi believes the Assembly delays decisions until immediate necessity favors the people already in control.
+    
 
 #### Table behavior
 
 - Asks who discovered a site, who entered it, and who moved anything.
+    
 - Uses full names when assigning responsibility.
+    
 - Touches walls or floors before examining removed objects.
+    
 - Allows long pauses while deciding whether someone is careless or dishonest.
+    
 - Speaks directly about conquest and enslavement.
+    
 - Treats requests for speed as evidence that someone has already chosen what may be sacrificed.
+    
 - Refuses to discuss an artifact separately from where it was found.
+    
 - Records names before numbers.
+    
 
 #### First introduction
 
@@ -684,11 +816,17 @@ Barashzi wants Eeler’s testimony concerning the pre-Jahan city recorded under 
 They want:
 
 - the identity of the court Eeler served;
+    
 - the names of iruxi people he knew personally;
+    
 - Molak’s position within that society;
+    
 - locations later repurposed by the Jahans;
+    
 - names absent from existing ancestral records;
+    
 - clarification of whether Eeler remembers Molak changing before or after the Jahan conquest.
+    
 
 They may provide access to ancestral testimony, protected sites, and Circulation communities.
 
@@ -698,13 +836,13 @@ They will expect recovered information concerning the earlier iruxi court to rem
 
 > “You occupied the rooms before anyone asked what was beneath them.”
 
-> “The republic does not own testimony because one of its clerks copied it.”
+> “The testimony remains with the people who gave it, even after one of the republic’s clerks makes a copy.”
 
-> “Iakanne calls the order temporary. The families living there call it home.”
+> “Families have lived there long enough to call it home. Iakanne’s paperwork still lists their occupancy as temporary.”
 
 > “Eeler may speak. One of our historians will record him.”
 
-> “A permit tells me who approved the work. It does not make the work acceptable.”
+> “The permit identifies the approving office. I still need to decide whether the work can proceed.”
 
 #### Pre-lighting Barashzi
 
@@ -714,18 +852,19 @@ Residents may say:
 
 > “They keep testimony outside the republic’s archives now.”
 
-> “They were right often enough that people stopped asking what happens when they are wrong.”
+> “Barashzi has stopped enough bad excavations that people hesitate to challenge a new hold, even when the closure causes other problems.”
 
 ---
 
 ### Versenne
+
 **Head Ambassador and Director of External Expeditions**
 
 #### Spotlight
 
 Versenne believes isolation destroyed the old Jahan society and nearly destroyed the Lirgeni diaspora.
 
-Jaha requires allies, trade, specialists, and foreign institutions invested in its survival. She considers controlled partnership safer than leaving outsiders to pursue the city’s secrets independently.
+Jaha requires allies, trade, specialists, and foreign institutions invested in its survival. She prefers formal partnerships that keep foreign institutions inside Jaha’s rules and under Jahaxi supervision.
 
 Versenne believes the republic’s other leaders underestimate how quickly outside interest will become outside intervention.
 
@@ -738,12 +877,19 @@ Her immediate objective is adoption of the **Open Sky Accords**, which would for
 Her supporters include:
 
 - merchants;
+    
 - the Saocratic Academy;
+    
 - expedition organizers;
+    
 - river-district businesses;
+    
 - craftspeople dependent on imported materials;
+    
 - younger scholars;
+    
 - citizens who want faster growth.
+    
 
 #### Edge
 
@@ -753,7 +899,7 @@ She often secures a commitment first and resolves jurisdiction afterward. This a
 
 She will omit details from Assembly reports, issue access under ambiguous authority, and use foreign pressure to force stalled decisions.
 
-Versenne tells herself she is preserving relationships Jaha cannot afford to lose.
+Versenne believes Jaha cannot afford to lose the relationships she protects.
 
 #### What she is right about
 
@@ -761,7 +907,7 @@ Jaha cannot manufacture every tool, train every specialist, or defend every disc
 
 Foreign partnerships have funded hospitals, river docks, structural surveys, magical research, and expedition equipment. Other governments and organizations will pursue Jaha’s discoveries whether invited or excluded.
 
-Versenne is also correct that refusing every imperfect arrangement would leave Jaha dependent on whatever resources it can produce internally.
+Jaha’s own resources cannot cover every project, and several imperfect agreements have kept essential work moving.
 
 #### What she is wrong about
 
@@ -771,7 +917,7 @@ She understates risks to prevent sponsors from leaving. Her office uses private 
 
 She believes she controls these relationships more thoroughly than she does.
 
-Versenne tends to view broken agreements as greater threats than the harms those agreements may cause.
+She focuses heavily on preserving agreements and may minimize the harm their terms cause inside Jaha.
 
 #### Practical
 
@@ -780,14 +926,19 @@ During the years after the Eye of Abendego opened, Versenne coordinated relief p
 She keeps an old ledger recording:
 
 - what each group promised;
+    
 - what actually arrived;
+    
 - how late it arrived;
+    
 - who took credit;
+    
 - which commitments were abandoned.
+    
 
 She still works with several organizations listed in that ledger.
 
-Versenne remembers which groups failed the Lirgeni refugees. She also remembers how few alternatives were available.
+Her ledger records the groups that failed the Lirgeni refugees and the limited options she had when she accepted their help.
 
 #### West Terrace position
 
@@ -797,25 +948,37 @@ The surveying institution has already delivered equipment used throughout Jaha. 
 
 Versenne argues that a professional survey would clarify the site faster than an indefinite closure.
 
-She is willing to accept Barashzi’s supervision. She is unwilling to let Barashzi determine whether work ever begins.
+She will accept Barashzi’s supervision if the survey receives a firm start date.
 
 #### View of the others
 
 - **Iakanne:** Versenne believes she uses review and emergency authority to claim control over projects initiated by other offices.
+    
 - **Barashzi:** Versenne believes their restrictions can turn Jaha into a protected ruin with no economy capable of supporting its residents.
+    
 - **Oakuma:** Versenne believes her disclosures damage the agreements that fund the safety systems she claims to defend.
+    
 - **The Terrace Assembly:** Versenne believes many representatives oppose foreign agreements publicly while requesting foreign resources privately.
+    
 
 #### Table behavior
 
 - Remembers names, affiliations, and previous requests.
+    
 - Allows aides to interrupt her with urgent messages.
+    
 - Asks what a person can deliver and by when.
+    
 - Offers enough access to make refusal difficult.
+    
 - Keeps restricted maps folded or face down.
+    
 - Maintains a courteous tone while transferring risk onto someone else.
+    
 - Distinguishes carefully between what she authorized and what she expected.
+    
 - Refers to damaged relationships as material losses.
+    
 
 #### First introduction
 
@@ -832,11 +995,17 @@ Versenne wants to turn Gib and Eeler’s search into an official expedition.
 She asks for:
 
 - one historically verifiable claim;
+    
 - access to Eeler as a witness;
+    
 - copies of recovered records;
+    
 - the right to appoint an observer;
+    
 - control over when findings are released;
+    
 - permission to contact outside specialists if the investigation exceeds Jaha’s expertise.
+    
 
 She may offer permits that Iakanne or Barashzi refuses to recognize.
 
@@ -844,34 +1013,35 @@ Accepting her sponsorship provides the broadest resources and creates the greate
 
 #### Lines
 
-> “The equipment is already here. Cancelling the agreement does not erase what we accepted in return.”
+> “The republic has already accepted the equipment. Cancelling now still leaves us responsible for what we took in return.”
 
-> “Barashzi can supervise the work. They cannot refuse to define when the work may begin.”
+> “I will accept Barashzi’s supervision once we have a firm date to begin.”
 
 > “Iakanne calls it unauthorized because she was not the first person asked.”
 
 > “Give me something I can verify, and I can give your investigation institutional standing.”
 
-> “I did not authorize the adjoining chamber. I authorized a survey of the site.”
+> “My permit covers the site survey. The adjoining chamber falls outside it.”
 
 #### Pre-lighting Versenne
 
 Residents may say:
 
-> “Versenne can get you through a door. Check whether she controls the room behind it.”
+> “Versenne can secure access quickly. Another office may read her permit more narrowly than she does.”
 
 > “Read every restriction on her permits.”
 
-> “She has brought half the city’s foreign support here. She has also promised the same access to people who do not speak to one another.”
+> “A lot of Jaha’s foreign support came through Versenne. Several of those agreements overlap or conflict.”
 
 ---
 
 ### Oakuma Mujafor
+
 **Owner of Star-Crossed Charts**
 
 #### Spotlight
 
-Oakuma believes dangerous information belongs to the people endangered by it.
+Oakuma believes residents should receive maps and hazard reports when those hazards affect their homes, routes, or work.
 
 She distrusts every office that claims secrecy protects the public because she has seen restricted maps used to protect reputations, research claims, and political authority.
 
@@ -884,21 +1054,34 @@ Oakuma runs Star-Crossed Charts with her daughters Kajeera, Inali, and Shora.
 Her immediate objective is establishment of the **Public Hazard Register**, which would require scheduled publication of:
 
 - route closures;
+    
 - excavation accidents;
+    
 - waystone incidents;
+    
 - missing expeditions;
+    
 - known changes to issued maps;
+    
 - hazards affecting inhabited districts.
+    
 
 Her supporters include:
 
 - independent explorers;
+    
 - outer-terrace residents;
+    
 - surveyors;
+    
 - excavation laborers;
+    
 - river pilots;
+    
 - families of missing expedition members;
+    
 - Assembly representatives hostile to the founders’ influence.
+    
 
 #### Edge
 
@@ -908,7 +1091,7 @@ She decides for herself when the public interest outweighs a restriction.
 
 She will publish confidential reports, identify officials who withheld warnings, and distribute maps outside government channels.
 
-Oakuma accepts legal penalties when she believes a release was justified. She is less willing to accept responsibility for how other people use the information.
+Oakuma will accept fines or prosecution for a release she considers justified. She rarely accepts blame for trespassing or looting enabled by her maps.
 
 #### What she is right about
 
@@ -918,17 +1101,17 @@ Residents have been injured while officials debated whether a danger was confirm
 
 Maps unavailable to the public are frequently available to officials, sponsored expeditions, and wealthy institutions.
 
-Oakuma is correct that secrecy often protects decision-makers before it protects residents.
+Secrecy has often protected officials, sponsors, and research claims before warnings reached residents.
 
 #### What she is wrong about
 
-Information does not become safe because it is accurate.
+Accurate information can still lead people into unsafe places.
 
 Her maps have enabled looting, unauthorized excavation, and entry into unstable locations. Early reports can be incomplete or misleading. She sometimes releases information partly because she resents the person trying to restrict it.
 
 Oakuma treats her own judgment as a sufficient safeguard.
 
-She is more likely to admit that a route changed than that she should never have published it.
+When one of her maps leads to harm, Oakuma usually attributes the failure to a changed route or misuse of the map. She has difficulty admitting that publication itself was a mistake.
 
 #### Practical
 
@@ -951,20 +1134,32 @@ Kajeera believes the route should have been withheld until guards were in place.
 #### View of the others
 
 - **Iakanne:** Oakuma believes she hides information until the public can no longer influence the decision.
+    
 - **Barashzi:** Oakuma believes community control can become another form of secrecy.
+    
 - **Versenne:** Oakuma believes foreign sponsors receive information ordinary residents are denied.
+    
 - **The Terrace Assembly:** Oakuma believes its members leak information selectively while condemning her for releasing it openly.
+    
 
 #### Table behavior
 
 - Draws while people explain where they traveled.
+    
 - Examines mud, dust, spores, and equipment damage.
+    
 - Interrupts vague directions with specific questions.
+    
 - Writes corrections directly onto working maps.
+    
 - Keeps discontinued maps for comparison.
+    
 - Treats attempts to restrict information as evidence that someone is protecting themselves.
+    
 - Asks when a route was used before asking whether it was safe.
-- Becomes defensive when someone criticizes the decision to publish rather than the accuracy of the map.
+    
+- Becomes defensive when someone criticizes her decision to publish, especially when the map itself was accurate.
+    
 
 #### First introduction
 
@@ -981,11 +1176,17 @@ Oakuma wants Eeler to reconstruct the city he remembers using historical and cur
 She wants:
 
 - dates;
+    
 - routes;
+    
 - old district names;
+    
 - locations connected to Molak;
+    
 - identifiable changes between Eeler’s Jaha and the current city;
+    
 - records that place Molak in two locations within an impossible period.
+    
 
 She may provide historical maps and unofficial records without political sponsorship.
 
@@ -993,13 +1194,13 @@ She may also publish what she learns if she believes it affects public safety. G
 
 #### Lines
 
-> “The route was dangerous before I printed it.”
+> “The danger was already there. Printing the route gave the residents above it a warning.”
 
-> “Versenne’s guests had the map. The people living above the passage did not.”
+> “Versenne’s guests received the map before the residents living above the passage.”
 
-> “Barashzi can remove the burial chamber from public copies. They cannot erase the street that leads past it.”
+> “I can remove the burial chamber from the public copy. The street and the hazard affecting it still need to be shown.”
 
-> “Bring Eeler here. Memory becomes more useful when it has to point somewhere.”
+> “Bring Eeler here. Put a map in front of him and ask where he remembers being.”
 
 > “The map was dated. Put that in the report.”
 
@@ -1009,9 +1210,9 @@ Residents may say:
 
 > “Oakuma’s maps are the best available. She will remind you of that herself.”
 
-> “She saved people by publishing a restricted map. Looters used the same map the following week.”
+> “Her West Terrace map helped residents plan around a dangerous passage. Looters used copies of it within the week.”
 
-> “If Oakuma is uncertain, the map says so. If she is angry, it may say more than it should.”
+> “Her maps mark uncertainty clearly. When she is angry with an office, she sometimes includes details that office wanted withheld.”
 
 ---
 
@@ -1025,7 +1226,7 @@ She evaluates claims through distance, travel time, supplies, injuries, and visi
 
 Kajeera believes her mother kept the West Terrace map in circulation partly because withdrawing it would admit fault. She supports public hazard information but wants releases delayed until routes can be secured.
 
-**Single strong light:** Kajeera trusts a frightened witness more than a confident one, provided the frightened witness admits what they did not see.
+**Single strong light:** Kajeera gives more weight to witnesses who admit what they missed, especially when they are frightened.
 
 #### Inali Mujafor
 
@@ -1035,7 +1236,7 @@ She notices patterns in records that appear unrelated when read separately. Her 
 
 Inali shares unfinished conclusions when excited and can expose sensitive information before considering who is listening.
 
-**Single strong light:** Inali stops answering questions when a pattern changes in front of her and resumes speaking only after she has redrawn it.
+**Single strong light:** When one of Inali’s charts changes, she stops talking until she has redrawn the affected section.
 
 #### Shora Mujafor
 
@@ -1045,7 +1246,7 @@ She remembers which visitors requested particular maps, which institutions funde
 
 Shora quietly keeps copies of requests Oakuma agrees to destroy. She believes the shop may eventually need proof of who asked for restricted information.
 
-**Single strong light:** Shora remembers people through what they wanted to find.
+**Single strong light:** Shora remembers what each visitor asked for and whether they returned for the same information.
 
 ---
 
@@ -1053,19 +1254,20 @@ Shora quietly keeps copies of requests Oakuma agrees to destroy. She believes th
 
 #### Spotlight
 
-The Terrace Assembly was created to prevent any founder, community, or profession from controlling Jaha.
-Its members now use procedure to contest control of the city.
+The Terrace Assembly was created to prevent any founder, community, or profession from controlling Jaha.  
+Its factions now use hearings, funding, and procedure to block one another.
 
 Every bloc believes another faction is exploiting a genuine emergency to create authority outside the charter.
 
 #### Fill
 
-| Bloc | Primary concerns |
-| --- | --- |
-| **Civic Continuity Bloc** | housing, public works, central administration, militia coordination |
-| **Restoration Covenant** | ancestral authority, iruxi restitution, excavation restrictions |
-| **Open Sky League** | trade, foreign partnerships, academy funding, expansion |
-| **Survey and Watch Independents** | public safety records, fortress funding, route access, founder oversight |
+|   |   |
+|---|---|
+|Bloc|Primary concerns|
+|**Civic Continuity Bloc**|housing, public works, central administration, militia coordination|
+|**Restoration Covenant**|ancestral authority, iruxi restitution, excavation restrictions|
+|**Open Sky League**|trade, foreign partnerships, academy funding, expansion|
+|**Survey and Watch Independents**|public safety records, fortress funding, route access, founder oversight|
 
 No bloc holds a majority.
 
@@ -1091,11 +1293,11 @@ Its divided structure forces powerful figures to explain their decisions publicl
 
 #### What it is wrong about
 
-Oversight has become a method of political warfare.
+Representatives use investigations and hearings to weaken rival blocs.
 
 Representatives delay decisions to weaken rival blocs, leak partial reports, and allow immediate conditions to deteriorate while waiting for public opinion to shift.
 
-The Assembly can prevent abuses. It can also ensure that no one acts until the least accountable officials have already shaped the outcome.
+Its procedures have exposed real abuses and delayed urgent work until unofficial actors had already shaped the outcome.
 
 #### Practical
 
@@ -1110,11 +1312,17 @@ The Assembly has debated West Terrace for four months.
 During that time:
 
 - families remain in the complex;
+    
 - permanent repairs remain suspended;
+    
 - the ancestral hold remains active;
+    
 - the foreign institution continues demanding access;
+    
 - unsponsored explorers have attempted entry;
+    
 - each founder cites the Assembly’s failure as evidence for their proposed reform.
+    
 
 #### Gib’s position
 
@@ -1122,13 +1330,18 @@ Gib can avoid the Assembly by accepting sponsorship from one major figure.
 
 That choice places his investigation inside that figure’s political agenda.
 
-A public hearing may grant broader authority, though it also exposes:
+A public hearing can grant broader authority and will expose:
 
 - Eeler’s testimony;
+    
 - Molak’s historical significance;
+    
 - the locations Gib wants to investigate;
+    
 - any contradictory records already found;
+    
 - disagreements over who controls the resulting information.
+    
 
 ### People of West Terrace
 
@@ -1152,37 +1365,48 @@ Keshrak believes the residents were placed in the complex specifically because o
 
 Professor Voran leads the foreign surveying team promised access by Versenne. Her institution supplied equipment now used to inspect unstable structures throughout Jaha.
 
-She considers herself a responsible scholar trapped inside a political argument that began after her agreement was signed. She believes Barashzi is using ancestral concerns to prevent evidence from being examined.
+She believes she followed the rules in place when the agreement was signed and should keep the access she was promised. She believes Barashzi is using ancestral concerns to prevent evidence from being examined.
 
 **Single strong light:** Voran refers to access as something Jaha “owes” her institution, then corrects herself whenever a Jahaxi official is present.
 
 ---
 
 ## Political Relationships
+
 [[Jaha#Table of Contents|Return to Table of Contents]]
 
-| Relationship | Core disagreement | Current condition |
-| --- | --- | --- |
-| **Iakanne and Barashzi** | Unified citizenship against ancestral sovereignty | They retain personal respect and a shared history of founding the republic. Each believes the other is constructing an authority the charter cannot adequately control. |
-| **Iakanne and Versenne** | Central authorization against diplomatic initiative | Iakanne suspects Versenne conceals the extent of her foreign commitments. Versenne believes Iakanne delays projects until her office can claim authority over them. |
-| **Barashzi and Versenne** | Community control against negotiated access | Barashzi believes Versenne bargains with iruxi history. Versenne believes Barashzi refuses to identify any condition under which sensitive research may proceed. |
-| **Iakanne and Oakuma** | Managed disclosure against public access | Iakanne has threatened prosecution over leaked hazard reports. Oakuma documents which warnings Iakanne’s office delays and publishes them when she believes residents are at risk. |
-| **Barashzi and Oakuma** | Protection of sensitive sites against transparent mapping | They cooperate when government secrecy threatens residents. Their cooperation ends when Oakuma’s maps reveal ancestral sites, burial locations, or protected testimony. |
-| **Versenne and Oakuma** | Diplomatic confidentiality against public accountability | Oakuma has exposed incidents involving Versenne’s sponsored expeditions. Versenne now restricts foreign funding from survey teams associated with Oakuma. |
-| **Oakuma and Kajeera** | Independent judgment against professional caution | Kajeera supports public hazard disclosure but believes her mother sometimes defends a publication because withdrawing it would require admitting fault. |
-| **Iakanne and the Assembly** | Executive action against legislative oversight | Iakanne believes representatives delay decisions to avoid responsibility. Assembly members believe she uses delay as justification for acting without them. |
-| **Barashzi and the Assembly** | Iruxi stewardship against republic-wide jurisdiction | Barashzi believes the Assembly treats iruxi rights as one political interest among many. Opponents believe Barashzi’s councils exercise public power without public accountability. |
-| **Versenne and the Assembly** | External opportunity against prior authorization | Versenne believes the Assembly cannot negotiate at the speed diplomacy requires. Representatives resent being asked to approve agreements after Jaha has already accepted foreign resources. |
+|   |   |   |
+|---|---|---|
+|Relationship|Core disagreement|Current condition|
+|**Iakanne and Barashzi**|Unified citizenship against ancestral sovereignty|They retain personal respect and a shared history of founding the republic. Each believes the other is constructing an authority the charter cannot adequately control.|
+|**Iakanne and Versenne**|Central authorization against diplomatic initiative|Iakanne suspects Versenne conceals the extent of her foreign commitments. Versenne believes Iakanne delays projects until her office can claim authority over them.|
+|**Barashzi and Versenne**|Community control against negotiated access|Barashzi believes Versenne bargains with iruxi history. Versenne believes Barashzi refuses to identify any condition under which sensitive research may proceed.|
+|**Iakanne and Oakuma**|Managed disclosure against public access|Iakanne has threatened prosecution over leaked hazard reports. Oakuma documents which warnings Iakanne’s office delays and publishes them when she believes residents are at risk.|
+|**Barashzi and Oakuma**|Protection of sensitive sites against transparent mapping|They cooperate when government secrecy threatens residents. Their cooperation ends when Oakuma’s maps reveal ancestral sites, burial locations, or protected testimony.|
+|**Versenne and Oakuma**|Diplomatic confidentiality against public accountability|Oakuma has exposed incidents involving Versenne’s sponsored expeditions. Versenne now restricts foreign funding from survey teams associated with Oakuma.|
+|**Oakuma and Kajeera**|Independent judgment against professional caution|Kajeera supports public hazard disclosure but believes her mother sometimes defends a publication because withdrawing it would require admitting fault.|
+|**Iakanne and the Assembly**|Executive action against legislative oversight|Iakanne believes representatives delay decisions to avoid responsibility. Assembly members believe she uses delay as justification for acting without them.|
+|**Barashzi and the Assembly**|Iruxi stewardship against republic-wide jurisdiction|Barashzi believes the Assembly treats iruxi rights as one political interest among many. Opponents believe Barashzi’s councils exercise public power without public accountability.|
+|**Versenne and the Assembly**|External opportunity against prior authorization|Versenne believes the Assembly cannot negotiate at the speed diplomacy requires. Representatives resent being asked to approve agreements after Jaha has already accepted foreign resources.|
 
 ## Open Questions
+
 [[Jaha#Table of Contents|Return to Table of Contents]]
 
 - What position did original Molak hold in Jaha?
+    
 - Why did Sivanah create his reflection?
+    
 - Which historical court employed Eeler, and when did it exist?
+    
 - How long did original and reflected Molak coexist?
+    
 - Which waystone destinations belonged to the earlier iruxi court?
+    
 - What caused the Jahan Disappearance?
+    
 - What operates within the Moon Fortress?
+    
 - Does the West Terrace complex connect to Eeler’s court, Molak’s work, or neither?
+    
 - Which charter proposal, if any, will prevail before Gib leaves Jaha?

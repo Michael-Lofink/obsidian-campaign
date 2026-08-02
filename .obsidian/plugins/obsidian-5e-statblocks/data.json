@@ -1,5 +1,112 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Crocodile",
+      {
+        "layout": "Basic Pathfinder 2e Layout",
+        "name": "Crocodile",
+        "level": "creature 2",
+        "size": "large",
+        "trait_03": "animal",
+        "modifier": 7,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +7; low-light vision;"
+          }
+        ],
+        "abilities_top": [],
+        "abilities_mid": [],
+        "abilities_bot": [
+          {
+            "name": "Aquatic Ambush",
+            "desc": "⬻ 35 feet\n__Requirements__ The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet; __Effect__ The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is off-guard against this Strike."
+          },
+          {
+            "name": "Death Roll",
+            "desc": "⬻ Requirement The crocodile must have a creature grabbed. __Effect__ The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature prone. If it fails, it releases the creature."
+          },
+          {
+            "name": "Deep Breath",
+            "desc": "noneThe crocodile can hold its breath for about 2 hours."
+          }
+        ],
+        "type": "animal",
+        "subtype": "",
+        "alignment": "n",
+        "ac": 18,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "18; __Fort__: +9 (1d20+9); __Ref__: +7 (1d20+7); __Will__: +5 (1d20+5);"
+          }
+        ],
+        "hp": 30,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "30;"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "⬻  jaws +10 __Damage__  1d10+4 (1d10+4) piercing plus Grab"
+          },
+          {
+            "name": "Melee",
+            "desc": "⬻  jaws +10 (agile); __Damage__  1d6+4 (1d6+4) bludgeoning"
+          }
+        ],
+        "spellcasting": [],
+        "speed": "20 feet, swim 25 feet",
+        "stats": [
+          4,
+          1,
+          3,
+          -5,
+          1,
+          -4
+        ],
+        "abilityMods": [
+          4,
+          1,
+          3,
+          -5,
+          1,
+          -4
+        ],
+        "damage_vulnerabilities": {
+          "value": "",
+          "benchmark": "moderate",
+          "note": ""
+        },
+        "damage_resistances": {
+          "value": "",
+          "benchmark": "moderate",
+          "note": ""
+        },
+        "damage_immunities": "",
+        "condition_immunities": {
+          "value": "",
+          "benchmark": "moderate",
+          "note": ""
+        },
+        "senses": "low-light vision",
+        "cr": 2,
+        "bestiary": false,
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__: +8 (1d20+8)"
+          }
+        ],
+        "trait_04": "",
+        "traits_04": "",
+        "source": "Bestiary p.67"
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "path-2e-block",

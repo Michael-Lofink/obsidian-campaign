@@ -11,6 +11,9 @@ Relevant Holidays: None
 >[[Campaign/Session 6/Progression#Scenes|Scenes]]
 >>[[Campaign/Session 6/Progression#Reaction to Eeler's Inn|Reaction to Eeler's Inn]]
 >>[[Campaign/Session 6/Progression#In the Western Annex|In the Western Annex]]
+>>[[Campaign/Session 6/Progression#Shora's Proposition|Shora's Proposition]]
+>
+>[[Campaign/Session 6/Progression#Jaha NPC Roleplay Cheat Sheet|NPC cheatsheet]]
 
 # Informal Recap
 [[Campaign/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
@@ -144,43 +147,29 @@ The western-expansion port-reeve received a fisherman’s report of lit windows 
 - **Restoration workers:** An iruxi crew returning by boat discusses a site placed under Barashzi’s authority.
 - **Port office:** Holds current river surveys, dock registrations, and basic property records.
 
-### Shora’s Current Activity
+#### Shora’s Current Activity
 
 Shora came to the river after one line in Inali’s woven chart shifted toward the Western Annex. She found the fisherman who reported seeing lights beside the unused landing and is trying to establish exactly what he witnessed.
 
 She wants:
-- An exact location and time.
-- A description of what changed.
-- To determine whether the fisherman saw the inn arrive or noticed it afterward.
-- To compare his account against Inali’s chart and the current river survey.
+- details of what happened
 - To return to Star-Crossed Charts with information Oakuma can use.
 
 She will try to:
-- Keep the fisherman focused on observable details.
-- Establish where his boat was when he noticed the inn.
-- Compare the inn’s position to the bridge, landing, and nearby buildings.
-- Learn who currently occupies the structure.
-- Arrange for Oakuma to question Eeler if his memories involve old Jahan locations.
+- Find out the secrets of Eeler's Inn
 
 She knows:
-- Inali’s chart shifted shortly after midnight.
-- The changed line points toward this section of the river.
+- How the Star-Crossed Charts operates
 - The current river survey shows an unused landing where the inn now stands.
 - Oakuma keeps discontinued maps and records of altered routes.
-- Public districts are open to visitors.
 - Historical archives, ancestral testimony, excavation records, and restricted maps are controlled by different institutions.
 
 She does not know:
-- Who Eeler is.
-- That the inn is Eeler’s phylactery.
-- Who Molak is.
-- Whether the chart reacted to the inn, Eeler, Gib, or something within the structure.
-- How the inn arrived.
+- Anything about the inn
 
 The fisherman:
 - Is certain the inn was absent during his earlier journey upriver.
 - Saw its illuminated windows while returning downstream.
-- Saw no movement, collapse, splash, or magical display.
 - Is becoming uncertain as Shora presses him for exact distances and times.
 - Worries that the story will make him appear drunk or confused.
 
@@ -196,19 +185,123 @@ Shora keeps her attention on the fisherman until their exchange ends, Gib interr
 - How to reach Jhebyiti, the Kehwamesi, or Star-Crossed Charts.
 
 ### Things That Can Only Be Discovered
-- Inali’s woven chart shifted toward the river at approximately the same time Eeler’s Inn appeared.
-- No current river map shows the inn at this location.
-- The records held at Star-Crossed Charts also contain no previous structure matching the inn.
 - Molak’s apparent age places the investigation within a disputed historical period involving pre-Jahan iruxi history.
 - Information about Molak may be divided among civic archives, ancestral testimony, astrological records, and excavation reports.
 - Shora can arrange for Oakuma to meet Gib at Star-Crossed Charts.
-- Shora can ask Oakuma to visit Eeler’s Inn if Eeler cannot leave it.
-- Oakuma will want Eeler to identify remembered locations directly on a map.
 - Access to protected records requires cooperation from the institution controlling them.
 
-### Possible Scene Endpoints
-- Gib agrees to bring Eeler’s ledger to Star-Crossed Charts.
-- Shora agrees to bring Oakuma to Eeler’s Inn.
-- Gib decides which type of record he wants to pursue first.
-- Gib receives directions into Jhebyiti and the public areas of the old city.
-- Gib reaches the crossing into Jaha with a contact name and a clear destination.
+## Shora's Proposition
+[[Campaign/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
+If Gib confronts Shora looking for sponsorship to gain access to historical records, Shora is willing to arrange a meeting between Gib and Oakuma her mother at Star-Crossed Charts if Gib is willing to do something for her. Gib has to prove that his cause can align with Jahan interests, so Shora has a job for him.
+
+There is an overdue surveryor at the Old Silt House, find him or at least find his field folio.
+
+The Old Silt House stands along the western bank south of Eeler’s Inn. It once controlled runoff and seasonal flooding around the southern warehouses. The structure is currently disused.
+
+### Objectives 
+- Find the missing surveyor. 
+
+- Recover the field folio. 
+
+- Determine what happened at the Silt House. 
+
+- Return accurate information to Shora.
+
+### Situation
+- A rotten interior walkway collapsed during the survey.
+
+- The surveyor is trapped beyond a flooded channel with an injured leg.
+
+- A crocodile has entered through a damaged culvert.
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Bestiary"
+name: "Crocodile"
+level: "Creature 2"
+
+alignment: "N"
+size: "Large"
+trait_01: "animal"
+modifier: 7
+
+perception:
+  - name: "Perception"
+    desc: "+7; low-light vision"
+
+skills:
+  - name: "Skills"
+    desc: "Athletics: +8, Stealth: +7 (+11 in water)"
+
+abilityMods: [4, 1, 3, -5, 1, -4]
+speed: "20 feet, swim 25 feet"
+sourcebook: "_Bestiary_, page 67"
+
+ac: 18
+armorclass:
+  - name: "AC"
+    desc: "18; __Fort__ +9, __Ref__ +7, __Will__ +5"
+
+hp: 30
+health:
+  - name: ""
+  - name: "HP"
+    desc: "30"
+
+abilities_top:
+  - name: ""
+
+abilities_mid:
+  - name: ""
+
+attacks:
+  - name: ""
+
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (reach 5 feet)\n__Damage__ 1d10 + 4 piercing plus Grab"
+
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+10 (agile)\n__Damage__ 1d6 + 4 bludgeoning"
+
+  - name: "Aquatic Ambush"
+    desc: "`pf2:2` 35 feet\n**Requirements** The crocodile is hiding in water and a creature that hasn't detected it is within 35 feet.\n\n**Effect** The crocodile moves up to its swim Speed + 10 feet toward the triggering creature, traveling through water and on land. Once the creature is within reach, the crocodile makes a Strike against it. The creature is off-guard against this Strike."
+
+  - name: "Death Roll"
+    desc: "`pf2:1` **Requirements** The crocodile has a creature grabbed.\n\n**Effect** The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature prone. If it fails, it releases the creature."
+
+  - name: "Deep Breath"
+    desc: "The crocodile can hold its breath for about 2 hours."
+```
+
+- The field folio is caught among broken timbers.
+
+
+
+# Jaha NPC Roleplay Cheat Sheet
+
+## Shora Mujafor
+
+**General manner**
+- Calm, observant, and careful with what she shares.
+- Lets people explain themselves, then asks specific questions about what they want.
+- Keeps track of names, requests, and anyone who returns asking for the same thing.
+
+**Useful lines**
+> “What are you looking for?”
+
+> “Who else have you asked?”
+
+> “Tell me what you actually need, and I can tell you who might help.”
+
+**About her family**
+> “Describe Inali? I know her to spot a pattern in the making, and then have an explanation before the pattern’s even completed.”
+
+> “Oakuma will hear you out if you bring her dates, locations, and something she can check.”
+
+> “Kajeera will ask how far you walked, what you carried, and where your memory starts to get fuzzy. She wants to know what you know and especially she wants to know what you don't know.”
+
+**With Gib**
+- She notices that he came from the unrecorded inn.
+- She wants to know what kind of information he is seeking.
+- She will offer an introduction to Oakuma after Gib helps with the Silt House problem.
