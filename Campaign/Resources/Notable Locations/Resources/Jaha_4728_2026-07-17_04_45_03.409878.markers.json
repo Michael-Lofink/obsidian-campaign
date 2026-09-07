@@ -24,15 +24,48 @@
       "tooltipAlwaysOn": true,
       "sizeOverride": 100,
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_rmoexm",
+      "x": 0.2791341547123273,
+      "y": 0.5157660745731566,
+      "layer": "default",
+      "link": "Hagatha’s Cauldrons and Potions",
+      "iconKey": "mortar-pestle",
+      "tooltip": "Hagatha’s",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_t9gqc8",
+      "x": 0.3619751628030938,
+      "y": 0.7278099975452014,
+      "layer": "default",
+      "link": "Old Silt House",
+      "iconKey": "pinRed",
+      "tooltip": "Old Silt House",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_mf8eqv",
+      "x": 0.572825920594863,
+      "y": 0.5059866509333669,
+      "layer": "default",
+      "link": "Star-Crossed Charts",
+      "iconKey": "star-and-crescent",
+      "tooltip": "Star-Crossed Charts",
+      "tooltipAlwaysOn": true
     }
   ],
   "bases": [
     {
-      "path": "Campaign/Resources/Notable Locations/Resources/Jaha_4728_2026-07-17_04_45_03.409878.webp"
+      "path": "Campaign/Resources/Notable Locations/Resources/Map Pngs/Jaha/Jaha_4728_2026-07-17_04_45_03.409878.webp"
     }
   ],
   "overlays": [],
-  "activeBase": "Campaign/Resources/Notable Locations/Resources/Jaha_4728_2026-07-17_04_45_03.409878.webp",
+  "activeBase": "Campaign/Resources/Notable Locations/Resources/Map Pngs/Jaha/Jaha_4728_2026-07-17_04_45_03.409878.webp",
   "measurement": {
     "scales": {
       "Campaign/Resources/Notable Locations/Resources/Jaha_4728_2026-07-17_04_45_03.409878.webp": 0.3372224787600527
@@ -54,5 +87,32 @@
   "secondScreen": {
     "showGrids": true
   },
-  "textLayers": []
+  "textLayers": [],
+  "deleted": [
+    {
+      "id": "undo_udq9cr",
+      "label": "Delete marker",
+      "createdAt": "2026-09-05T14:02:31.446Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "id": "marker_n74qqe",
+          "x": 0.25234741784037557,
+          "y": 0.5351422491039427,
+          "layer": "default",
+          "link": "",
+          "iconKey": "pinRed",
+          "tooltip": "",
+          "anchorSpace": "viewport",
+          "hudX": 376.25,
+          "hudY": 597.21875,
+          "hudModeX": "left",
+          "hudModeY": "bottom",
+          "hudLastWidth": 1491,
+          "hudLastHeight": 1116
+        },
+        "index": 1
+      }
+    }
+  ]
 }

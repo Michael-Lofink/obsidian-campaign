@@ -1,5 +1,5 @@
 ---
-InputDCLevel: 15
+InputDCLevel: 16
 ---
 
 # DC Calculator

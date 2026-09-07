@@ -1,0 +1,99 @@
+{
+  "size": {
+    "w": 1122,
+    "h": 1402
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_0m7mi6",
+      "x": 0.45122796593384745,
+      "y": 0.859997379454925,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Locked Door",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_nasfmw",
+      "x": 0.46498092280556097,
+      "y": 0.18147274633123645,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Unlocked Door",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_j0p3gz",
+      "x": 0.6674053962420408,
+      "y": 0.5797955974842753,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Crocodile Encounter",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_lwzlty",
+      "x": 0.7550237478633316,
+      "y": 0.2503478213860313,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Surveyor Body",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_wqoo3w",
+      "x": 0.672865839622123,
+      "y": 0.8470577677352795,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Surveyor Folio",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    }
+  ],
+  "bases": [
+    {
+      "path": "Campaign/Resources/Notable Locations/Resources/Map Pngs/Jaha/Western Annex/Old Silt House Map.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Campaign/Resources/Notable Locations/Resources/Map Pngs/Jaha/Western Annex/Old Silt House Map.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

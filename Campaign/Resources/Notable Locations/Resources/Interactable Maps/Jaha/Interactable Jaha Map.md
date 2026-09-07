@@ -1,6 +1,6 @@
 ```zoommap
 imageBases:
-  - path: Campaign/Resources/Notable Locations/Resources/Jaha_4728_2026-07-17_04_45_03.409878.webp
+  - path: Campaign/Resources/Notable Locations/Resources/Map Pngs/Jaha/Jaha_4728_2026-07-17_04_45_03.409878.webp
 markers: Campaign/Resources/Notable Locations/Resources/Jaha_4728_2026-07-17_04_45_03.409878.markers.json
 markerLayers:
   - Default
