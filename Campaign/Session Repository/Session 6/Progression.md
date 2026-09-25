@@ -5,18 +5,18 @@ Just after midnight
 Relevant Holidays: None
 
 # Table of Contents
->[[Campaign/Session 6/Progression#Informal Recap|Recap]]
->[[Campaign/Session 6/Progression#Intro|Intro]]
+>[[Campaign/Session Repository/Session 6/Progression#Informal Recap|Recap]]
+>[[Campaign/Session Repository/Session 6/Progression#Intro|Intro]]
 >
->[[Campaign/Session 6/Progression#Scenes|Scenes]]
->>[[Campaign/Session 6/Progression#Reaction to Eeler's Inn|Reaction to Eeler's Inn]]
->>[[Campaign/Session 6/Progression#In the Western Annex|In the Western Annex]]
->>[[Campaign/Session 6/Progression#Shora's Proposition|Shora's Proposition]]
+>[[Campaign/Session Repository/Session 6/Progression#Scenes|Scenes]]
+>>[[Campaign/Session Repository/Session 6/Progression#Reaction to Eeler's Inn|Reaction to Eeler's Inn]]
+>>[[Campaign/Session Repository/Session 6/Progression#In the Western Annex|In the Western Annex]]
+>>[[Campaign/Session Repository/Session 6/Progression#Shora's Proposition|Shora's Proposition]]
 >
->[[Campaign/Session 6/Progression#Jaha NPC Roleplay Cheat Sheet|NPC cheatsheet]]
+>[[Campaign/Session Repository/Session 6/Progression#Jaha NPC Roleplay Cheat Sheet|NPC cheatsheet]]
 
 # Informal Recap
-[[Campaign/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
+[[Campaign/Session Repository/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
 
 <u>*The Hidden Library* by Joshua Kyan Aalampour</u>
 
@@ -32,7 +32,7 @@ Read aloud:
 - Gib stepped outside just after midnight on 6 Pharast. Across the river, the pale terraces of Jaha were waking beneath the full moon.
 
 # Intro
-[[Campaign/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
+[[Campaign/Session Repository/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
 
 Read aloud:
 
@@ -55,7 +55,7 @@ Read aloud:
 # Scenes
 
 ## Reaction to [[Eeler's Inn]]
-[[Campaign/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
+[[Campaign/Session Repository/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
 
 The western-expansion port-reeve received a fisherman’s report of lit windows beside an old landing where no occupied building had stood earlier that night. He has come to identify the structure, determine whether it presents a danger to river traffic, and decide whether it falls under the authority of the port office.
 
@@ -110,7 +110,7 @@ The western-expansion port-reeve received a fisherman’s report of lit windows 
 - He files the structure as a suspected magical hazard.
 
 ## In the Western Annex
-[[Campaign/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
+[[Campaign/Session Repository/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
 
 ### Scene Purpose
 - Introduce Jaha’s ordinary nighttime activity.
@@ -191,7 +191,7 @@ Shora keeps her attention on the fisherman until their exchange ends, Gib interr
 - Access to protected records requires cooperation from the institution controlling them.
 
 ## Shora's Proposition
-[[Campaign/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
+[[Campaign/Session Repository/Session 6/Progression#Table of Contents|Back to Table Of Contents]]
 If Gib confronts Shora looking for sponsorship to gain access to historical records, Shora is willing to arrange a meeting between Gib and Oakuma her mother at Star-Crossed Charts if Gib is willing to do something for her. Gib has to prove that his cause can align with Jahan interests, so Shora has a job for him.
 
 There is an overdue surveryor at the Old Silt House, find him or at least find his field folio.

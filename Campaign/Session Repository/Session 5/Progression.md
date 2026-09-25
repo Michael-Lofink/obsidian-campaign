@@ -4,7 +4,7 @@ Day of Bones
 
 # Table of Contents
 >Eeler's Inn
->>[[Campaign/Session 5/Progression#Eeler's Inn Character Motivations|Character Motivations]]
+>>[[Campaign/Session Repository/Session 5/Progression#Eeler's Inn Character Motivations|Character Motivations]]
 >>>Squibbles
 >>>Gib
 >>>Hollis
@@ -12,7 +12,7 @@ Day of Bones
 >>>Eeler's Inn
 >
 >Jaha
->>[[Campaign/Session 5/Progression#Jaha Character Motivations|Character Motivations]]
+>>[[Campaign/Session Repository/Session 5/Progression#Jaha Character Motivations|Character Motivations]]
 >>>Iakanne
 >>>Barashzi
 >>>Versenne
@@ -20,12 +20,12 @@ Day of Bones
 >>>Jaha
 >
 >Elsewhere
->>[[Campaign/Session 5/Progression#Elsewhere Character Motivations|Character Motivations]]
+>>[[Campaign/Session Repository/Session 5/Progression#Elsewhere Character Motivations|Character Motivations]]
 >>>Molak
 >>>Sivanah
 
 # Eeler's Inn Character Motivations
-[[Campaign/Session 5/Progression#Table of Contents|Back to Table Of Contents]]
+[[Campaign/Session Repository/Session 5/Progression#Table of Contents|Back to Table Of Contents]]
 
 ### Squibbles
 - Stay close to Gib.
