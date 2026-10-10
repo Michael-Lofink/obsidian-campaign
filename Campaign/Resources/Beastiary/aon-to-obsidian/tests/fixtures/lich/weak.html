@@ -1,0 +1,971 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script type="text/javascript" async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-3"></script>
+    <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-3');
+    </script>
+    <title>
+        Lich - Monsters - Archives of Nethys: Pathfinder 2nd Edition Database
+    </title>
+    
+
+    <link href="/Styles/Layout.css?v=nI3U6B8jazbssDn6kuwsOK31VwiZsgYj6ll3iagIh0o" rel="stylesheet" type="text/css" />
+    <link href="/Styles/rpg-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="/Styles/Typography.css?v=3et3D84VeOgcsPaSRyGH6nF1FfjjYgVpcGBq4HyG5vg" rel="stylesheet" type="text/css" />
+    <link href="/themes" rel="stylesheet" type="text/css" />
+    <link href="/Styles/SitePrint.css?v=Yv0foXc2YhQzep2lNsHIjspvpHnxfqaTvgJqVss95uI" rel="stylesheet" type="text/css" media="print" />
+
+    <link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Andika" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="search" type="application/opensearchdescription+xml" title="Search the Archives of Nethys" href="https://2e.aonprd.com/opensearch.xml" />
+
+
+    <script type="text/javascript">
+        window.elasticUrl = 'https://elasticsearch.aonprd.com/aon';
+    </script>
+
+        <script src="https://elasticsearch.aonprd.com/js/nethys-search-1eafd58ae4fae35cb49f07a14139add3861a5c1b.js"></script>
+
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/semantic.min.js" integrity="sha512-5cguXwRllb+6bcc2pogwIeQmQPXEzn2ddsqAexIBhh7FO1z5Hkek1J9mrK2+rmZCTU6b6pERxI7acnp1MpAg4Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/components/search.min.css" integrity="sha512-1xyHOORqcJ80bareQ2TWmQE+WZ/TlsqjqILbLHeM3Urtw720aiFXE/N+Xm4MAJpcn42e3k4Z8ZpqZfsA2VVyNw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/components/transition.min.css" integrity="sha512-zsEyDFFD+yPxc7Kq8c3byp2H3tfx4GgT4wvCDzDGiOlkk2hl454XOHzHfN/OsPilopfPEbRzVJ0wxlIa/9BOyg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/components/transition.min.js" integrity="sha512-zPx44KLp+BP6OKcCIPQibTiLz0WAc2s9syi+7wOT+Ql2D1/kAX8y7K1rz8vuTtrhRS2dMZ7zVS5dQoHTvkXJCA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/components/icon.min.css" integrity="sha512-cKaYuptKrUbQ4/r0qmxhpQDjPWb7/SYN6gQRYMOQqPJ2+S4Bmb1zZ1/SAuszp+E6yoakjQFpM+rAzuw+EwR+xw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/components/input.min.css" integrity="sha512-6+BQOwPqqk5AianROXkI3LKgnLcjZbEV3KbhO++sKXemybg0FugrODki+nBsg9FipqlKSMd4ppnpkqC6VEpFiA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/components/button.min.css" integrity="sha512-XMrByQiBPJwH350YvTKR/XTY1fOQX4lSQqeft++WcyY39l0eKoPXOgx1OJHEODhHCW1FfvVl/Bdr90QE08FG+Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/components/dropdown.min.css" integrity="sha512-hDsG55Tp5IgyWKbBbNhOo0+bLTdIVVAGW09a7IFvgIkKg/xrjOdOA2lEPFkkgJQ3NuB7DxDFlSHX7/JYvFLYfA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/components/dropdown.min.js" integrity="sha512-1SzBIESNYM3Y8JkQrS1Mu2dPnPaAqeQkCV9KfDA2eYXBEzdkhHWyqTP6P0OAsh1RSC4cDvr8DmYVTmb/YWGYpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js" integrity="sha512-LhccdVNGe2QMEfI3x4DVV3ckMRe36TfydKss6mJpdHjNFiV07dFpS2xzeZedptKZrwxfICJpez09iNioiSZ3hA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js" integrity="sha512-WFN04846sdKMIP5LKNphMaWzU7YpMyCU245etK3g/2ARYbPK9Ub18eG+ljU96qKRCWh+quCY7yefSmlkQw1ANQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="/Scripts/modernMenu.js"></script>
+
+    <script type="text/javascript" src="/Scripts/tableState.js"></script>
+    <script type="text/javascript" src="/Scripts/drawerHandlers.js"></script>
+    <script type="text/javascript" src="/Scripts/hideFilter.js"></script>
+    <script type="text/javascript" src="/Scripts/searchBar.js?v=1"></script>
+
+    <script type="text/javascript" src="/Scripts/previewModal.js"></script>
+    
+    
+        <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 2E, 2nd Edition, Monsters, Lich" />
+        <meta name="description" content="A wizard whose insatiable desire for arcane power eclipsed their mortal life, the lich is a truly devious and versatile spellcaster." />
+
+
+    <meta charset="utf-8"/>
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="darkreader-lock" />
+    <style type="text/css">        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+    </style>
+</head>
+<body class="dark aon_dark_theme classic_feel">
+    <div id="wrapper" class="clearfix">
+
+
+        <script type="text/javascript" src="/Scripts/toggle.js"></script>
+
+
+        <div class="page clearfix" id="page">
+            <div class="header">
+                <div class="clear hideSkiplink" id="main-menu" >
+                    <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+                    <div class="splash"></div>
+                    <div class="nav-parent" id="nav-parent">
+                        <a href="/" style="font-size:larger" class="brand">
+                            <span class="home">
+                                Home
+                            </span>
+                        </a>
+                        <a href="/Actions.aspx">Actions/Activities</a>
+                        <a href="/Afflictions.aspx">Afflictions</a>
+                        <a href="/Ancestries.aspx">Ancestries</a>
+                        <a href="/Archetypes.aspx">Archetypes</a>
+                        <a href="/Backgrounds.aspx">Backgrounds</a>
+                        <a href="/Classes.aspx">Classes</a>
+                        <a href="/Conditions.aspx">Conditions</a>
+                        <a href="/Creatures.aspx">Creatures</a>
+                        <a href="/Companions.aspx">Companions</a>
+                        <a href="/Familiars.aspx">Familiars</a>
+                        <a href="/Equipment.aspx">Equipment</a>
+                        <a href="/Feats.aspx">Feats</a>
+                        <a href="/Hazards.aspx">Hazards</a>
+                        <a href="/MythicCallings.aspx">Mythic</a>
+                        <a href="/Rules.aspx">Rules</a>
+                        <a href="/Setting.aspx">Setting</a>
+                        <a href="/Skills.aspx">Skills</a>
+                        <a href="/Spells.aspx">Spells/Rituals</a>
+                        <a href="/Traits.aspx">Traits</a>
+                        <img src="/Images/heading_flourish.png" alt="flourish" class="flourish" />
+                        <a href="/Licenses.aspx">Licenses</a>
+                        <a href="/Sources.aspx">Sources</a>
+                        <img src="/Images/heading_flourish.png" alt="flourish" class="flourish" />
+                        <a href="/ContactUs.aspx">Contact Us</a>
+                        <a href="/Contributors.aspx">Contributors</a>
+                        <a href="/Support.aspx">Support the Archives</a>
+                        <div id="classic-search" class="search">
+                            <input type="text" class="search-input" placeholder="Search" />
+                            <button type="button" class="search-button">
+                                <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                            </button>
+                        </div>       
+                            <a id="minMaxMenu" onclick='setMenuState("min")'>Maximize Menu</a>
+                    </div>
+                    
+                    <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                        <a href="/" style="font-size:larger" class="brand">
+                            <span class="title">
+                                Archives of Nethys
+                            </span>
+                        </a>
+                        <a href="/Afflictions.aspx">Afflictions</a>
+                        <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                        <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                            <a href="/Ancestries.aspx">Ancestries</a>
+                            <a href="/Archetypes.aspx">Archetypes</a>
+                            <a href="/Backgrounds.aspx">Backgrounds</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Companions.aspx">Companions</a>
+                            <a href="/Familiars.aspx">Familiars</a>
+                        </div>
+                        <a href="/Creatures.aspx">Creatures</a>
+                        <a href="/Equipment.aspx">Equipment</a>
+                        <a href="/Setting.aspx">Setting</a>
+                        <a href="/Spells.aspx">Spells/Rituals</a>
+                        <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                        <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                            <a href="/Actions.aspx">Actions/Activities</a>
+                            <a href="/Conditions.aspx">Conditions</a>
+                            <a href="/Rules.aspx">Rules</a>
+                            <a href="/Traits.aspx">Traits</a>
+                        </div>
+                        <a href="/Hazards.aspx">Hazards</a>
+                        <a href="javascript:void(0);" data-toggle="mythic" data-group="">Mythic +</a>
+                        <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="mythic" data-group="menus">
+                            <a href="/Rules.aspx?ID=3320">Mythic Rules</a>
+                            <a href="/MythicCallings.aspx">Callings</a>
+                            <a href="/MythicFeats.aspx">Mythic Feats</a>
+                            <a href="/MythicDestinies.aspx">Destinies</a>
+                            <a href="/MythicSpells.aspx">Mythic Spells</a>
+                            <a href="/MythicRituals.aspx">Mythic Rituals</a>
+                        </div>
+                        <a href="/Sources.aspx">Sources</a>
+                        <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                        <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+                            <a href="/Support.aspx">Support the Archives</a>
+                        </div>
+                        <div id="mobileSearch" class="ui fluid search">
+                            <div class="ui action icon input" style="width:90%;height:100%">
+                                <input class="prompt" type="text" placeholder="Search..."/>
+                                <button class="ui icon button" onclick="jumpToSearch('#mobileSearch')">
+                                    <i class="search icon"></i>
+                                </button>
+                            </div>
+                            <div class="results"></div>
+                        </div>
+                        <a href="https://2e.aonprd.com">
+                                <img src="/Images/PF2Logo_Nethys_400_Selected.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                        <a href="https://www.aonprd.com" >
+                            <img src="/Images/PF1Logo_Nethys_200.png" alt="Pathfinder RPG (1st Edition)" />
+                        </a> 
+                        <a href="https://www.aonsrd.com">
+                            <img src="/Images/SFLogo_Nethys_200.png" alt="Starfinder RPG (1st Edition)" />
+                        </a>
+                        <a href="https://2e.aonsrd.com">
+                            <img src="/Images/starfinder_2_logo_200.webp" alt="Starfinder RPG (2nd Edition)" />
+                        </a>
+                    </div>
+                </div>
+                <div class="theme-toggle-wrapper" title="Toggle Theme">
+                    <div class="theme-open" title="Change Theme"><i class="ra ra-flowers"></i></div>
+                </div>
+            </div>
+
+            <div class="new-navbar">
+                <div class="drawer-toggle" title="Expand Sidebar" onclick="switchDrawer()">
+                    <img src="/Images/NethysMask.png" alt="&#xe030" /></div>
+                    <a class="title" href="/">Archives of Nethys</a>
+                    <div class="searchBar">
+                        <div id="desktopSearch" class="ui fluid search">
+                            <div class="ui action icon input" style="width:100%;height:100%">
+                                <input class="prompt" type="text" placeholder="Search..."/>
+                                <button class="ui icon button" onclick="jumpToSearch('#desktopSearch')">
+                                        <i class="search icon"></i>
+                                    </button>
+                            </div>
+                            <div class="results"></div>
+                        </div>                   
+                    </div>
+                    <div class="game-selector">
+                        <div class="game-selector-options">
+                            <a class="game-selector-option" href="https://aonprd.com">
+                                <img src="/Images/PF1Logo_Nethys.png" alt="Pathfinder 1e" />
+                            </a>
+                            <a class="game-selector-option" href="https://aonsrd.com">
+                                <img src="/Images/SFLogo_Nethys.png" alt="Starfinder 1e" />
+                            </a>
+                            <a class="game-selector-option" href="https://2e.aonsrd.com">
+                                <img src="/Images/starfinder_2_logo.webp" alt="Starfinder 2e" />
+                            </a>
+                        </div>
+                        <img class="game-selector-current" src="/Images/PF2Logo_Nethys.png" alt="Pathfinder 2e" />
+                    </div>
+                    <div class="theme-open" title="Change Theme"><i class="ra ra-flowers"></i></div>
+            </div>            
+            <div class="main-wrapper" id="main-wrapper">
+                <div class="menutitle">
+                    <h1>
+                        Archives of Nethys
+                    </h1>
+                    <h2 class="game-titles">
+                        <a href="https://www.aonprd.com" >
+                            <img src="/Images/PF1Logo_Nethys.png" alt="Pathfinder RPG (1st Edition)" />
+                        </a> 
+                        <a href="https://2e.aonprd.com" class="selected">
+                            <img src="/Images/PF2Logo_Nethys-Selected.png" alt="Pathfinder RPG (2nd Edition)" />
+                        </a>
+                        <a href="https://www.aonsrd.com">
+                            <img src="/Images/SFLogo_Nethys.png" alt="Starfinder RPG (1st Edition)" />
+                        </a>
+                        <a href="https://2e.aonsrd.com">
+                            <img src="/Images/starfinder_2_logo.webp" alt="Starfinder RPG (2nd Edition)" />
+                        </a>
+                    </h2>
+                </div>
+                <div class="main" id="main">
+                    <div class="agreement-banner-wrapper hide-on-print">
+                        <div class="agreement-banner" id="agreement-banner">
+                            <a href="https://www.archivesofnethys.com/movingforward.html"><u>Paizo & Archives of Nethys—Moving Forward Together. Click here to read our partnership status update.</u></a>
+                        </div>
+                        <hr />
+                    </div>
+                    
+
+<span class="hide-on-print"><h1 style="text-align:center"><a href="Creatures.aspx">All Creatures</a><br /><a href="MonsterAbilities.aspx">Abilities</a> | <u><a href="Monsters.aspx">Monsters</a></u> | <a href="NPCs.aspx">NPCs</a><hr /><a href="Monsters.aspx">All</a> | <a href="MonsterFamilies.aspx?Type=M">Families</a> | <a href="MonsterTemplates.aspx">Templates</a><hr /><a href="Monsters.aspx?Letter=A">A</a> | <a href="Monsters.aspx?Letter=B">B</a> | <a href="Monsters.aspx?Letter=C">C</a> | <a href="Monsters.aspx?Letter=D">D</a> | <a href="Monsters.aspx?Letter=E">E</a> | <a href="Monsters.aspx?Letter=F">F</a> | <a href="Monsters.aspx?Letter=G">G</a> | <a href="Monsters.aspx?Letter=H">H</a> | <a href="Monsters.aspx?Letter=I">I</a> | <a href="Monsters.aspx?Letter=J">J</a> | <a href="Monsters.aspx?Letter=K">K</a> | <a href="Monsters.aspx?Letter=L">L</a> | <a href="Monsters.aspx?Letter=M">M</a> | <a href="Monsters.aspx?Letter=N">N</a> | <a href="Monsters.aspx?Letter=O">O</a> | <a href="Monsters.aspx?Letter=P">P</a> | <a href="Monsters.aspx?Letter=Q">Q</a> | <a href="Monsters.aspx?Letter=R">R</a> | <a href="Monsters.aspx?Letter=S">S</a> | <a href="Monsters.aspx?Letter=T">T</a> | <a href="Monsters.aspx?Letter=U">U</a> | <a href="Monsters.aspx?Letter=V">V</a> | <a href="Monsters.aspx?Letter=W">W</a> | <a href="Monsters.aspx?Letter=X">X</a> | <a href="Monsters.aspx?Letter=Y">Y</a> | <a href="Monsters.aspx?Letter=Z">Z</a> </h1></span>
+<span class="hide-on-print"></span>
+
+    <hr class="hide-on-print" />
+
+<span></span>
+<span></span>
+<span><span class="monster-page"><div class="siderbarlook hide-on-print">There is a Legacy version <a href="Monsters.aspx?ID=282&NoRedirect=1" style="text-decoration:underline">here</a>.</div><span class="hide-on-print"><h1 class="title"><a href ="PFS.aspx"><img alt="PFS Standard" title="PFS Standard" style="height:18px; padding:2px 10px 0px 2px" src="Images\Icons\PFS_Standard.png"></a>Lich</h1>A wizard whose insatiable desire for arcane power eclipsed their mortal life, the lich is a truly devious and versatile spellcaster.</span><h2 class="hide-on-print"><a href="Monsters.aspx?ID=3082&Elite=true&NoRedirect=1"><b>Elite</b></a> | <a href="Monsters.aspx?ID=3082&NoRedirect=1"><b>Normal</b></a> | <a href="Monsters.aspx?ID=3082&Weak=true&NoRedirect=1"><u><b>Weak</b></a></u><br /><a class="monster-pwl-link" href="Monsters.aspx?ID=3082&PWL=true&NoRedirect=1"><b>Proficiency without Level</b></a></h2><h3 class="hide-on-print print-stat-block"><a href="javascript:print()"><u>Print Stat Block</u></a></h3><h1 class="title monster-statblock-name"><a href="Monsters.aspx?ID=3082">Weak Lich</a><span style="margin-left:auto; margin-right:0">Creature <span class="EWChange"><b>11</b></span></span></h1><span class="traitrare"><a href="/Traits.aspx?ID=683">Rare</a></span><span style="letter-spacing: -.4em">&nbsp;</span><span class="traitsize"><a href="/Rules.aspx?ID=445">Medium</a></span><span style="letter-spacing: -.4em">&nbsp;</span><span class="trait"><a href="/Traits.aspx?ID=722">Undead</a></span><span style="letter-spacing: -.4em">&nbsp;</span><span class="trait"><a href="/Traits.aspx?ID=521">Unholy</a></span><span style="letter-spacing: -.4em">&nbsp;</span><br /><b>Source</b> <a href="Sources.aspx?ID=221" target="_blank" class="external-link"><i>Monster Core pg. 219</i></a><br /><b><u><a href="Rules.aspx?ID=3359">Weak</a></u></b> Changes are <span class="EWChange"><b>marked</b></span>. The -2 damage penalty to non-strike offensive abilities (-4 if the ability is limited, such as spells) is NOT factored in.<br /><b><u><a href="Rules.aspx?ID=2638">Recall Knowledge</a></u></b> DC <span class="EWChange"><b>33</b></span> (includes +5 from Rare) &bull; Undead (<u><a href="Skills.aspx?ID=46">Religion</a></u>)<br /><b>Perception</b> +<span class="EWChange"><b>18</b></span>; <a style="text-decoration:underline" href="MonsterAbilities.aspx?ID=59">darkvision</a><br /><b>Languages</b> <a href="Languages.aspx?ID=13"><u>Aklo</a></u>, <a href="Languages.aspx?ID=114"><u>Chthonian</a></u>, <a href="Languages.aspx?ID=1"><u>Common</a></u>, <a href="Languages.aspx?ID=117"><u>Diabolic</a></u>, <a href="Languages.aspx?ID=2"><u>Draconic</a></u>, <a href="Languages.aspx?ID=4"><u>Elven</a></u>, <a href="Languages.aspx?ID=20"><u>Necril</a></u>, <a href="Languages.aspx?ID=118"><u>Sakvroth</a></u><br /><b>Skills</b> <a href="Skills.aspx?ID=2"><u>Arcana</a></u> +<span class="EWChange"><b>26</b></span>, <a href="Skills.aspx?ID=4"><u>Crafting</a></u> +<span class="EWChange"><b>22</b></span> (can craft magic items), <a href="Skills.aspx?ID=5"><u>Deception</a></u> +<span class="EWChange"><b>15</b></span>, <a href="Skills.aspx?ID=6"><u>Diplomacy</a></u> +<span class="EWChange"><b>17</b></span>, <a href="Skills.aspx?ID=13"><u>Religion</a></u> +<span class="EWChange"><b>20</b></span>, <a href="Skills.aspx?ID=15"><u>Stealth</a></u> +<span class="EWChange"><b>18</b></span><br /><b>Str</b> +0, <b>Dex</b> +4, <b>Con</b> +0, <b>Int</b> +6, <b>Wis</b> +4, <b>Cha</b> +3<br /><b>Items</b> <a style="text-decoration:underline" href="Equipment.aspx?ID=3041"><i>greater staff of fire</i></a>, <a style="text-decoration:underline" href="Spells.aspx?ID=1720"><i>scroll of teleport</i></a>, <a style="text-decoration:underline" href="Equipment.aspx?ID=2944"><i>invisibility potion</i></a><hr /><b>AC</b> <span class="EWChange"><b>29</b></span>; <b>Fort</b> +<span class="EWChange"><b>15</b></span>, <b>Ref</b> +<span class="EWChange"><b>19</b></span>, <b>Will</b> +<span class="EWChange"><b>21</b></span>; +1 status to all saves vs. <a style="text-decoration:underline" href="Traits.aspx?ID=509">vitality</a><br /><b>HP</b> <span class="EWChange"><b>170</b></span> (<a style="text-decoration:underline" href="MonsterAbilities.aspx?ID=83">void healing</a>, rejuvenation); <b>Immunities</b> bleed, <a style="text-decoration:underline" href="Traits.aspx?ID=571">death</a> effects, <a style="text-decoration:underline" href="Traits.aspx?ID=578">disease</a>, <a style="text-decoration:underline" href="Conditions.aspx?ID=85">paralyzed</a>, <a style="text-decoration:underline" href="Traits.aspx?ID=669">poison</a>, <a style="text-decoration:underline" href="Conditions.aspx?ID=95">unconscious</a>; <b>Resistances</b> <a style="text-decoration:underline" href="Traits.aspx?ID=555">cold</a> 10, physical 10 (except magical bludgeoning)<br /><span class="hanging-indent"><b><a style="text-decoration:underline" href="MonsterAbilities.aspx?ID=64">Frightful Presence</a></b> (<a style="text-decoration:underline" href="Traits.aspx?ID=542">aura</a>, <a style="text-decoration:underline" href="Traits.aspx?ID=590">emotion</a>, <a style="text-decoration:underline" href="Traits.aspx?ID=598">fear</a>, <a style="text-decoration:underline" href="Traits.aspx?ID=647">mental</a>) 60 feet, DC <span class="EWChange"><b>27</span></b></span><span class="hanging-indent"><b>Counterspell  <span class='action' title='Reaction' role='img' aria-label='Reaction'>[reaction]</span> </b> <b>Trigger</b> A creature casts a spell the lich has prepared; <b>Effect</b> The lich expends a prepared spell to counter the triggering creature's casting of that same spell. The lich loses their spell slot as if they had cast the triggering spell. The lich then attempts to <a style="text-decoration:underline" href="Rules.aspx?ID=371">counteract</a> the triggering spell.</span><hr /><b>Speed</b> 25 feet<br /><span class="hanging-indent"><b>Melee</b>  <span class='action' title='Single Action' role='img' aria-label='Single Action'>[one-action]</span>  hand +<span class="EWChange"><b>22</b></span> [<a style="text-decoration:underline" href="Rules.aspx?ID=2289"><u>+17/+12</u></a>] (<a href="Traits.aspx?ID=602"><u>finesse</a></u>, <a href="Traits.aspx?ID=644"><u>magical</a></u>), <b>Damage</b> 4d8<span class="EWChange"><b>-2</b></span> void plus siphon life</span><b>Arcane Prepared Spells</b> DC <span class="EWChange"><b>34</span></b>, attack +<span class="EWChange"><b>24</span></b> (<span class="EWChange"><b>-4 dmg</b></span>); <b>6th</b> <i><u><a href="Spells.aspx?ID=1462">chain lightning</a></u></i>, <i><u><a href="Spells.aspx?ID=1501">dominate</a></u></i>, <i><u><a href="Spells.aspx?ID=1735">vampiric exsanguination</a></u></i>; <b>5th</b> <i><u><a href="Spells.aspx?ID=1559">howling blizzard</a></u></i> (×2), <i><u><a href="Spells.aspx?ID=1722">toxic cloud</a></u></i>, <i><u><a href="Spells.aspx?ID=1750">wall of ice</a></u></i>; <b>4th</b> <i><u><a href="Spells.aspx?ID=1493">dispel magic</a></u></i>, <i><u><a href="Spells.aspx?ID=1529">fire shield</a></u></i>, <i><u><a href="Spells.aspx?ID=1534">fly</a></u></i>, <i><u><a href="Spells.aspx?ID=1724">translocate</a></u></i>; <b>3rd</b> <i><u><a href="Spells.aspx?ID=1453">blindness</a></u></i>, <i><u><a href="Spells.aspx?ID=1536">force barrage</a></u></i>, <i><u><a href="Spells.aspx?ID=1588">locate</a></u></i>, <i><u><a href="Spells.aspx?ID=1736">vampiric feast</a></u></i>; <b>2nd</b> <i><u><a href="Spells.aspx?ID=1455">blur</a></u></i>, <i><u><a href="Spells.aspx?ID=1523">false vitality</a></u></i>, <i><u><a href="Spells.aspx?ID=1651">resist energy</a></u></i>, <i><u><a href="Spells.aspx?ID=1663">see the unseen</a></u></i>; <b>1st</b> <i><u><a href="Spells.aspx?ID=1513">enfeeble</a></u></i> (×2), <i><u><a href="Spells.aspx?ID=1531">fleet step</a></u></i>, <i><u><a href="Spells.aspx?ID=1709">sure strike</a></u></i>; <b>Cantrips</b> <b>(6th)</b> <i><u><a href="Spells.aspx?ID=1485">detect magic</a></u></i>, <i><u><a href="Spells.aspx?ID=1539">frostbite</a></u></i>, <i><u><a href="Spells.aspx?ID=1598">message</a></u></i>, <i><u><a href="Spells.aspx?ID=1671">shield</a></u></i>, <i><u><a href="Spells.aspx?ID=1715">telekinetic hand</a></u></i><br /><span class="hanging-indent"><b>Drain Soul Cage</b>  <span class='action' title='Free Action' role='img' aria-label='Free Action'>[free-action]</span>   6th rank</span><span class="hanging-indent"><b>Siphon Life</b> DC <span class="EWChange"><b>32</span></b></span><span class="hanging-indent"><b>Steady Spellcasting</b> If a reaction would disrupt the lich's spellcasting action, the lich attempts a DC 15 flat check. On a success, the action isn't disrupted.</span><div class="creature-spellbook-wrapper"><a href="/spellbook?r6=1462+1501+1735&r5=1559+1722+1750&r4=1493+1529+1534+1724&r3=1453+1536+1588+1736&r2=1455+1523+1651+1663&r1=1513+1531+1709&cantrips=1485+1539+1598+1671+1715" class="load-creature-spellbook hide-on-print" target="_blank"><i class="ra ra-scroll-unfurled"></i> <span>Load Spell Descriptions</span></a><div class="creature-spellbook"></div></div><div class="monster-family hide-on-print"><h2 class="title">All Monsters in "<a href="MonsterFamilies.aspx?ID=438">Lich</a>"</h2><table class="inner"><tr><td><b>Name</b></td><td><b>Level</b></td></tr><tr><td><a href="Monsters.aspx?ID=283">Demilich</a></td><td>15</td></tr><tr><td><a href="Monsters.aspx?ID=1876">Horde Lich</a></td><td>15</td></tr><tr><td><a href="Monsters.aspx?ID=3082">Lich</a></td><td>12</td></tr><tr><td><a href="Monsters.aspx?ID=3926">Lich Legion</a></td><td>18</td></tr><tr><td><a href="Monsters.aspx?ID=1877">Runecarved Lich</a></td><td>19</td></tr></table><h1 class="title"><a href="MonsterFamilies.aspx?ID=438">Lich</a></h1><b>Source</b> <a href="Sources.aspx?ID=221" target="_blank" class="external-link"><i>Monster Core pg. 218</i></a><br />To gain more time to complete their goals, some desperate spellcasters pursue immortality by embracing undeath. After long years of research and the creation of a special container called a soul cage, a spellcaster takes the final step by imbibing a deadly concoction or casting dreadful incantations that transform them into a lich. While most undertake this drastic plan to continue their work or fulfill some long-term plan, others become liches because they fear death or to fulfill some malevolent purpose, such as long-sworn revenge. Regardless, the result is permanent and carries with it the potential to alter history—both for those who transform themselves and for the countless mortals who will inevitably suffer as a result of a lich's new power. <h2 class="title">Creating a Lich</h2>A lich can be any type of spellcaster as long as they have the ability to perform a ritual of undeath as the primary caster (which can usually be performed only by a spellcaster capable of casting 6th-rank spells). To create a lich, increase the spellcaster's level by 1 and change their statistics as follows. <ul><li>It gains the <a style="text-decoration:underline" href="Traits.aspx?ID=722">undead</a> trait and usually becomes <a style="text-decoration:underline" href="Traits.aspx?ID=521">unholy</a>.</li><li>It increases spell DCs and spell attack modifier by 2.</li></ul> <h2 class="title">Lich Abilities</h2> Liches lose all abilities that come from being a living creature. They also lose any traits that represented their life as a living creature, such as human and humanoid.<br /><br /> A lich gains the following abilities.<br /><br /> <b>Darkvision</b><br /> <b>Saving Throws</b> +1 status bonus to all saves vs. <a style="text-decoration:underline" href="Traits.aspx?ID=509">vitality</a><br /> <b><a style="text-decoration:underline" href="MonsterAbilities.aspx?ID=83">Void Healing</a></b><br /> <b>Rejuvenation</b> (<a style="text-decoration:underline" href="Traits.aspx?ID=534">arcane</a>) When a lich is destroyed, their soul immediately transfers to their <i>soul cage</i>. A lich can be permanently destroyed only if their <i>soul cage</i> is found and destroyed.<br /> <b>Immunities</b> bleed, <a style="text-decoration:underline" href="Traits.aspx?ID=571">death </a>effects, <a style="text-decoration:underline" href="Traits.aspx?ID=578">disease</a>, <a style="text-decoration:underline" href="Conditions.aspx?ID=85">paralyzed</a>, <a style="text-decoration:underline" href="Traits.aspx?ID=669">poison</a>, <a style="text-decoration:underline" href="Conditions.aspx?ID=95">unconscious</a><br /> <b>Resistances</b> cold 10, physical 10 (except <a style="text-decoration:underline" href="Traits.aspx?ID=644">magical</a> bludgeoning)<br /> <b><a style="text-decoration:underline" href="MonsterAbilities.aspx?ID=64">Frightful Presence</a></b> (<a style="text-decoration:underline" href="Traits.aspx?ID=542">aura</a>, <a style="text-decoration:underline" href="Traits.aspx?ID=590">emotion</a>, <a style="text-decoration:underline" href="Traits.aspx?ID=598">fear</a>, <a style="text-decoration:underline" href="Traits.aspx?ID=647">mental</a>) 60 feet, DC 30<br /> <b>Hand of the Lich</b> All liches have a hand <a style="text-decoration:underline" href="Traits.aspx?ID=719">unarmed</a> attack that deals 1d8 void damage for every 3 levels the lich has. This attack has the <a style="text-decoration:underline" href="Traits.aspx?ID=602">finesse</a> trait.<br /> <b>Drain Soul Cage</b>  <span class='action' title='Free Action' role='img' aria-label='Free Action'>[free-action]</span>  <b>Frequency</b> once per day; <b>Effect</b> The lich taps into their soul cage's power to cast any arcane spell up to the highest rank the lich can cast, even if the spell being cast is not one of the lich's prepared spells. The lich's soul cage doesn't need to be present for the lich to use this ability.<br /> <b>Siphon Life</b> A lich's form draws forth life from those who come into contact with it. When the lich damages a living creature with an unarmed attack, the lich gains 5 temporary Hit Points and the creature must succeed at a Fortitude save against the lich's spell DC – 2 or become <a style="text-decoration:underline" href="Conditions.aspx?ID=68">drained 1</a>. If the lich is <a style="text-decoration:underline" href="Conditions.aspx?ID=77">grabbed</a> or <a style="text-decoration:underline" href="Conditions.aspx?ID=90">restrained</a> at the start of its turn, each creature grabbing or restraining it must succeed at a Fortitude save or become drained 1. If the lich siphons a creature's life again, the drained value increase by 1, to a maximum of drained 4. <h2 class="title">Alternate Lich Abilities</h2> You can create a more unusual lich by substituting any one of the following abilities for frightful presence, siphon life, or Drain Soul Cage.<br /><br /><b>Blasphemous Utterances</b> (<a style="text-decoration:underline" href="Traits.aspx?ID=534">arcane</a>, <a style="text-decoration:underline" href="Traits.aspx?ID=542">aura</a>, <a style="text-decoration:underline" href="Traits.aspx?ID=647">mental</a>) 10 feet. The lich is accompanied by a constant echo of blasphemous murmurs and tainted whispers. A creature in the aura takes a –2 circumstance penalty to saves against <a style="text-decoration:underline" href="Traits.aspx?ID=647">mental</a> effects and can't take actions that have the <a style="text-decoration:underline" href="Traits.aspx?ID=561">concentrate </a>trait unless they succeed at a DC 10 flat check. On a failure, the action is <a style="text-decoration:underline" href="Rules.aspx?ID=394">disrupted</a>.<br /> <b>Cold Beyond Cold</b> The lich's hand Strike deals cold damage instead of void and the target is <a style="text-decoration:underline" href="Conditions.aspx?ID=92">slowed 2</a>. A successful Fortitude save reduces this to slowed 1 (or negates it on a critical success).<br /> <b>Dark Deliverance</b> The lich has resistance equal to their level to vitality. <br /><b>Void Shroud</b> (<a style="text-decoration:underline" href="Traits.aspx?ID=542">aura</a>, <a style="text-decoration:underline" href="Traits.aspx?ID=571">death</a>) 30 feet. The lich is surrounded by an aura of death, drawing forth souls to be consumed by the lich's constant hunger. Living creatures in the emanation take a –2 status penalty to saves against <a style="text-decoration:underline" href="Traits.aspx?ID=598">fear </a>and <a style="text-decoration:underline" href="Traits.aspx?ID=571">death </a>effects. In addition, any creature that starts its turn in the area gains the <a style="text-decoration:underline" href="Conditions.aspx?ID=67">doomed 1</a> condition unless it succeeds at a Will save against the lich's spell DC – 4.<h3 class="title"><img alt="Sidebar - Locations" title="Sidebar - Locations" style="height:18px; padding:2px 10px 0px 2px" src="Images\Icons\Sidebar_3_Locations.png"> Lich Lairs</h3>After their metamorphosis, a lich often finds some quiet place to dwell, typically protected by a variety of guardians and traps, for two primary purposes. First, a lich requires solitude to plan their elaborate schemes, and second, few mortals (if any) deign to interact with these legendarily corrupt necromancers. One reason begets the other, as a lich's self-imposed isolation often drives them toward detachment and disdain for mortal life, further solidifying their separation from civilization. The longer a lich lives, the more meticulous a planner they become, secreting themself within a labyrinth of deadly puzzles, misdirection, and monsters. A lich's servants and guardians are absolutely loyal, either due to their nature (such as constructs or other undead) or as a result of compulsion from powerful magic. Many liches sink into their own warped worldviews; the nature of a lich's lair is a good indicator of their outlook on life itself.<h3 class="title"><img alt="Sidebar - Additional Lore" title="Sidebar - Additional Lore" style="height:18px; padding:2px 10px 0px 2px" src="Images\Icons\Sidebar_2_AdditionalLore.png"> Unique Lichdom</h3>The exact ritual, ingredients for deadly concoctions, and magical conditions required to become a lich are unique and different for every living creature. Understanding a spellcaster's path to lichdom can help, but is no guarantee of success for others.</div></span></span>
+
+                </div>
+                <div class="clear">
+            </div>
+
+            <div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Rose-Winds LLC (Blake Davis)</a>
+                    <div id="footer-social"><a href="https://twitter.com/NethysArchives" target="_blank"><span class="k-icon k-i-twitter" style="font-size:2.5rem"></span></a></div>
+				</div>
+                <div style="text-align:center"><script type="text/javascript" async="true" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script type="text/javascript">
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+            <nethys-search no-ui="true"></nethys-search>
+        </div>
+    </div>
+
+    <div class="modern-menu-container">
+        <div class="modern-menu">
+            <div class="modern-menu-nethys-logo"></div>
+            <div class="modern-menu-items">
+                <div class="modern-menu-item">
+                    <span class="modern-menu-item-icon"><i class="ra ra-player"></i></span>
+                    <span class="modern-menu-item-text">Character Creation +</span>
+                </div>
+                <div class="modern-menu-subitems">
+                    <a class="modern-menu-item" href="/Ancestries.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-hood"></i></span>
+                        <span class="modern-menu-item-text">Ancestries</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Archetypes.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-nodular"></i></span>
+                        <span class="modern-menu-item-text">Archetypes</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Backgrounds.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-guarded-tower"></i></span>
+                        <span class="modern-menu-item-text">Backgrounds</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Classes.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-player-lift"></i></span>
+                        <span class="modern-menu-item-text">Classes</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Skills.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-hand"></i></span>
+                        <span class="modern-menu-item-text">Skills</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Companions.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-wolf-head"></i></span>
+                        <span class="modern-menu-item-text">Companions</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Familiars.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-raven"></i></span>
+                        <span class="modern-menu-item-text">Familiars</span>
+                    </a>
+                </div>
+                <div class="modern-menu-item">
+                    <span class="modern-menu-item-icon"><i class="ra ra-torch"></i></span>
+                    <span class="modern-menu-item-text">Equipment +</span>
+                </div>
+                <div class="modern-menu-subitems">
+                    <a class="modern-menu-item" href="/Equipment.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-torch"></i></span>
+                        <span class="modern-menu-item-text">All Equipment</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Equipment.aspx?Category=1">
+                        <span class="modern-menu-item-icon"><i class="ra ra-campfire"></i></span>
+                        <span class="modern-menu-item-text">Adventuring Gear</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Equipment.aspx?Category=6">
+                        <span class="modern-menu-item-icon"><i class="ra ra-round-bottom-flask"></i></span>
+                        <span class="modern-menu-item-text">Alchemical Items</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Armor.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-helmet"></i></span>
+                        <span class="modern-menu-item-text">Armor</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Equipment.aspx?Category=21">
+                        <span class="modern-menu-item-icon"><i class="ra ra-hand"></i></span>
+                        <span class="modern-menu-item-text">Held Items</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Equipment.aspx?Category=23">
+                        <span class="modern-menu-item-icon"><i class="ra ra-rune-stone"></i></span>
+                        <span class="modern-menu-item-text">Runes</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Shields.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-shield"></i></span>
+                        <span class="modern-menu-item-text">Shields</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Weapons.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-sword"></i></span>
+                        <span class="modern-menu-item-text">Weapons</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Equipment.aspx?Category=41">
+                        <span class="modern-menu-item-icon"><i class="ra ra-crown-of-thorns"></i></span>
+                        <span class="modern-menu-item-text">Worn Items</span>
+                    </a>
+                </div>
+                <div class="modern-menu-item">
+                    <span class="modern-menu-item-icon"><i class="ra ra-muscle-up"></i></span>
+                    <span class="modern-menu-item-text">Feats +</span>
+                </div>
+                <div class="modern-menu-subitems">
+                    <a class="modern-menu-item" href="/Feats.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-muscle-up"></i></span>
+                        <span class="modern-menu-item-text">All Feats</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Feats.aspx?Traits=78">
+                        <span class="modern-menu-item-icon"><i class="ra ra-aware"></i></span>
+                        <span class="modern-menu-item-text">General</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Feats.aspx?Traits=78&NoSkills=True">
+                        <span class="modern-menu-item-icon"><i class="ra ra-player-teleport"></i></span>
+                        <span class="modern-menu-item-text">General (No Skill)</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Feats.aspx?Traits=144">
+                        <span class="modern-menu-item-icon"><i class="ra ra-hand"></i></span>
+                        <span class="modern-menu-item-text">Skill</span>
+                    </a>
+                </div>
+                <div class="modern-menu-item">
+                    <span class="modern-menu-item-icon"><i class="ra ra-emerald"></i></span>
+                    <span class="modern-menu-item-text">Game Mastery +</span>
+                </div>
+                <div class="modern-menu-subitems">
+                    <a class="modern-menu-item" href="/Afflictions.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-biohazard"></i></span>
+                        <span class="modern-menu-item-text">Afflictions</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Creatures.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-dragon"></i></span>
+                        <span class="modern-menu-item-text">Creatures</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Hazards.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-bear-trap"></i></span>
+                        <span class="modern-menu-item-text">Hazards</span>
+                    </a>
+                </div>
+                <div class="modern-menu-item">
+                    <span class="modern-menu-item-icon"><i class="ra ra-book"></i></span>
+                    <span class="modern-menu-item-text">Rules +</span>
+                </div>
+                <div class="modern-menu-subitems">
+                    <a class="modern-menu-item" href="/Rules.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-book"></i></span>
+                        <span class="modern-menu-item-text">All Rules</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Actions.aspx">
+                        <span class="modern-menu-item-icon">
+                            <svg viewBox="0 0 30 30" preserveAspectRatio="xMidYMid meet" stroke="null" style="fill:inherit;">
+                                <path d="M21.55532 8.015l7.07107 7.07106-7.07107 7.07107-7.07107-7.07107zM6.47996 10.07526l4.94975 4.94975-4.94975 4.94974-4.94974-4.94974z"></path>
+                                <path d="M15.00246 1.46211l8.48528 8.48528-7.07107 7.07107L7.9314 8.53318z"></path>
+                                <path d="M16.45563 13.11469l7.07107 7.07107-8.48529 8.48528-7.07106-7.07107z"></path>
+                            </svg>
+                        </span>
+                        <span class="modern-menu-item-text">Actions/Activities</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Conditions.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-player-pain"></i></span>
+                        <span class="modern-menu-item-text">Conditions</span>
+                    </a>
+                    <a class="modern-menu-item" href="/GMScreen.aspx">
+                        <span class="modern-menu-item-icon">
+                            <svg viewBox="0 0 30 30" preserveAspectRatio="xMidYMid meet" stroke="null" style="fill:inherit;">
+                                <path d="M5.72648 12.93117h9.17646v9.50588l-4.58823 2.37647-4.58823-2.37647.00001-9.50588z"></path>
+                                <path d="M5.96178 12.93118h9.17646v9.50587l-4.58823 2.37648-4.58824-2.37648.00001-9.50587z"></path>
+                                <path d="M15.0206 12.93118h9.17646v9.50587l-4.58823 2.37648-4.58824-2.37648.00001-9.50587z"></path>
+                                <path d="M16.70221 8.57471l7.52941-3.38823v16.94117h-7.52941V8.57471zM15.11765 8.69235L5.94118 5.30412v16.94117h9.17647V8.69235z"></path>
+                                <path d="M19.60883 17.75465h-9.17646V8.24878L15.0206 5.8723l4.58824 2.37648-.00001 9.50587z"></path>
+                            </svg>
+                        </span>
+                        <span class="modern-menu-item-text">GM Screen</span>
+                    </a>
+                    <a class="modern-menu-item" href="/PlayersGuide.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-uncertainty"></i></span>
+                        <span class="modern-menu-item-text">Player's Guide</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Traits.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-uncertainty"></i></span>
+                        <span class="modern-menu-item-text">Traits</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Sources.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-book"></i></span>
+                        <span class="modern-menu-item-text">Sources</span>
+                    </a>
+                </div>
+                <div class="modern-menu-item">
+                    <span class="modern-menu-item-icon"><i class="ra ra-sun"></i></span>
+                    <span class="modern-menu-item-text">Setting +</span>
+                </div>
+                <div class="modern-menu-subitems">
+                    <a class="modern-menu-item" href="/Setting.aspx?Adventure=true">
+                        <span class="modern-menu-item-icon"><i class="ra ra-all-for-one"></i></span>
+                        <span class="modern-menu-item-text">Adventures</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Articles.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-book"></i></span>
+                        <span class="modern-menu-item-text">Articles</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Deities.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-angel-wings"></i></span>
+                        <span class="modern-menu-item-text">Deities</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Domains.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-kaleidoscope"></i></span>
+                        <span class="modern-menu-item-text">Domains</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Languages.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-speech-bubbles"></i></span>
+                        <span class="modern-menu-item-text">Languages</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Planes.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-circle-of-circles"></i></span>
+                        <span class="modern-menu-item-text">Planes</span>
+                    </a>
+                        <a class="modern-menu-item" href="/Setting.aspx?Group=40">
+                            <span class="modern-menu-item-icon"><i class="ra ra-mountains"></i></span>
+                            <span class="modern-menu-item-text">Scenarios</span>
+                        </a>
+                </div>
+                <div class="modern-menu-item">
+                    <span class="modern-menu-item-icon"><i class="ra ra-crystal-wand"></i></span>
+                    <span class="modern-menu-item-text">Spells/Rituals +</span>
+                </div>
+                <div class="modern-menu-subitems">
+                    <a class="modern-menu-item" href="/Spells.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-scroll-unfurled"></i></span>
+                        <span class="modern-menu-item-text">All Spells</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Spells.aspx?Tradition=1">
+                        <span class="modern-menu-item-icon"><i class="ra ra-scroll-unfurled"></i></span>
+                        <span class="modern-menu-item-text">Arcane</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Spells.aspx?Tradition=2">
+                        <span class="modern-menu-item-icon"><i class="ra ra-ankh"></i></span>
+                        <span class="modern-menu-item-text">Divine</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Spells.aspx?Tradition=3">
+                        <span class="modern-menu-item-icon"><i class="ra ra-burning-eye"></i></span>
+                        <span class="modern-menu-item-text">Occult</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Spells.aspx?Tradition=4">
+                        <span class="modern-menu-item-icon"><i class="ra ra-leaf"></i></span>
+                        <span class="modern-menu-item-text">Primal</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Spells.aspx?Focus=true">
+                        <span class="modern-menu-item-icon"><i class="ra ra-aura"></i></span>
+                        <span class="modern-menu-item-text">Focus Spells</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Rituals.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-rune-stone"></i></span>
+                        <span class="modern-menu-item-text">Rituals</span>
+                    </a>
+                </div>
+                <div class="modern-menu-item">
+                    <span class="modern-menu-item-icon"><i class="ra ra-player-thunder-struck"></i></span>
+                    <span class="modern-menu-item-text">Mythic +</span>
+                </div>
+                <div class="modern-menu-subitems">
+                    <a class="modern-menu-item" href="/Rules.aspx?ID=3320">
+                        <span class="modern-menu-item-icon"><i class="ra ra-book"></i></span>
+                        <span class="modern-menu-item-text">Mythic Rules</span>
+                    </a>
+                    <a class="modern-menu-item" href="/MythicCallings.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-aware"></i></span>
+                        <span class="modern-menu-item-text">Callings</span>
+                    </a>
+                    <a class="modern-menu-item" href="/MythicFeats.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-muscle-up"></i></span>
+                        <span class="modern-menu-item-text">Mythic Feats</span>
+                    </a>
+                    <a class="modern-menu-item" href="/MythicDestinies.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-aura"></i></span>
+                        <span class="modern-menu-item-text">Destinies</span>
+                    </a>
+                    <a class="modern-menu-item" href="/MythicSpells.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-lightning-trio"></i></span>
+                        <span class="modern-menu-item-text">Mythic Spells</span>
+                    </a>
+                    <a class="modern-menu-item" href="/MythicRituals.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-fire-ring"></i></span>
+                        <span class="modern-menu-item-text">Mythic Rituals</span>
+                    </a>
+                </div>
+                <div class="modern-menu-item">
+                    <span class="modern-menu-item-icon"><i class="ra ra-help"></i></span>
+                    <span class="modern-menu-item-text">About the Archives +</span>
+                </div>
+                <div class="modern-menu-subitems">
+                    <a class="modern-menu-item" href="/ContactUs.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-quill-ink"></i></span>
+                        <span class="modern-menu-item-text">Contact Us</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Contributors.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-double-team"></i></span>
+                        <span class="modern-menu-item-text">Contributors</span>
+                    </a>
+                    <a class="modern-menu-item" href="/Licenses.aspx">
+                        <span class="modern-menu-item-icon"><i class="ra ra-book"></i></span>
+                        <span class="modern-menu-item-text">Licenses</span>
+                    </a>
+                </div>
+                <a class="modern-menu-item" href="/Support.aspx">
+                    <span class="modern-menu-item-icon"><i class="ra ra-diamond"></i></span>
+                    <span class="modern-menu-item-text">Support the Archives</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="shelyns-corner-wrapper">
+        <div class="shelyns-corner-overlay"></div>
+        <div class="shelyns-corner">
+            <div class="shelyns-corner-header">
+                <h2>Shelyn's Corner</h2>
+                <a href="javascript:void(0)" class="close-shelyns-corner">&times;</a>
+            </div>
+            <div class="shelyns-corner-content">
+                <div class="shelyns-corner-settings">
+                    <div class="shelyns-corner-setting">
+                        <label for="shelyns-corner-setting-remaster">Prefer Pathfinder Remastered Core?</label>
+                        <input type="checkbox" id="shelyns-corner-setting-remaster" checked/>
+                    </div>
+                    <hr />
+                    <div class="shelyns-corner-setting">
+                        <label for="shelyns-corner-setting-dyslexia">Dyslexia friendly fonts</label>
+                        <input type="checkbox" id="shelyns-corner-setting-dyslexia"/>
+                    </div>
+                    <div class="shelyns-corner-setting">
+                        <label for="shelyns-corner-setting-sidebar-hover">Expand sidebar on hover</label>
+                        <input type="checkbox" id="shelyns-corner-setting-sidebar-hover" checked/>
+                    </div>
+                    <div class="shelyns-corner-setting">
+                        <label for="shelyns-corner-setting-sidebar-shrink">Sidebar can be shrunk</label>
+                        <input type="checkbox" id="shelyns-corner-setting-sidebar-shrink" checked/>
+                    </div>
+                    <div class="shelyns-corner-setting">
+                        <label for="shelyns-corner-setting-page-compress">Reduce page width</label>
+                        <input type="checkbox" id="shelyns-corner-setting-page-compress"/>
+                    </div>
+                    <div class="shelyns-corner-setting">
+                        <label for="shelyns-corner-setting-modern-menu">Modern menu</label>
+                        <input type="checkbox" id="shelyns-corner-setting-modern-menu" checked/>
+                    </div>
+                    <div class="shelyns-corner-setting">
+                        <label for="shelyns-corner-setting-link-previews">Link previews</label>
+                        <input type="checkbox" id="shelyns-corner-setting-link-previews" checked/>
+                    </div>
+                    <div class="shelyns-corner-setting">
+                        <label for="shelyns-corner-setting-link-previews-search">Link previews in search bar</label>
+                        <input type="checkbox" id="shelyns-corner-setting-link-previews-search"/>
+                    </div>
+                </div>
+                <hr />
+                <div class="theme-gallery-wrapper"></div>
+                <hr />
+                <div class="feel-gallery">
+                    <div class="feel-example classic_feel" onclick="setFeel('classic_feel')">
+                        <h1 class="feel-title">Classic Feel</h1>
+                        <h2 class="feel-title">Classic Feel <span class="output"></span></h2>
+                        <h3 class="feel-title">Classic Feel</h3>
+                        <p>The classic look for the Archives of Nethys.</p>
+                        <table>
+                            <thead><td>Table</td></thead>
+                            <tr><td>Data</td></tr>
+                            <tr><td>More Data</td></tr>
+                        </table>
+                    </div>
+                    <div class="feel-example book_feel" onclick="setFeel('book_feel')">
+                        <h1 class="feel-title">Book Feel</h1>
+                        <h2 class="feel-title">Book Feel <span class="output"></span></h2>
+                        <h3 class="feel-title">Book Feel</h3>
+                        <p>An alternative feel, based on the Rulebooks.</p>
+                        <table>
+                            <thead><td>Table</td></thead>
+                            <tr><td>Data</td></tr>
+                            <tr><td>More Data</td></tr>
+                        </table>
+                    </div>
+                    <div class="feel-example round_feel" onclick="setFeel('round_feel')">
+                        <h1 class="feel-title">Round Feel</h1>
+                        <h2 class="feel-title">Round Feel<span class="output"></span></h2>
+                        <h3 class="feel-title">Round Feel</h3>
+                        <p>A rounded, modern look for the archives.</p>
+                        <table>
+                            <thead><td>Table</td></thead>
+                            <tr><td>Data</td></tr>
+                            <tr><td>More Data</td></tr>
+                        </table>
+                    </div>
+                    <div class="feel-example slim_feel" onclick="setFeel('slim_feel')">
+                        <h1 class="feel-title">Slim Feel</h1>
+                        <h2 class="feel-title">Slim Feel<span class="output"></span></h2>
+                        <h3 class="feel-title">Slim Feel</h3>
+                        <p>A variant of the Round feel, more compact.</p>
+                        <table>
+                            <thead><td>Table</td></thead>
+                            <tr><td>Data</td></tr>
+                            <tr><td>More Data</td></tr>
+                        </table>
+                    </div>
+                </div>
+                <hr />
+                <div class="shelyns-corner-settings">
+                    <div class="shelyns-corner-setting">
+                        <label for="shelyns-corner-setting-orc">More Orc?</label>
+                        <input type="checkbox" id="shelyns-corner-setting-orc" />
+                    </div>
+                    <div class="shelyns-corner-setting">
+                        <label for="shelyns-corner-setting-boar"><b>BOAR?</b></label>
+                        <input type="checkbox" id="shelyns-corner-setting-boar" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+      var legacyMode = getCore();
+
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      initShelynsCorner();
+
+      window.nethysModernMenu.init();
+
+      initializeElasticSearch()
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?q=" + encodeURIComponent(text.value);
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?q=" + encodeURIComponent(text.value);
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var classicSearch = document.getElementById('classic-search');
+          initializeSearch(classicSearch);
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              //initializeSearch(search);
+          });
+      })();
+
+      class NethysSearch extends HTMLElement {
+          constructor() {
+              super();
+
+              this.attachShadow({ mode: 'open' });
+
+              let container = document.createElement('div');
+              this.shadowRoot.append(container);
+
+              let fixedParams = this.getAttribute('fixed-params');
+
+              if (window.location.search.includes('Redirected=1')) {
+                  fixedParams = (fixedParams ? fixedParams + '&' : '') + 'Redirected=1';
+              }
+
+              if (window.location.search.includes('NoRedirect=1')) {
+                  fixedParams = (fixedParams ? fixedParams + '&' : '') + 'NoRedirect=1';
+              }
+
+              let fixedQueryString = this.getAttribute('fixed-query-string') ?? '';
+
+              if (!fixedQueryString.includes('category:item-bonus')) {
+                  fixedQueryString += ' !category:item-bonus';
+              }
+
+              let dataUrl = new URL(elasticUrl);
+              dataUrl.pathname = '/json-data';
+              dataUrl = dataUrl.toString();
+
+              let app = Elm.NethysSearch.init({
+                  node: container,
+                  flags: {
+                      autofocus: (this.getAttribute('autofocus') ?? 'true') == 'true',
+                      browserDateFormat: (new Date(2020, 9, 30).toLocaleDateString(navigator.language))
+                          .replace('2020', 'yyyy')
+                          .replace('10', 'MM')
+                          .replace('30', 'dd'),
+                      currentUrl: location.href,
+                      dataUrl: dataUrl,
+                      defaultQuery: this.getAttribute('default-query'),
+                      elasticUrl: elasticUrl,
+                      fixedParams: fixedParams,
+                      fixedQueryString: fixedQueryString,
+                      loadAll: this.getAttribute('load-all') == 'true',
+                      legacyMode: legacyMode,
+                      localStorage: { ...localStorage },
+                      noUi: this.getAttribute('no-ui') === 'true',
+                      pageDefaultDisplays: localStorage.getItem('page-default-displays'),
+                      pageId: this.getAttribute('page-id'),
+                      randomSeed: Math.floor(Math.random() * 2147483647),
+                      removeFilters: this.getAttribute('remove-filters')?.split(',') ?? [],
+                      resultBaseUrl: "/",
+                      showHeader: false,
+                      showQueryControls: this.getAttribute('show-query-controls') != 'false',
+                      windowHeight: window.innerHeight,
+                      windowWidth: window.innerWidth,
+                  }
+              });
+
+              app.ports.document_focusElement.subscribe(id => {
+                  window.requestAnimationFrame(() => {
+                      let element = this.shadowRoot.getElementById(id);
+
+                      if (element) {
+                          element.focus();
+                      }
+                  });
+              });
+
+              app.ports.document_scrollElementIntoView.subscribe(id => {
+                  window.requestAnimationFrame(() => {
+                      let element = this.shadowRoot.getElementById(id);
+
+                      if (element) {
+                          element.scrollIntoView({block: 'nearest'});
+                      }
+                  });
+              });
+
+              app.ports.localStorage_get && app.ports.localStorage_get.subscribe(function (key) {
+                  let value = localStorage.getItem(key);
+                  app.ports.localStorage_receive.send({ key: key, value: value });
+              });
+
+              app.ports.localStorage_set.subscribe(function (data) {
+                  localStorage.setItem(data.key, data.value);
+              });
+
+              window.addEventListener('popstate', function () {
+                  app.ports.navigation_urlChanged.send(location.href);
+              });
+
+              app.ports.navigation_pushUrl.subscribe(function (url) {
+                  history.pushState([], '', url);
+                  app.ports.navigation_urlChanged.send(location.href);
+              });
+
+              app.ports.navigation_loadUrl.subscribe(function (url) {
+                  location.href = url;
+              });
+
+              document.addEventListener('theme-changed', e => {
+                  app.ports.localStorage_receive.send({ key: 'theme', value: e.detail });
+              });
+
+              document.addEventListener('link-previews-changed', e => {
+                  app.ports.localStorage_receive.send({ key: 'link-previews-enabled', value: e.detail });
+              });
+
+              window.addEventListener('hashchange', e => {
+                  let url = new URL(e.newURL);
+                  if (url.hash != "#results") {
+                      return;
+                  }
+
+                  let results = this.shadowRoot.getElementById("results");
+                  if (!results) {
+                      return;
+                  }
+
+                  results.focus();
+                  results.scrollIntoView();
+                  window.location.hash = '';
+              });
+
+              if (this.getAttribute('no-ui') === 'true') {
+                  let linkPreviewTarget = null;
+
+                  document.addEventListener('mouseover', e => {
+                      const target = e.target.closest('a');
+                      const isSearchBar = e.target.closest('.searchBar') !== null;
+                      if (target && target != linkPreviewTarget) {
+                          let parent = getParentOffset(target.offsetParent);
+                          let data = {
+                              url: target.href,
+                              x: target.offsetLeft + parent.x,
+                              y: target.offsetTop + parent.y,
+                              height: target.offsetHeight,
+                              width: target.offsetWidth,
+                          }
+                          if (isSearchBar) {
+                              if (getFeature('search-bar-previews-enabled', '0') == '0') {
+                                  return;
+                              }
+                              data.x += window.scrollX;
+                              data.y += window.scrollY;
+                          }
+                          app.ports.document_linkEntered.send(data);
+                      } else if (!target && linkPreviewTarget) {
+                          app.ports.document_linkLeft.send("");
+                      }
+
+                      linkPreviewTarget = target;
+                  });
+              }
+
+              function getParentOffset(node) {
+                  if (!node) {
+                      return {
+                          x: 0,
+                          y: 0,
+                      };
+                  }
+                  let parent = getParentOffset(node.offsetParent);
+                  return {
+                      x: node.offsetLeft - node.scrollLeft + parent.x,
+                      y: node.offsetTop - node.scrollTop + parent.y,
+                  };
+              }
+
+              const resizeObserver = new ResizeObserver(entries => {
+                  app.ports.document_receiveBodySize.send({
+                      width: Math.round(entries[0].contentRect.width),
+                      height: Math.round(entries[0].contentRect.height),
+                  });
+              });
+
+              let relativeElement = document.getElementById('page');
+              resizeObserver.observe(relativeElement);
+
+              document.addEventListener('visibilitychange', () => {
+                  if (document.visibilityState === 'visible') {
+                      let rect = relativeElement.getBoundingClientRect();
+
+                      app.ports.document_receiveBodySize.send({
+                          width: Math.round(rect.width),
+                          height: Math.round(rect.height),
+                      });
+                  }
+              });
+          }
+      }
+
+      customElements.define('nethys-search', NethysSearch);
+    </script>
+    <script type="text/javascript" src="/Scripts/spellbook.js"></script>
+</body>
+</html>

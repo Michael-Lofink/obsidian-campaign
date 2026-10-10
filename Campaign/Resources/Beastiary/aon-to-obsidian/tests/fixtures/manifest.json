@@ -1,0 +1,56 @@
+[
+  {
+    "file": "tests/fixtures/apothecary/normal.html",
+    "url": "https://2e.aonprd.com/NPCs.aspx?ID=3479&NoRedirect=1",
+    "retrieved_date": "2026-10-10",
+    "sha256": "37995f22729d371cb5440236bb39f48dd953f059b3b0985b2c4ff1c4bbce4c14"
+  },
+  {
+    "file": "tests/fixtures/apothecary/weak.html",
+    "url": "https://2e.aonprd.com/NPCs.aspx?ID=3479&Weak=true&NoRedirect=1",
+    "retrieved_date": "2026-10-10",
+    "sha256": "75f5ea71fe1c2857058c6d10194182d587d5bf13d2dc704b96447bbd36c8062d"
+  },
+  {
+    "file": "tests/fixtures/apothecary/elite.html",
+    "url": "https://2e.aonprd.com/NPCs.aspx?ID=3479&Elite=true&NoRedirect=1",
+    "retrieved_date": "2026-10-10",
+    "sha256": "f1bfbf6514a200999bd559c9727d0bd0e57bc24ed4282e21e704e1c24383824a"
+  },
+  {
+    "file": "tests/fixtures/lich/normal.html",
+    "url": "https://2e.aonprd.com/Monsters.aspx?ID=3082&NoRedirect=1",
+    "retrieved_date": "2026-10-10",
+    "sha256": "70da4434e268cfa3c4a6c1daa94cfd311aa13140b0d9e23719090f4869d457b8"
+  },
+  {
+    "file": "tests/fixtures/lich/weak.html",
+    "url": "https://2e.aonprd.com/Monsters.aspx?ID=3082&Weak=true&NoRedirect=1",
+    "retrieved_date": "2026-10-10",
+    "sha256": "150842851c9fc87eb96de1a7e24122ecffd0fc9601f1500a2468ba086bdea586"
+  },
+  {
+    "file": "tests/fixtures/lich/elite.html",
+    "url": "https://2e.aonprd.com/Monsters.aspx?ID=3082&Elite=true&NoRedirect=1",
+    "retrieved_date": "2026-10-10",
+    "sha256": "adcd75be66da567c0265420c4fac86113918fb03db359631da9c0a6d3d4689c2"
+  },
+  {
+    "file": "tests/fixtures/ice-linnorm/normal.html",
+    "url": "https://2e.aonprd.com/Monsters.aspx?ID=3084&NoRedirect=1",
+    "retrieved_date": "2026-10-10",
+    "sha256": "4a637d02f2546a72fe9a9a690359a338deff675c5afd119a2d054e7249585225"
+  },
+  {
+    "file": "tests/fixtures/ice-linnorm/weak.html",
+    "url": "https://2e.aonprd.com/Monsters.aspx?ID=3084&Weak=true&NoRedirect=1",
+    "retrieved_date": "2026-10-10",
+    "sha256": "0e1e3fcfafba3ac803c458812b5f77f729c4c66cd609ac87ff7780027f0d0b42"
+  },
+  {
+    "file": "tests/fixtures/ice-linnorm/elite.html",
+    "url": "https://2e.aonprd.com/Monsters.aspx?ID=3084&Elite=true&NoRedirect=1",
+    "retrieved_date": "2026-10-10",
+    "sha256": "850f9c8e924ec01831d94f18aa6ca96a6d805096b4a68fbc2cf50ea60027442f"
+  }
+]

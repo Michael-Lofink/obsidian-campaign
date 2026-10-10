@@ -33,7 +33,7 @@ Piece of the folio in mouth
 Went to representative Candace, someone bright-eyed, new, and not afraid to bend the rules, and got a "temporary Assembly preservation order".
 > Pending review of the unexplained alteration to the Western Annex river survey, no municipal office may seize, demolish, forcibly enter, relocate, or otherwise alter the structure presently occupying the former landing.
 
-Shora is calculated, she let's someone explain themselves into a hole and then tears apart at 
+Shora is calculated, she let's someone explain themselves into a hole and then tears apart at the explanation
 
 
 # Session Ending
