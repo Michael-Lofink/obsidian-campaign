@@ -39,7 +39,7 @@ Gib is at **1/24 HP**. Squibbles is hiding in his backpack. The crocodile is sti
 
 # Meeting Shora at [[Eeler's Inn]]
 **Song** _The Traveler’s Harrowing by Michael Lofink_
-
+Time: Sunrise
 ### Current Situation
 Shora went to representative Candace, someone bright-eyed, new, and not afraid to bend the rules, and got a **temporary Assembly preservation order**. She has bought the inn some breathing room while Gib was away.
 
@@ -94,6 +94,7 @@ Jaha is winding down as the light grows. Give Gib room to deal with Eeler, Holli
 
 # How to pass the time of Day
 **Song** _One Light Means Occupied — Michael Lofink_
+Time: Daytime
 
 ## Big Dreams
 **Song** _The Mark – Interlude — Moderat_
@@ -160,6 +161,7 @@ If Gib successfully prevents the theft, he gains **[Root to Life](https://2e.aon
 ![[Campaign/Resources/Beastiary/Level 4/Humanoid/Tripkee/Big#Normal Big|Big]]
 # A favor for Hagatha
 **Song** _Harvest Dawn — Jeremy Soule_
+Time: Dusk
 [[Hagatha’s Cauldrons and Potions]]
 
 ### The Agreement
