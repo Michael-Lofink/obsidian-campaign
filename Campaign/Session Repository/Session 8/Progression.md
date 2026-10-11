@@ -23,7 +23,7 @@ Gib wounded it, escaped, and then attempted the same maneuver again. The crocodi
 Now, the camera focuses on Gib, panting, his shoulders, his chest rising up and brokenly shrinking down as he struggles to catch his breath. Squibbles hides in Gib's backpack, and the camera pans over to the Crocodile, and its piercing yellow eyes staring directly at us as it slinks back into shadow.
 
 # Picking up at the [[Old Silt House]]
-**Song** Moon Waltz: I.-- by Francesco D'andrea
+**Song** _Moon Waltz: I.-- by Francesco D'andrea_
 Current Situation
 
 Gib is at **1/24 HP**. Squibbles is hiding in his backpack. The crocodile is still alive and wounded; carry forward its remaining HP from the previous session. Gib has the incomplete folio, and the missing piece is still with the crocodile. The surveyor's body remains on the lower section near the river channel.
@@ -38,6 +38,7 @@ Gib is at **1/24 HP**. Squibbles is hiding in his backpack. The crocodile is sti
 ![[Crocodile#Normal Crocodile]]
 
 # Meeting Shora at [[Eeler's Inn]]
+**Song** _The Traveler’s Harrowing by Michael Lofink_
 
 ### Current Situation
 Shora went to representative Candace, someone bright-eyed, new, and not afraid to bend the rules, and got a **temporary Assembly preservation order**. She has bought the inn some breathing room while Gib was away.
@@ -59,26 +60,18 @@ Shora is calculated. She lets someone explain themselves into a hole, then picks
 
 
 # Return to the Old Silt House (?)
+**Song** _Moon Waltz: I.-- by Francesco D'andrea_
 ### The Crocodile
+Shora asks Gib to show her where the animal attacked and where the flooring can support them. Baiting it out, controlling access to the water, distracting it, or manipulating the sluice can all matter. Use Shora's actual statblock abilities when resolving her contribution.
 
-Shora asks Gib to show her where the animal attacked and where the flooring can support them. Let Maggie propose the approach. Baiting it out, controlling access to the water, distracting it, or manipulating the sluice can all matter. Use Shora's actual statblock abilities when resolving her contribution.
+**What the Missing Piece Shows**
+>The folio belongs to **T. Vellan**, commissioned by **Star-Crossed Charts**, reference **WA-247-B**, dated **6 Pharast, 4728 AR**. Fit the actual fragment back against the folio before Shora explains it.
+>**4726:** Both culverts recorded as heavily silted, with no flow.
+>**4727:** The west culvert was partially cleared; the east remained blocked.
+>**4728:** The west is still partially blocked, while the east is now flowing.
+>A secondary channel branches southeast and does not appear on prior maps. It may connect to older, pre-Annex drainage, but its extent still needs verification.
 
-- Carry forward the crocodile's wounds and the altered water flow.
-- The animal uses the channel for cover and retreat. It is defending a place where it has found food, not deliberately guarding evidence.
-- Recovering the fragment is the objective. Killing the animal is one possible way to make that happen.
-- Once the fragment is accessible, hand over the existing tear image. Its information does not require another successful roll to unlock.
-
-### What the Missing Piece Shows
-
-The folio belongs to **T. Vellan**, commissioned by **Star-Crossed Charts**, reference **WA-247-B**, dated **6 Pharast, 4728 AR**. Fit the actual fragment back against the folio before Shora explains it.
-
-- **4726:** Both culverts recorded as heavily silted, with no flow.
-- **4727:** The west culvert was partially cleared; the east remained blocked.
-- **4728:** The west is still partially blocked, while the east is now flowing.
-- A secondary channel branches southeast and does not appear on prior maps. It may connect to older, pre-Annex drainage, but its extent still needs verification.
-
-### Shora's Interpretation
-
+**Shora's Interpretation**
 Vellan was comparing changes across several years. The reopened eastern culvert, reduced silt, and recent tool marks support deliberate interference with the drainage. The newly noted branch could explain where some of the water is going. Shora can recognize the significance and identify the next comparison to make; the fragment does not identify whoever altered the channels or killed Vellan.
 
 > “The east culvert was blocked last year. Vellan found it flowing, with fresh tool marks.”
@@ -86,8 +79,8 @@ Vellan was comparing changes across several years. The reopened eastern culvert,
 Shora wants the folio protected and compared with the dated surveys at Star-Crossed Charts. Address the body before leaving: recover it if practical, or have Shora arrange a crew with clear directions and a warning about the remaining hazards. Preserve the distinction between the unusual puncture and a proven murder weapon.
 
 ### Moving On
-
 Shora leaves to arrange the meeting with Oakuma and deal with Vellan's death. Agree on a rendezvous with Gib for **after Hagatha's errand that evening**. Give him a place and approximate time before they split up. Further investigation of the channel can remain a lead for another session.
+
 ## Collapsible Crocodile Stats
 **Song** _Thunderstruck by 2CELLOS_
 ![[Crocodile#Normal Crocodile]]
@@ -98,7 +91,13 @@ Jaha is winding down as the light grows. Give Gib room to deal with Eeler, Holli
 - **Rest:** Allow a proper sleep window where the timing permits. Daytime sleep fits Jaha's schedule and does not prevent this dream.
 - **Wake-up arrangement:** Suggested default—Gib asks someone at the inn to wake him around sunset. Use that person's voice to bring him out of the dream.
 
+
+# How to pass the time of Day
+**Song** _One Light Means Occupied — Michael Lofink_
+
 ## Big Dreams
+**Song** _The Mark – Interlude — Moderat_
+
 
 If Gib tries to force an action contrary to Big's established impulse, he must succeed at a **DC 25 Will save** or the intervention fails. This is the dream's custom rule. Let Maggie play Big's conversations and ordinary choices freely; make the theft the main moment when Gib has to struggle for control. Explain the intended action and what the save can change before rolling.
 
@@ -107,7 +106,7 @@ If Gib tries to force an action contrary to Big's established impulse, he must s
 > And then black.
 >
 > ---
->
+>**Song** _Kyne’s Peace — Jeremy Soule_
 > Thank the stars, you awake, some time later, to the sting of alcohol pressed to a wound. Your eyelids, afraid to open, dare to part and you get the hazy image of boots and the swiping of a reptilian tail against the floor back and forth, an Iruxi--or Lizardfolk as they're called to the North, is the one tending to your injuries. 
 
 ### Current Situation
@@ -148,6 +147,7 @@ Bring Big's intention into focus before he acts. Give Maggie the opportunity to 
 - **If play creates a different opportunity:** Keep the same decision at its center. Do not force Enzi to leave or reset the conversation merely to reach the planned staging.
 
 ### Ending the Scene
+**Song** _One Light Means Occupied — Michael Lofink_
 
 **End when Big steals or definitively does not steal the supply.** Let the choice land, then use the agreed wake-up voice from the inn. Enzi does not need to discover the theft on-screen, and Big's longer-term fate can remain open.
 
@@ -155,14 +155,11 @@ If Gib successfully prevents the theft, he gains **[Root to Life](https://2e.aon
 
 - **[one-action]:** With his esoterica available, place a plant or similar symbol on an adjacent dying creature to stabilize it at 0 HP, unconscious.
 - **[two-actions]:** Add a spoken folk blessing and attempt a DC 10 flat check against each source of persistent damage affecting that creature. This version also has the auditory trait.
-- The feat does not itself restore HP. The herb knowledge and gathering bonus can still carry over if the theft occurs; the bonus feat is the reward for preventing it.
-
-**GM reminder:** Record exactly what changed and what Big learned. Whether this actually alters history remains open. Save independent confirmation for later; the ability and remembered technique are enough for this session.
 
 ## Big Collapsible Stats
 ![[Campaign/Resources/Beastiary/Level 4/Humanoid/Tripkee/Big#Normal Big|Big]]
 # A favor for Hagatha
-
+**Song** _Harvest Dawn — Jeremy Soule_
 [[Hagatha’s Cauldrons and Potions]]
 
 ### The Agreement
@@ -209,6 +206,7 @@ If he finishes the available patches short, Hagatha can point out another stand 
 ![[Campaign/Resources/Beastiary/aon-to-obsidian/examples/Apothecary#Elite Apothecary|Apothecary]]
 
 # Off to [[Star-Crossed Charts]]
+**Song** _City of Jerusalem — Jesper Kyd_
 
 Shora meets Gib at the agreed rendezvous and escorts him to the shop. Jaha is active again: open stalls, lamps, workers, and evening traffic provide background for whatever conversation develops on the walk. If Gib is late, let Shora react in character and get them moving.
 
