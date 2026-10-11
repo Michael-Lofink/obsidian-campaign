@@ -1,0 +1,3 @@
+[_Outside_] Facing the town square and lodged between two other storefronts stands a narrow two-story building. Its facade is made of weathered brick and dark timber framing, with a great wrought-iron window on each side of its arched entryway. A pale green sign with gold lettering reads Hagatha’s Cauldrons and Potions over the door.
+
+[_Inside_] As you enter the shop, the smell of potent herbs—combined with the flowery scents of oils and potions—is an assault on your nose. You try to sift through the contrasting odors as you view the elixirs, tonics, and tinctures on the shelves. The proprietor isn’t immediately obvious, but the circular grinding sound of a mortar and pestle comes through a curtain that hangs in the doorway behind the counter.

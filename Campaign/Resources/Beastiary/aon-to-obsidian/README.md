@@ -25,7 +25,7 @@ py -3 -m venv .venv
 Always quote the URL: shells treat `&` specially. After setup, only the last command is needed. Replace the URL and output filename for another creature. Omitting `-o` uses the creature's name. You can write directly into your Obsidian vault using a quoted output path.
 
 ```sh
-.venv/bin/python aon_to_obsidian.py "https://2e.aonprd.com/Monsters.aspx?ID=3082" -o "/path/to/vault/Bestiary/Lich.md"
+.venv/bin/python aon_to_obsidian.py "https://2e.aonprd.com/Monsters.aspx?ID=3082" -o "/home/michaellofink/Documents/PF2e-Duet-Campaign-Notes/Campaign/Resources/Beastiary/Level X/CreatureType/Lich.md"
 ```
 
 Open the resulting `.md` file in Obsidian with the same `pf2e-stats` renderer you use for your Apothecary example. Without a compatible renderer, the contents display as readable fenced code blocks. Visual rendering inside Obsidian has **not** been tested here.
