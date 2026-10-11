@@ -1,0 +1,27 @@
+[
+  {
+    "count": 1,
+    "title": "Root to Life",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Esoterica",
+      "p2e_trait | common | Manipulate",
+      "p2e_trait | common | Primal",
+      "p2e_trait | common | Thaumaturge",
+      "p2e_end_trait_section",
+      "rule",
+      "text | You use a small plant or similar token to stabilize a dying creature beside you. Its dying condition ends; it stays unconscious with 0 HP.",
+      "text | If you spend 2 actions, you also speak a brief folk blessing, giving the activity the auditory trait. Roll a DC 10 flat check for each source of persistent damage on the target. Each success ends that source.",
+      "fill | 1",
+      "text | <small>Dark Archive (Remastered), p. 42<br><a href=\"https://2e.aonprd.com/Feats.aspx?ID=8357\">Archives of Nethys · Rules reference</a></small>"
+    ],
+    "tags": [],
+    "uuid": "845a4663-7441-46bc-908c-0ef8cdd7ef73",
+    "color_front": "#254d3f",
+    "card_type": "<span style=\"font-size:9pt\">Reward Feat 1</span>",
+    "card_font_size": "11",
+    "auto_fit_font_size": true,
+    "title_display": "<span style=\"white-space:nowrap\">Root to Life <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 271 72\" height=\"0.85em\" style=\"vertical-align:-0.08em\" aria-label=\"1 action to 2 actions\"><g fill=\"currentColor\"><polygon points=\"12,36 25,23 38,36 25,49\"/><polygon points=\"48,0 31,17 49,36 31,54 48,72 84,36\"/></g><text x=\"119\" y=\"52\" text-anchor=\"middle\" fill=\"currentColor\" font-family=\"Georgia,serif\" font-size=\"49\" font-weight=\"normal\" style=\"font-variant:normal;text-transform:none\">to</text><g fill=\"currentColor\"><polygon points=\"157,36 170,23 183,36 170,49\"/><polygon points=\"193,0 176,17 194,36 176,54 193,72 229,36\"/><polygon points=\"239,4 224,19 240,36 224,53 239,68 271,36\"/></g></svg></span>",
+    "title_size": "11"
+  }
+]
